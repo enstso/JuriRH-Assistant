@@ -1,0 +1,399 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Assistant RH/Juridique — Client web</title>
+  <style>
+    :root { --bg:#0b1020; --card:#111936; --muted:#94a3b8; --text:#e5e7eb; --accent:#22c55e; --danger:#ef4444; }
+    *{box-sizing:border-box}
+    body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial; background:linear-gradient(135deg,#0b1020,#0f172a); color:var(--text);}
+    .wrap{max-width:980px;margin:0 auto;padding:24px;}
+    .grid{display:grid;gap:16px;}
+    .card{background:rgba(17,25,54,.9); border:1px solid rgba(148,163,184,.15); border-radius:16px; padding:16px; box-shadow:0 10px 30px rgba(0,0,0,.25);}
+    h1{font-size:20px;margin:0 0 6px;}
+    p{margin:6px 0;color:var(--muted); line-height:1.35;}
+    label{display:block; font-size:13px; color:var(--muted); margin:10px 0 6px;}
+    input, select, textarea, button{
+      width:100%; padding:12px 12px; border-radius:12px;
+      border:1px solid rgba(148,163,184,.2); background:#0b1228; color:var(--text);
+      outline:none;
+    }
+    textarea{min-height:110px; resize:vertical;}
+    button{cursor:pointer; border:1px solid rgba(34,197,94,.35); background:rgba(34,197,94,.15); font-weight:600;}
+    button:hover{background:rgba(34,197,94,.22);}
+    .row{display:grid; gap:12px; grid-template-columns:1fr;}
+    @media (min-width:780px){ .row{grid-template-columns:2fr 1fr;} }
+    .topbar{display:flex; gap:10px; align-items:center; justify-content:space-between; margin-bottom:12px;}
+    .pill{font-size:12px; color:var(--muted); border:1px solid rgba(148,163,184,.2); padding:6px 10px; border-radius:999px;}
+    .hidden{display:none !important;}
+    .chat{
+      display:flex; flex-direction:column; gap:10px; max-height:55vh; overflow:auto; padding-right:4px;
+    }
+    .msg{padding:12px 12px; border-radius:14px; border:1px solid rgba(148,163,184,.15);}
+    .msg.user{background:rgba(59,130,246,.10); align-self:flex-end; max-width:85%;}
+    .msg.bot{background:rgba(2,132,199,.10); align-self:flex-start; max-width:92%;}
+    .meta{margin-top:8px; font-size:12px; color:var(--muted);}
+    .cit{margin-top:8px; padding:10px; border-radius:12px; background:rgba(148,163,184,.08); border:1px dashed rgba(148,163,184,.25);}
+    .cit ul{margin:8px 0 0 18px; color:var(--muted);}
+    .err{color:var(--danger); font-size:13px; margin-top:10px;}
+    .small{font-size:12px;color:var(--muted);}
+    code{background:rgba(148,163,184,.12); padding:2px 6px; border-radius:8px;}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="topbar">
+      <div>
+        <h1>Assistant RH/Juridique — Client web</h1>
+        <p class="small">Page HTML “connectée” à ton API FastAPI (<code>/ask</code>) pour tester ton RAG Llama 3.</p>
+      </div>
+      <div class="pill" id="statusPill">Non connecté</div>
+    </div>
+
+    <!-- CONNEXION -->
+    <div class="card" id="connectCard">
+      <h2 style="margin:0 0 8px; font-size:16px;">Connexion</h2>
+      <p>Renseigne l’URL de ton API. Exemple : <code>http://localhost:8000</code></p>
+
+      <div class="row">
+        <div>
+          <label for="apiBase">URL API (base)</label>
+          <input id="apiBase" placeholder="http://localhost:8000" />
+        </div>
+        <div>
+          <label for="country">Pays (filtre)</label>
+          <select id="country">
+            <option value="FR" selected>FR</option>
+            <option value="BE">BE</option>
+            <option value="CH">CH</option>
+            <option value="">(aucun)</option>
+          </select>
+        </div>
+      </div>
+
+      <label for="token">Token (optionnel)</label>
+      <input id="token" placeholder="Bearer token (si ton API est protégée)" />
+
+      <div style="display:flex; gap:10px; margin-top:12px; flex-wrap:wrap;">
+        <button id="btnConnect" style="flex:1;">Connecter</button>
+        <button id="btnReset" style="flex:1; border-color:rgba(148,163,184,.25); background:rgba(148,163,184,.08);">Réinitialiser</button>
+      </div>
+
+      <div id="connectMsg" class="small" style="margin-top:10px;"></div>
+      <div class="small" style="margin-top:10px;">
+        ⚠️ Si le navigateur bloque la requête (CORS), ajoute CORS côté FastAPI (CORSMiddleware).
+      </div>
+    </div>
+
+    <!-- CHAT -->
+    <div class="grid hidden" id="chatArea">
+      <div class="card">
+        <div style="display:flex; gap:10px; justify-content:space-between; align-items:center; flex-wrap:wrap;">
+          <div>
+            <h2 style="margin:0; font-size:16px;">Chat</h2>
+            <p class="small" id="apiInfo"></p>
+          </div>
+          <div style="display:flex; gap:10px;">
+            <button id="btnDisconnect" style="border-color:rgba(148,163,184,.25); background:rgba(148,163,184,.08);">Déconnecter</button>
+            <button id="btnClear" style="border-color:rgba(148,163,184,.25); background:rgba(148,163,184,.08);">Vider</button>
+          </div>
+        </div>
+
+        <div class="chat" id="chat"></div>
+
+        <label for="q">Question</label>
+        <textarea id="q" placeholder="Ex: Combien de jours de congés payés par an ?"></textarea>
+
+        <div class="row" style="margin-top:10px;">
+          <div>
+            <label for="temperature">Température (optionnel)</label>
+            <input id="temperature" type="number" step="0.1" min="0" max="1.5" value="0.2" />
+          </div>
+          <div>
+            <label for="topk">Top-K (retrieval)</label>
+            <input id="topk" type="number" step="1" min="1" max="20" value="6" />
+          </div>
+        </div>
+
+        <div style="display:flex; gap:10px; margin-top:12px;">
+          <button id="btnSend" style="flex:1;">Envoyer</button>
+        </div>
+
+        <div id="err" class="err hidden"></div>
+      </div>
+
+      <div class="card">
+        <h2 style="margin:0 0 8px; font-size:16px;">Format attendu</h2>
+        <p class="small">
+          Cette page tente d’afficher <b>answer</b> + <b>citations</b> si ton endpoint renvoie du JSON structuré.
+          Si ton API renvoie juste du texte, ça marche aussi.
+        </p>
+        <pre style="white-space:pre-wrap; margin:0; color:var(--muted); font-size:12px;">
+POST /ask
+{
+  "question": "...",
+  "filters": {"country":"FR"},
+  "top_k": 6,
+  "temperature": 0.2
+}
+        </pre>
+      </div>
+    </div>
+  </div>
+
+<script>
+  const els = {
+    apiBase: document.getElementById('apiBase'),
+    token: document.getElementById('token'),
+    country: document.getElementById('country'),
+    btnConnect: document.getElementById('btnConnect'),
+    btnReset: document.getElementById('btnReset'),
+    btnDisconnect: document.getElementById('btnDisconnect'),
+    btnClear: document.getElementById('btnClear'),
+    connectMsg: document.getElementById('connectMsg'),
+    connectCard: document.getElementById('connectCard'),
+    chatArea: document.getElementById('chatArea'),
+    chat: document.getElementById('chat'),
+    q: document.getElementById('q'),
+    btnSend: document.getElementById('btnSend'),
+    err: document.getElementById('err'),
+    statusPill: document.getElementById('statusPill'),
+    apiInfo: document.getElementById('apiInfo'),
+    temperature: document.getElementById('temperature'),
+    topk: document.getElementById('topk'),
+  };
+
+  const store = {
+    get() {
+      return {
+        apiBase: localStorage.getItem('apiBase') || 'http://localhost:8000',
+        token: localStorage.getItem('token') || '',
+        country: localStorage.getItem('country') || 'FR',
+      };
+    },
+    set(v) {
+      if (typeof v.apiBase === 'string') localStorage.setItem('apiBase', v.apiBase);
+      if (typeof v.token === 'string') localStorage.setItem('token', v.token);
+      if (typeof v.country === 'string') localStorage.setItem('country', v.country);
+    },
+    clear() {
+      localStorage.removeItem('apiBase');
+      localStorage.removeItem('token');
+      localStorage.removeItem('country');
+    }
+  };
+
+  function setStatus(connected) {
+    if (connected) {
+      els.statusPill.textContent = 'Connecté';
+      els.statusPill.style.borderColor = 'rgba(34,197,94,.45)';
+      els.statusPill.style.color = 'var(--accent)';
+    } else {
+      els.statusPill.textContent = 'Non connecté';
+      els.statusPill.style.borderColor = 'rgba(148,163,184,.2)';
+      els.statusPill.style.color = 'var(--muted)';
+    }
+  }
+
+  function showError(msg) {
+    els.err.textContent = msg;
+    els.err.classList.remove('hidden');
+  }
+  function clearError() {
+    els.err.textContent = '';
+    els.err.classList.add('hidden');
+  }
+
+  function addMessage(role, text, extra = null) {
+    const div = document.createElement('div');
+    div.className = 'msg ' + (role === 'user' ? 'user' : 'bot');
+    div.textContent = text;
+
+    if (extra && typeof extra === 'object') {
+      const meta = document.createElement('div');
+      meta.className = 'meta';
+      meta.textContent = extra.meta || '';
+      div.appendChild(meta);
+
+      if (Array.isArray(extra.citations) && extra.citations.length) {
+        const cit = document.createElement('div');
+        cit.className = 'cit';
+        const title = document.createElement('div');
+        title.textContent = 'Sources / citations';
+        cit.appendChild(title);
+
+        const ul = document.createElement('ul');
+        extra.citations.forEach(c => {
+          const li = document.createElement('li');
+          li.textContent = c;
+          ul.appendChild(li);
+        });
+        cit.appendChild(ul);
+        div.appendChild(cit);
+      }
+    }
+
+    els.chat.appendChild(div);
+    els.chat.scrollTop = els.chat.scrollHeight;
+  }
+
+  async function healthCheck(apiBase, token) {
+    const headers = {};
+    if (token && token.trim()) headers['Authorization'] = token.startsWith('Bearer ') ? token : ('Bearer ' + token);
+    const base = apiBase.replace(/\/+$/,'');
+    const urls = [`${base}/health`, `${base}/`];
+    for (const u of urls) {
+      try {
+        const r = await fetch(u, { method:'GET', headers });
+        if (r.ok) return true;
+      } catch (e) {}
+    }
+    return false;
+  }
+
+  async function ask(apiBase, token, question, filters, top_k, temperature) {
+    const headers = { 'Content-Type': 'application/json' };
+    if (token && token.trim()) headers['Authorization'] = token.startsWith('Bearer ') ? token : ('Bearer ' + token);
+
+    const payload = { question, filters, top_k, temperature };
+    const url = `${apiBase.replace(/\/+$/,'')}/ask`;
+
+    const r = await fetch(url, { method:'POST', headers, body: JSON.stringify(payload) });
+    const contentType = (r.headers.get('content-type') || '').toLowerCase();
+    const text = await r.text();
+
+    if (!r.ok) {
+      let errMsg = text;
+      try { errMsg = JSON.parse(text).detail || JSON.parse(text).message || text; } catch (e) {}
+      throw new Error(errMsg || `Erreur HTTP ${r.status}`);
+    }
+
+    if (contentType.includes('application/json')) {
+      try { return JSON.parse(text); } catch (e) { return { answer: text }; }
+    }
+    return { answer: text };
+  }
+
+  function setConnectedUI(connected, apiBase = '', country = '') {
+    if (connected) {
+      els.connectCard.classList.add('hidden');
+      els.chatArea.classList.remove('hidden');
+      els.apiInfo.textContent = `API: ${apiBase} — filtre pays: ${country || '(aucun)'}`;
+    } else {
+      els.connectCard.classList.remove('hidden');
+      els.chatArea.classList.add('hidden');
+      els.apiInfo.textContent = '';
+    }
+    setStatus(connected);
+  }
+
+  // Init
+  (function init() {
+    const s = store.get();
+    els.apiBase.value = s.apiBase;
+    els.token.value = s.token;
+    els.country.value = s.country || 'FR';
+    setConnectedUI(false);
+    setStatus(false);
+    els.connectMsg.textContent = '';
+  })();
+
+  els.btnReset.addEventListener('click', () => {
+    store.clear();
+    const s = store.get();
+    els.apiBase.value = s.apiBase;
+    els.token.value = s.token;
+    els.country.value = s.country || 'FR';
+    els.connectMsg.textContent = 'Réinitialisé.';
+    els.connectMsg.className = 'small';
+  });
+
+  els.btnConnect.addEventListener('click', async () => {
+    const apiBase = (els.apiBase.value || '').trim();
+    const token = (els.token.value || '').trim();
+    const country = (els.country.value || '').trim();
+
+    if (!apiBase) {
+      els.connectMsg.textContent = 'Merci de renseigner une URL API.';
+      els.connectMsg.className = 'small';
+      return;
+    }
+
+    els.connectMsg.textContent = 'Test de connexion...';
+    els.connectMsg.className = 'small';
+
+    const ok = await healthCheck(apiBase, token);
+    if (!ok) {
+      els.connectMsg.textContent = "Connexion impossible. Vérifie que l'API est démarrée et accessible (et CORS).";
+      els.connectMsg.className = 'small';
+      return;
+    }
+
+    store.set({ apiBase, token, country });
+    setConnectedUI(true, apiBase, country);
+    addMessage('bot', "Connecté ✅ Pose ta question ci-dessous.");
+  });
+
+  els.btnDisconnect.addEventListener('click', () => {
+    setConnectedUI(false);
+    els.chat.innerHTML = '';
+    clearError();
+  });
+
+  els.btnClear.addEventListener('click', () => {
+    els.chat.innerHTML = '';
+    clearError();
+  });
+
+  els.btnSend.addEventListener('click', async () => {
+    clearError();
+    const s = store.get();
+    const apiBase = s.apiBase;
+    const token = s.token;
+    const country = s.country;
+
+    const question = (els.q.value || '').trim();
+    if (!question) return;
+
+    const top_k = parseInt(els.topk.value || '6', 10);
+    const temperature = parseFloat(els.temperature.value || '0.2');
+
+    addMessage('user', question);
+    els.q.value = '';
+    els.btnSend.disabled = true;
+    els.btnSend.textContent = 'Envoi...';
+
+    try {
+      const res = await ask(apiBase, token, question, { country }, top_k, temperature);
+
+      const answer = res.answer || res.text || (typeof res === 'string' ? res : JSON.stringify(res, null, 2));
+
+      let citations = [];
+      if (Array.isArray(res.citations)) citations = res.citations;
+      if (Array.isArray(res.sources)) citations = res.sources;
+      if (Array.isArray(res.context)) citations = res.context.map(x => x.source || x.id || JSON.stringify(x));
+
+      const meta = [];
+      if (res.latency_ms != null) meta.push(`latence: ${res.latency_ms} ms`);
+      if (res.model) meta.push(`modèle: ${res.model}`);
+      if (res.top_k) meta.push(`top_k: ${res.top_k}`);
+      const metaStr = meta.length ? meta.join(' · ') : '';
+
+      addMessage('bot', answer, { citations, meta: metaStr });
+    } catch (e) {
+      showError(String(e.message || e));
+    } finally {
+      els.btnSend.disabled = false;
+      els.btnSend.textContent = 'Envoyer';
+    }
+  });
+
+  els.q.addEventListener('keydown', (ev) => {
+    if (ev.ctrlKey && ev.key === 'Enter') {
+      els.btnSend.click();
+    }
+  });
+</script>
+</body>
+</html>

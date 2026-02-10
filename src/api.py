@@ -8,10 +8,18 @@ from .config import load_config
 from .llm_client import make_llm
 from .retrieval import HybridRetriever
 from .rag import ask_rag
+from fastapi.middleware.cors import CORSMiddleware
 
 
 app = FastAPI(title="Assistant juridique RH (RAG) — OpenSource")
 
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 class AskRequest(BaseModel):
     question: str = Field(..., min_length=3)
