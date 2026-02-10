@@ -1,0 +1,3 @@
+{"id": "q1", "question": "Combien de jours de congés payés acquiert-on par mois à temps plein ?", "filters": {"country": "FR"}, "expected_contains": ["2,5", "jours"], "expected_doc_hint": "politique_conges_fictive"}
+{"id": "q2", "question": "Quel est le maximum de jours de télétravail par semaine ?", "filters": {"country": "FR"}, "expected_contains": ["2 jours", "par semaine"], "expected_doc_hint": "accord_teletravail_fictif"}
+{"id": "q3", "question": "Quel est le délai de rétractation après une rupture conventionnelle ?", "filters": {"country": "FR"}, "expected_contains": ["15", "jours"], "expected_doc_hint": "guide_rupture_fictif"}

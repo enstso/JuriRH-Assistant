@@ -1,0 +1,5 @@
+[project]
+name = "assistant-juridique-opensource"
+version = "1.0.0"
+description = "Assistant juridique RH (RAG) avec LLM open-source via Ollama"
+requires-python = ">=3.10"

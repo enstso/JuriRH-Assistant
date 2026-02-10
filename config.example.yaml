@@ -1,0 +1,33 @@
+# Exemple de configuration
+project:
+  name: "assistant-juridique-opensource"
+  language: "fr"
+
+paths:
+  index_dir: "data/index"
+  logs_dir: "data/logs"
+
+llm:
+  backend: "ollama"     # ollama | vllm_openai
+  model: "mistral"      # ex: mistral | qwen2.5:7b | mixtral:8x7b
+  ollama_base_url: "http://localhost:11434"
+  temperature: 0.2
+  max_tokens: 700
+
+retrieval:
+  top_k_dense: 8
+  top_k_bm25: 12
+  top_k_final: 8
+  alpha: 0.55           # poids dense vs bm25 (0..1)
+  rerank: false
+
+embeddings:
+  model_name: "intfloat/multilingual-e5-small"
+  batch_size: 32
+
+chunking:
+  chunk_size: 900       # caractères (simple et robuste)
+  overlap: 120
+
+security:
+  refuse_if_no_context: true

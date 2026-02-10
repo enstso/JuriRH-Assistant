@@ -1,0 +1,9 @@
+services:
+  api:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      - PYTHONPATH=/app
+    # Ollama tourne généralement hors conteneur (localhost). 
+    # Si tu veux le containeriser, ajoute un service ollama et adapte l'URL.
