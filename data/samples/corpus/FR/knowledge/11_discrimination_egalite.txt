@@ -1,0 +1,250 @@
+Date de préparation: 2026-02-11
+Titre: Discrimination & égalité (définition, obligations, preuves, prévention)
+Doc_ID: discrimination_egalite
+Pays: FR
+Langue: fr
+Domaine: Droit du travail (RH) / Non-discrimination / Égalité professionnelle
+Périmètre: Salariés et candidats (recrutement, stage, formation, exécution du contrat, rémunération, promotion, sanctions, rupture)
+Date de consultation des sources: 2026-02-11
+Sources officielles principales: Légifrance (Code pénal, Code du travail, Loi 2008-496) + Ministère du Travail et des Solidarités (travail-emploi.gouv.fr) + Code du travail numérique (code.travail.gouv.fr) + Défenseur des droits (defenseurdesdroits.fr) + Service-Public.fr (service-public.gouv.fr) + Antidiscriminations.fr
+
+Mots-clés: discrimination, discrimination directe, discrimination indirecte, harcèlement discriminatoire, égalité de traitement, égalité de rémunération, preuve, charge de la preuve, présomption, comparateurs, testing, anti-représailles, signalement, enquête interne, prévention, Index égalité professionnelle
+
+============================================================
+1) Contexte / principes
+============================================================
+- En droit du travail, la protection contre la discrimination vise les salariés ET les candidats (recrutement, stage, période de formation en entreprise).
+  Source: Code du travail, art. L1132-1 (Légifrance).
+- Les décisions RH (embauche, rémunération, formation, promotion, sanctions, mutation, licenciement, renouvellement…) doivent être fondées sur des critères professionnels (objectifs) et non sur un motif prohibé.
+  Source: Ministère du Travail – page "Égalité professionnelle, discrimination et harcèlement".
+
+============================================================
+2) Définitions utiles (juridiques et RH)
+============================================================
+2.1 Discrimination (définition pénale – socle général)
+- Constitue une discrimination toute distinction opérée entre personnes (physiques) sur des critères listés (ex. origine, sexe, situation de famille, grossesse, état de santé, handicap, identité de genre, orientation sexuelle, âge, opinions, activités syndicales, religion, qualité de lanceur d’alerte, etc.).
+  Source: Code pénal, art. 225-1 (Légifrance).
+
+2.2 Discrimination directe / indirecte (définitions légales transversales)
+- Discrimination directe: une personne est traitée moins favorablement qu’une autre dans une situation comparable, sur un motif prohibé.
+  Source: Loi n°2008-496 du 27 mai 2008, art. 1 (Légifrance).
+- Discrimination indirecte: une disposition, un critère ou une pratique apparemment neutre est susceptible d’entraîner un désavantage particulier pour des personnes par rapport à d’autres, sur un motif prohibé (sauf justification objective et proportionnée).
+  Source: Loi n°2008-496 du 27 mai 2008, art. 1 (Légifrance).
+
+2.3 Harcèlement discriminatoire / injonction de discriminer
+- La loi encadre les faits qui constituent une discrimination, y compris des situations assimilées (ex. harcèlement lié à un motif prohibé, injonction de discriminer).
+  Source: Loi n°2008-496 du 27 mai 2008, art. 1 (Légifrance).
+
+2.4 Égalité de rémunération femmes-hommes (règle autonome)
+- Pour un même travail ou un travail de valeur égale, l’employeur assure l’égalité de rémunération entre les femmes et les hommes.
+  Source: Code du travail, art. L3221-2 (Légifrance / Code du travail numérique).
+
+============================================================
+3) Interdictions et obligations clés pour l’employeur (RH)
+============================================================
+3.1 Interdiction des discriminations au travail (décisions RH concernées)
+- Aucune personne ne peut être écartée d’un recrutement/nomination ou de l’accès à un stage/formation ; aucun salarié ne peut être sanctionné/licencié ni subir une mesure discriminatoire (directe ou indirecte) notamment en matière de rémunération, formation, reclassement, affectation, qualification, classification, promotion, horaires, évaluation, mutation, renouvellement de contrat, etc.
+  Source: Code du travail, art. L1132-1 (Légifrance).
+
+3.2 Nullité de l’acte/disposition discriminatoire (risque contentieux fort)
+- Toute disposition ou tout acte pris en méconnaissance du chapitre "Principe de non-discrimination" est nul.
+  Source: Code du travail, art. L1132-4 (Légifrance).
+
+3.3 Anti-représailles (témoins / personnes ayant relaté des faits)
+- Aucun salarié ne peut être sanctionné/licencié ni faire l’objet d’une mesure discriminatoire pour avoir témoigné des agissements discriminatoires ou pour les avoir relatés.
+  Source: Code du travail, art. L1132-3 (Légifrance).
+- Aucune personne ayant témoigné de bonne foi d’un agissement discriminatoire ou l’ayant relaté ne peut être traitée défavorablement de ce fait; aucune décision défavorable ne peut être fondée sur la soumission ou le refus de se soumettre à une discrimination.
+  Source: Loi n°2008-496 du 27 mai 2008, art. 3 (Légifrance).
+
+3.4 Obligation de prévention (obligation de sécurité – santé physique et mentale)
+- L’employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs (prévention, information/formation, organisation et moyens adaptés).
+  Source: Code du travail, art. L4121-1 (Légifrance / Code du travail numérique).
+
+============================================================
+4) Preuve en matière de discrimination (régime probatoire “aménagé”)
+============================================================
+4.1 Charge de la preuve partagée (prud’hommes / civil)
+- La personne qui s’estime victime présente des éléments/faits permettant de présumer une discrimination.
+- Ensuite l’employeur doit prouver que sa décision est justifiée par des éléments objectifs étrangers à toute discrimination.
+- Le juge peut ordonner des mesures d’instruction utiles.
+  Sources: Code du travail, art. L1134-1 (Légifrance) + Loi n°2008-496, art. 4 (Légifrance).
+
+4.2 Conséquence RH: la traçabilité doit être anticipée
+- Les critères professionnels doivent être définis et appliqués avant la décision (recrutement, promotion, sanction, rémunération…).
+- Un dossier de décision RH doit pouvoir démontrer: (i) critères légitimes et (ii) application cohérente à des situations comparables.
+
+4.3 “Testing” / test de discrimination (utile comme indice)
+- Le Défenseur des droits publie une fiche pratique “Le test de discrimination, une méthodologie à respecter” (types de tests et méthode).
+  Source: Défenseur des droits (fiche pratique + PDF).
+- En pénal, les délits de discrimination sont constitués même s’ils sont commis à l’encontre de personnes ayant sollicité un bien/service/acte/contrat dans le but de démontrer un comportement discriminatoire, dès lors que la preuve est établie.
+  Source: Code pénal, art. 225-3-1 (Légifrance).
+
+============================================================
+5) Prescription (action en réparation – secteur privé)
+============================================================
+- L’action en réparation du préjudice résultant d’une discrimination se prescrit par 5 ans à compter de la révélation de la discrimination.
+- Ce délai n’est pas susceptible d’aménagement conventionnel.
+- Les dommages et intérêts réparent l’entier préjudice pendant toute sa durée.
+  Source: Code du travail, art. L1134-5 (Légifrance).
+
+============================================================
+6) Exceptions / différences de traitement admises (à manier avec prudence)
+============================================================
+- L’article L1132-1 ne fait pas obstacle aux différences de traitement lorsqu’elles répondent à une exigence professionnelle essentielle et déterminante, et pour autant que l’objectif soit légitime et l’exigence proportionnée.
+  Source: Code du travail, art. L1133-1 (Légifrance).
+- Point RH: une “différence de traitement” doit être documentée (objectif, nécessité, proportionnalité) et évaluée au cas par cas.
+
+============================================================
+7) Prévention et conformité organisationnelle (RH)
+============================================================
+7.1 Recrutement: sécuriser le process (DDD)
+- Le Défenseur des droits publie un guide “Pour un recrutement sans discrimination” (approche juridique et pratique, étapes, bonnes pratiques).
+  Source: Défenseur des droits (page + PDF).
+
+7.2 Former et outiller (Ministère du Travail)
+- Le Ministère du Travail publie un “Référentiel de formation pour prévenir les discriminations dans l’emploi” (mai 2025).
+  Source: Ministère du Travail (PDF).
+
+7.3 Index de l’égalité professionnelle (entreprises >= 50 salariés)
+- Chaque année au plus tard le 1er mars, les entreprises d’au moins 50 salariés doivent calculer et publier la note globale et la note de chaque indicateur, et les maintenir en ligne jusqu’à la publication suivante.
+- Elles doivent aussi communiquer l’Index (et le détail des indicateurs) au CSE et à l’inspection du travail (Dreets).
+- Depuis 2022:
+  * Index < 85: objectifs de progression à fixer et publier
+  * Index < 75: mesures de correction et de rattrapage à publier
+  Source: Ministère du Travail – “Index de l’égalité professionnelle : calcul et questions/réponses”.
+
+- Une pénalité pouvant atteindre 1% de la masse salariale annuelle peut s’appliquer en cas de non-publication (notamment absence de publication visible et lisible).
+  Source: Service-Public Entreprendre (actualité Index).
+
+============================================================
+8) Traitement d’un signalement interne (méthodologie recommandée)
+============================================================
+8.1 Référentiel DDD – décision-cadre (06 février 2025)
+- Le Défenseur des droits recommande une méthodologie d’enquête interne respectant: confidentialité, impartialité, objectivité, rigueur.
+- Si un signalement nécessite des investigations, l’employeur est tenu d’ouvrir une enquête interne et de prendre des mesures conservatoires pour protéger la victime présumée.
+- L’enquête peut être interne ou confiée à un prestataire extérieur, pour établir un “faisceau d’indices convergents”. Si discrimination confirmée et auteur identifié, l’employeur doit sanctionner.
+  Source: Défenseur des droits – page “Recueil et traitement des signalements…”.
+
+8.2 Trame opérationnelle (RAG-friendly)
+Étape 1: Recueil du signalement
+- Canal interne (RH / référent / manager formé) + rappel anti-représailles + confidentialité
+- Accusé de réception, premières mesures de protection si besoin
+
+Étape 2: Qualification
+- Décision contestée (recrutement, rémunération, sanction, etc.)
+- Critère(s) potentiellement en cause, comparateurs, chronologie
+
+Étape 3: Collecte d’éléments
+- Documents RH: fiches de poste, critères d’évaluation, grilles salariales, notes d’entretien, scoring de recrutement, décisions, emails/messages, témoins, etc.
+  Source pratique: Service-Public – “Discrimination au travail”.
+
+Étape 4: Enquête / analyse
+- Recherche de cohérence avec les critères pro (application uniforme)
+- Faisceau d’indices, hypothèses alternatives (motifs objectifs)
+
+Étape 5: Décision / suites
+- Mesures correctives (réexamen, rattrapage, changement de process)
+- Sanction disciplinaire si faute avérée (le cas échéant)
+- Traçabilité de la décision (motifs objectifs)
+
+============================================================
+9) Sanctions (pénales) – repères
+============================================================
+- La discrimination (définie aux articles 225-1 à 225-1-2) est punie de 3 ans d’emprisonnement et de 45 000 € d’amende lorsqu’elle consiste notamment à refuser d’embaucher, à sanctionner ou à licencier une personne (liste complète à l’article 225-2).
+  Source: Code pénal, art. 225-2 (Légifrance).
+
+============================================================
+10) Orientation externe (information et accompagnement)
+============================================================
+- Antidiscriminations.fr (juristes du Défenseur des droits): téléphone 39 28 et accompagnement.
+  Sources: Défenseur des droits – page Antidiscriminations.fr + Antidiscriminations.fr (plateforme).
+
+============================================================
+11) Checklist RH (résumé actionnable)
+============================================================
+- Avant décision RH: définir critères pro, nécessaires et proportionnés; consigner les éléments (grilles, évaluations, comparateurs).
+- Recrutement: fiche de poste, grille d’entretien, critères identiques, archivage des décisions.
+- Rémunération: cohérence “travail égal / valeur égale”; justification des écarts (compétences, performance, expérience, responsabilités).
+- Signalement: canal clair; confidentialité; anti-représailles; mesures conservatoires si risque; enquête rigoureuse.
+- Prévention: formation (RH/managers), communication interne, suivi d’indicateurs, audit de process.
+- Entreprises >= 50: Index égalité (calcul + publication au plus tard 1er mars + communication au CSE + transmission Dreets).
+
+============================================================
+12) Références (articles / pages officielles)
+============================================================
+A) Légifrance
+- Code pénal: art. 225-1 (définition discrimination)
+- Code pénal: art. 225-2 (sanctions et cas typiques dont refus d’embauche/sanction/licenciement)
+- Code pénal: art. 225-3-1 (testing / infractions constituées même si démarche probatoire)
+- Code du travail: art. L1132-1 (interdiction des discriminations au travail, salariés et candidats)
+- Code du travail: art. L1132-3 (protection témoins / personnes ayant relaté)
+- Code du travail: art. L1132-4 (nullité de l’acte/disposition)
+- Code du travail: art. L1133-1 (différences de traitement: exigence professionnelle essentielle et déterminante, légitime, proportionnée)
+- Code du travail: art. L1134-1 (charge de la preuve aménagée)
+- Code du travail: art. L1134-5 (prescription 5 ans + réparation intégrale)
+- Code du travail: art. L3221-2 (égalité de rémunération femmes-hommes)
+- Code du travail: art. L4121-1 (obligation de sécurité: santé physique et mentale)
+- Loi n°2008-496: art. 1 (définitions discrimination directe/indirecte et situations assimilées)
+- Loi n°2008-496: art. 3 (anti-représailles / interdiction décision défavorable liée à la discrimination)
+- Loi n°2008-496: art. 4 (charge de la preuve aménagée)
+
+B) Ministère du Travail et des Solidarités (travail-emploi.gouv.fr)
+- Égalité professionnelle, discrimination et harcèlement (page thématique)
+- Index de l’égalité professionnelle: calcul et questions/réponses (deadline 1er mars, publication, CSE, Dreets, seuils <85 / <75)
+- Référentiel de formation pour prévenir les discriminations dans l’emploi (PDF – mai 2025)
+
+C) Défenseur des droits (defenseurdesdroits.fr)
+- Recommandations sur le recueil des signalements et l’enquête interne (06/02/2025)
+- Guide “Pour un recrutement sans discrimination” (page + PDF)
+- Fiche pratique “Le test de discrimination, une méthodologie à respecter” (page + PDF)
+- Fiche “Prévention” (PDF)
+
+D) Service-Public.fr
+- Discrimination au travail (F1642)
+- (optionnel) Qu’est-ce que la discrimination ? (repères sanctions, définition grand public)
+
+E) Antidiscriminations.fr
+- Le Défenseur des droits (présentation)
+- Page d’accueil / contact (39 28, horaires, confidentialité)
+
+============================================================
+13) URLs (copier-coller) – sources officielles uniquement
+============================================================
+LÉGIFRANCE
+- https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045391831  (Code pénal, art. 225-1)
+- https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033975382  (Code pénal, art. 225-2)
+- https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417838  (Code pénal, art. 225-3-1)
+- https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045391841  (Code du travail, art. L1132-1)
+- https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006900790  (Code du travail, art. L1132-3)
+- https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045391813  (Code du travail, art. L1132-4)
+- https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018881575  (Code du travail, art. L1133-1)
+- https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033461510  (Code du travail, art. L1134-1)
+- https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033461494  (Code du travail, art. L1134-5)
+- https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902818  (Code du travail, art. L3221-2)
+- https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828  (Code du travail, art. L4121-1)
+- https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000034110511 (Loi 2008-496, art. 1)
+- https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000018880609 (Loi 2008-496, art. 3)
+- https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033975397 (Loi 2008-496, art. 4)
+
+MINISTÈRE DU TRAVAIL / CODE DU TRAVAIL NUMÉRIQUE
+- https://travail-emploi.gouv.fr/droit-du-travail/egalite-professionnelle-discrimination-et-harcelement
+- https://travail-emploi.gouv.fr/index-de-legalite-professionnelle-calcul-et-questionsreponses
+- https://travail-emploi.gouv.fr/sites/travail-emploi/files/2025-05/R%C3%A9f%C3%A9rentiel%20de%20formation%20pour%20pr%C3%A9venir%20les%20discriminations%20dans%20l%E2%80%99emploi%20-%20Mai%202025.pdf
+- https://code.travail.gouv.fr/code-du-travail/l3221-2
+- https://code.travail.gouv.fr/code-du-travail/l4121-1
+- https://code.travail.gouv.fr/code-du-travail/l1133-1
+
+DÉFENSEUR DES DROITS
+- https://www.defenseurdesdroits.fr/recueil-et-traitement-des-signalements-de-discrimination-et-de-harcelement-sexuel-dans-lemploi-le
+- https://www.defenseurdesdroits.fr/guide-pour-un-recrutement-sans-discrimination-175
+- https://www.defenseurdesdroits.fr/sites/default/files/2023-03/DDD_guide_recrutement-sans-discrimination_20190703.pdf
+- https://www.defenseurdesdroits.fr/fiche-pratique-le-test-de-discrimination-une-methodologie-respecter-176
+- https://www.defenseurdesdroits.fr/sites/default/files/2023-03/DDD_fiche-pratique_methodologie-test-discrimination_20200408.pdf
+- https://www.defenseurdesdroits.fr/sites/default/files/2024-02/FICHE4_Prevention_0.pdf
+- https://www.defenseurdesdroits.fr/antidiscriminationsfr-39-28-494
+
+SERVICE-PUBLIC / ANTIDISCRIMINATIONS
+- https://www.service-public.gouv.fr/particuliers/vosdroits/F1642
+- https://entreprendre.service-public.gouv.fr/actualites/A18025
+- https://www.antidiscriminations.fr/
+- https://www.antidiscriminations.fr/le-defenseur-des-droits

@@ -1,0 +1,310 @@
+doc_id: temps_travail
+title: Temps de travail (durée légale, heures supplémentaires, repos, pauses, forfaits, travail de nuit)
+country: FR
+domain: Droit du travail / RH (salariés du secteur privé)
+prepared_at: 2026-02-11
+consulted_at: 2026-02-11
+version_note: "Code du travail (Légifrance) consulté en version en vigueur au 12/02/2026 ; pages sites officiels consultées au 11/02/2026"
+keywords: durée légale; temps de travail effectif; heures supplémentaires; contingent; majorations; COR; repos quotidien; repos hebdomadaire; pause; forfait heures; forfait jours; renonciation RTT; suivi charge; travail de nuit; travailleur de nuit
+
+===============================================================================
+1) PÉRIMÈTRE & PRINCIPES
+===============================================================================
+Périmètre :
+- Salariés du secteur privé (temps plein / temps partiel), en France.
+- Règles générales : un accord collectif (entreprise/établissement/branche) peut adapter certaines matières, dans les limites fixées par la loi.
+- Certains secteurs (transport, hôtellerie, etc.) ou statuts peuvent avoir des règles spécifiques : vérifier la convention collective / accords et, le cas échéant, les textes spéciaux.
+
+Principes :
+- La "durée légale" (35 h/semaine) est une durée de référence (notamment pour le déclenchement des heures supplémentaires à temps plein), et n’est pas un plafond absolu.
+- Les durées maximales (jour/semaine/moyenne) et les repos (quotidien/hebdo) forment le socle de protection santé/sécurité.
+- La preuve et la traçabilité (plannings, pointage, paie) sont des enjeux RH majeurs, surtout en cas de litige sur les heures effectuées.
+
+===============================================================================
+2) DÉFINITIONS OPÉRATIONNELLES
+===============================================================================
+2.1 Temps de travail effectif
+- Définition légale : temps pendant lequel le salarié est à la disposition de l’employeur, suit ses directives, sans pouvoir vaquer librement à des occupations personnelles.
+  Base légale : Code du travail, art. L3121-1.
+
+2.2 Pause / restauration
+- Les temps de pause/restauration sont du temps de travail effectif uniquement si les critères de L3121-1 sont réunis.
+  Base légale : Code du travail, art. L3121-2.
+
+2.3 Déplacements professionnels
+- Le trajet domicile ↔ lieu habituel de travail n’est pas du temps de travail effectif.
+- Le déplacement professionnel pour se rendre sur le lieu d’exécution du contrat n’est pas du temps de travail effectif ; s’il dépasse le temps normal de trajet domicile ↔ lieu habituel, il ouvre droit à une contrepartie (repos ou financière).
+  Base légale : Code du travail, art. L3121-4.
+
+2.4 Astreinte (rappel utile)
+- L’astreinte : période pendant laquelle le salarié, sans être sur son lieu de travail et sans être à disposition permanente et immédiate, doit pouvoir intervenir.
+- Les périodes d’intervention sont du temps de travail effectif.
+  Base légale : Code du travail, art. L3121-9.
+
+2.5 Heure supplémentaire (temps plein)
+- Toute heure accomplie au-delà de la durée légale de 35 h/semaine (sauf aménagement du temps de travail par accord) constitue une heure supplémentaire.
+  Base légale : Code du travail, art. L3121-28 ; art. L3121-27.
+- En pratique, l’heure supplémentaire suppose en principe une demande de l’employeur (ou, selon les situations, au moins son accord / absence d’opposition) : l’organisation interne et la preuve sont essentielles.
+
+===============================================================================
+3) DURÉE LÉGALE & TEMPS DE PAUSE
+===============================================================================
+3.1 Durée légale (référence)
+- Durée légale de travail effectif des salariés à temps complet : 35 heures par semaine.
+  Base légale : Code du travail, art. L3121-27.
+  Source pédagogique : Ministère du Travail ("La durée légale du travail").
+
+3.2 Pause minimale
+- Dès que le temps de travail quotidien atteint 6 heures, le salarié bénéficie d’un temps de pause d’au moins 20 minutes consécutives.
+  Base légale : Code du travail, art. L3121-16.
+  Source pédagogique : Service-Public.fr (F18205) ; Ministère du Travail ("La durée légale du travail").
+
+===============================================================================
+4) DURÉES MAXIMALES & REPOS
+===============================================================================
+ATTENTION : des dérogations existent (accord collectif, autorisation administrative, urgence...), mais elles sont encadrées et ne doivent pas devenir la norme.
+
+4.1 Durée quotidienne maximale (principe)
+- Durée quotidienne de travail effectif : 10 heures maximum par salarié.
+  Base légale : Code du travail, art. L3121-18.
+
+4.2 Durée hebdomadaire maximale (semaine)
+- Sur une même semaine : 48 heures maximum.
+  Base légale : Code du travail, art. L3121-20.
+
+4.3 Durée hebdomadaire moyenne (sur 12 semaines)
+- En moyenne sur 12 semaines consécutives : 44 heures maximum (principe), sauf cas prévus par la loi (accord/autorisation dans certaines limites).
+  Base légale : Code du travail, art. L3121-22.
+  Source pédagogique : Service-Public.fr (F1911).
+
+4.4 Dépassements exceptionnels (plafond renforcé)
+- Dans des circonstances exceptionnelles, l’autorité administrative peut autoriser un dépassement temporaire des durées hebdomadaires, dans une limite pouvant aller jusqu’à 60 heures sur une semaine.
+  Base légale : Code du travail, art. L3121-21.
+
+4.5 Repos quotidien
+- Repos quotidien minimal : 11 heures consécutives.
+  Base légale : Code du travail, art. L3131-1.
+  Source pédagogique : Ministère du Travail ("Le repos quotidien : principe et dérogations").
+
+4.6 Repos hebdomadaire
+- Interdiction de faire travailler un même salarié plus de 6 jours par semaine.
+  Base légale : Code du travail, art. L3132-1.
+- Repos hebdomadaire minimal : 24 heures consécutives + repos quotidien (=> au moins 35 heures consécutives).
+  Base légale : Code du travail, art. L3132-2 + art. L3131-1.
+  Source pédagogique : Service-Public.fr (F2327) ; Ministère du Travail ("Le repos hebdomadaire : principe et dérogations").
+
+===============================================================================
+5) HEURES SUPPLÉMENTAIRES (TEMPS PLEIN) : DÉCOMPTE, MAJORATION, REPOS
+===============================================================================
+5.1 Décompte / déclenchement
+- Heures supplémentaires : heures au-delà de 35 h/semaine (salarié à temps plein), sauf organisation du temps de travail par accord (annualisation, cycles...).
+  Base légale : Code du travail, art. L3121-27 et L3121-28.
+- Les modalités exactes de décompte peuvent varier en fonction de l’aménagement du temps de travail prévu par accord.
+  Source pédagogique : Ministère du Travail ("Les heures supplémentaires : définition et limites") ; Bercy ("Heures supplémentaires… comment ça marche ?").
+
+5.2 Contingent annuel (limite avant COR)
+- Des heures supplémentaires peuvent être accomplies dans la limite d’un contingent annuel ; au-delà, elles ouvrent droit à une contrepartie obligatoire en repos (COR).
+  Base légale : Code du travail, art. L3121-30.
+- À défaut d’accord fixant le contingent : 220 heures par salarié et par an.
+  Base légale : Code du travail, art. D3121-24.
+  Sources pédagogiques : Ministère du Travail ("Les heures supplémentaires : définition et limites") ; Bercy (page heures supplémentaires).
+
+5.3 Majorations de salaire
+- Par accord collectif : le taux peut être fixé par accord, avec un minimum légal de 10%.
+  Base légale : Code du travail, art. L3121-33.
+- À défaut d’accord :
+  * 25% pour chacune des 8 premières heures supplémentaires (de la 36e à la 43e heure),
+  * 50% pour les heures suivantes.
+  Base légale : Code du travail, art. L3121-36.
+  Source pédagogique : Bercy (page heures supplémentaires).
+
+5.4 Repos compensateur de remplacement (RCR) (rappel)
+- Certaines heures supplémentaires peuvent être compensées par un repos "de remplacement" au lieu de la majoration, si un accord le prévoit (conditions et modalités à vérifier dans l’accord applicable).
+  Source pédagogique : Ministère du Travail ("Les heures supplémentaires : contreparties") ; Code du travail numérique ("Heures supplémentaires : contreparties").
+
+5.5 Contrepartie obligatoire en repos (COR) au-delà du contingent
+- Principe : les heures au-delà du contingent ouvrent droit à une COR.
+  Base légale : Code du travail, art. L3121-30.
+- À défaut d’accord : COR fixée à
+  * 50% des heures au-delà du contingent pour les entreprises de 20 salariés au plus,
+  * 100% pour les entreprises de plus de 20 salariés.
+  Source pédagogique : Bercy (page heures supplémentaires) ; Ministère du Travail ("Les heures supplémentaires : contreparties").
+- Gestion / prise du repos (règles supplétives) :
+  * Prise dans un délai maximal (règles de prise/différé encadrées),
+  * Le droit à COR ne se perd pas du seul fait de l’absence de demande du salarié ; l’employeur doit demander la prise effective dans un délai maximal d’un an.
+  Base légale : Code du travail, art. D3121-17 et D3121-18 (et suivants).
+
+5.6 Bulletin de paie & preuve (très pratique en RAG)
+- Le bulletin de paie doit comporter des mentions obligatoires ; vérifier notamment la traçabilité des heures (heures sup, taux, etc. selon les situations).
+  Base légale : Code du travail, art. R3243-1.
+- En cas de litige sur l’existence ou le nombre d’heures de travail accomplies : régime probatoire spécifique (échanges d’éléments entre salarié et employeur).
+  Base légale : Code du travail, art. L3171-4.
+- Obligation de mise en place/tenue de documents de décompte dans certaines organisations (à adapter à l’entreprise).
+  Base légale : Code du travail, art. L3171-2.
+
+===============================================================================
+6) TEMPS PARTIEL (RENVOI)
+===============================================================================
+- Les heures au-delà de l’horaire contractuel d’un salarié à temps partiel sont des "heures complémentaires" (et non des heures supplémentaires).
+- Les règles (limites, majorations, avenants, etc.) doivent faire l’objet d’une fiche dédiée (recommandé), car les mécanismes diffèrent du temps plein.
+  Source pédagogique : Code du travail numérique ("Heures supplémentaires : contreparties") rappelle explicitement la distinction.
+
+===============================================================================
+7) FORFAITS (HEURES / JOURS)
+===============================================================================
+7.1 Forfait en heures (hebdomadaire / mensuel / annuel)
+- Le forfait en heures (hebdo/mensuel) et le forfait en heures sur l’année obéissent à des conditions spécifiques (accord collectif + convention individuelle selon les cas) et n’annule pas les protections (durées max, repos) selon le régime.
+  Source pédagogique : Service-Public.fr (F19261).
+
+7.2 Forfait jours : définition et conditions de validité (focus RH)
+- Le forfait jours décompte le temps en jours travaillés sur l’année (et non en heures).
+- Conditions clés :
+  (1) Un accord collectif (entreprise/établissement/branche) doit autoriser et encadrer le forfait jours.
+      Base légale : Code du travail, art. L3121-64 et L3121-65.
+  (2) Une convention individuelle de forfait jours, écrite, est requise.
+      Source pédagogique : Service-Public.fr (F19261).
+  (3) L’employeur doit suivre effectivement la charge de travail, l’amplitude et la répartition des journées, et respecter les repos.
+      Base légale : Code du travail, art. L3121-65 et L3121-66.
+- Plafond annuel :
+  * En l’absence d’accord fixant le nombre de jours : 218 jours travaillés/an.
+    Base légale : Code du travail, art. L3121-64.
+  * Le plafond peut être fixé par accord ; vérifier la convention collective et l’accord d’entreprise.
+
+7.3 Renonciation à des jours de repos (rachat de jours)
+- Le salarié au forfait jours peut, sous conditions (accord + avenant + majoration), renoncer à une partie de ses jours de repos, dans la limite d’un plafond annuel de jours travaillés.
+  Base légale : Code du travail, art. L3121-59.
+  Source pédagogique : Service-Public.fr (F19261).
+
+7.4 Risques (contentieux) : dispositif de suivi "réel"
+- En cas de forfait jours, le suivi ne doit pas reposer uniquement sur l’engagement du salarié ; l’entreprise doit pouvoir démontrer un dispositif effectif (outils de suivi, alertes, entretiens, actions correctives).
+  NOTE : cette idée est issue de la jurisprudence (source non officielle possible en commentaire), mais les obligations de suivi sont bien ancrées dans le Code du travail (L3121-65, L3121-66).
+
+===============================================================================
+8) TRAVAIL DE NUIT (DÉFINITION, MISE EN PLACE, DURÉES MAX, CONTREPARTIES)
+===============================================================================
+8.1 Principe de recours
+- Le recours au travail de nuit est exceptionnel et doit être justifié (continuité de l’activité économique / services d’utilité sociale) et protecteur de la santé/sécurité.
+  Base légale : Code du travail, art. L3122-1.
+
+8.2 Définition du travail de nuit et période de nuit
+- Travail de nuit : travail effectué au cours d’une période d’au moins 9 heures consécutives comprenant l’intervalle minuit–5h.
+- La période de travail de nuit commence au plus tôt à 21h et s’achève au plus tard à 7h (règles de base ; des aménagements sont possibles selon accord/autorisation).
+  Base légale : Code du travail, art. L3122-2.
+  Sources pédagogiques : Service-Public.fr (F2212) ; Ministère du Travail ("Le travail de nuit").
+
+8.3 Travailleur de nuit (qualification)
+- Est "travailleur de nuit" notamment s’il accomplit au moins 2 fois par semaine, selon son horaire habituel, au moins 3 heures de travail de nuit quotidiennes ; ou s’il accomplit sur une période de référence un nombre minimal d’heures de nuit (défini par accord).
+  Base légale : Code du travail, art. L3122-5 et L3122-16.
+- À défaut d’accord, le nombre minimal d’heures peut être fixé (ex. 270 heures sur 12 mois selon les sources pédagogiques du ministère).
+  Source pédagogique : Ministère du Travail ("Le travail de nuit").
+
+8.4 Durées maximales spécifiques (travailleurs de nuit)
+- Durée quotidienne : 8 heures maximum (sauf exceptions encadrées ; autorisation possible de l’inspection du travail en circonstances exceptionnelles, avec consultation/avis).
+  Base légale : Code du travail, art. L3122-6.
+  Source pédagogique : Service-Public.fr (F2212).
+- Durée hebdomadaire moyenne : 40 heures maximum en moyenne sur 12 semaines (sauf cas prévus par la loi).
+  Base légale : Code du travail, art. L3122-7.
+  Source pédagogique : Service-Public.fr (F2212).
+
+8.5 Contreparties
+- Le travailleur de nuit bénéficie de contreparties sous forme de repos compensateur (et, le cas échéant, salariale), selon accord collectif.
+  Base légale : Code du travail, art. L3122-8.
+  Sources pédagogiques : Service-Public.fr (F2212) ; Ministère du Travail ("Le travail de nuit").
+
+===============================================================================
+9) CHECKLIST RH (PROCÉDURE INTERNE CONSEILLÉE)
+===============================================================================
+Étape 1 — Identifier le régime applicable
+- Horaire collectif (affichage), individualisation, modulation/annualisation, forfait heures, forfait jours, travail de nuit, astreintes, etc.
+- Vérifier : convention collective + accords d’entreprise/établissement + usages.
+
+Étape 2 — Qualifier les temps
+- Temps de travail effectif (L3121-1) vs pause/restauration (L3121-2), déplacement (L3121-4), astreinte (L3121-9), etc.
+
+Étape 3 — Contrôler les seuils et repos
+- Pause 20 min après 6 h (L3121-16)
+- Max 10 h/jour (L3121-18)
+- Max 48 h/semaine (L3121-20)
+- Max 44 h en moyenne sur 12 semaines (L3121-22)
+- Repos quotidien 11 h (L3131-1) ; repos hebdo 24 h + 11 h (L3132-2) ; pas plus de 6 jours/semaine (L3132-1)
+- Si travail de nuit : plafonds spécifiques (L3122-6, L3122-7) + contreparties (L3122-8)
+
+Étape 4 — Si heures supplémentaires
+- Décompte / organisation (L3121-28, L3121-29…)
+- Contingent (accord, sinon 220 h : D3121-24)
+- Majorations (accord min 10% : L3121-33 ; à défaut 25/50 : L3121-36)
+- Au-delà contingent : COR (L3121-30 + règles D3121-17 et suivantes)
+
+Étape 5 — Si forfait jours
+- Existence d’un accord collectif valide + clauses obligatoires (L3121-64, L3121-65)
+- Convention individuelle écrite
+- Suivi effectif : charge de travail / amplitude / repos + entretien annuel (L3121-66)
+- Renonciation jours de repos : avenant + majoration + plafonds (L3121-59)
+
+===============================================================================
+10) DOCUMENTS / PREUVES À DEMANDER (RAG PRATIQUE)
+===============================================================================
+- Plannings / horaires collectifs (affichage), avenants, conventions individuelles de forfait (heures/jours).
+- Relevés d’heures / pointages / badgeuse / feuilles de temps / export SIRH.
+- Bulletins de paie (lignes HS, taux, repos, indemnités), et annexes éventuelles.
+- Accords collectifs applicables (entreprise/branche) : contingent, majorations, RCR, forfait, travail de nuit, contreparties.
+- Forfait jours : preuve du suivi effectif (outil de décompte jours/demi-journées, alertes/échanges, entretien annuel, actions correctives).
+
+===============================================================================
+11) POINTS DE VIGILANCE & ACTUALITÉS (AU 01/01/2026)
+===============================================================================
+11.1 Traçabilité et risque contentieux
+- Les litiges "heures supplémentaires" sont principalement des litiges de preuve : conserver des éléments fiables (L3171-4 ; L3171-2) et cohérents (planning ↔ pointage ↔ paie).
+
+11.2 Évolutions au 1er janvier 2026 (mesures "coût du travail")
+- Bercy indique des évolutions au 01/01/2026 relatives notamment à la déduction forfaitaire de cotisations patronales sur les heures supplémentaires (extension/conditions selon effectif, à vérifier).
+  Sources officielles : page "Entreprises : ce qui change au 1er janvier 2026" (economie.gouv.fr) + URSSAF (déduction forfaitaire heures supplémentaires).
+
+===============================================================================
+12) RÉFÉRENCES OFFICIELLES (LISTE UTILISABLE EN CITATION RAG)
+===============================================================================
+A) Légifrance — Code du travail (extraits clés)
+- Temps de travail effectif : L3121-1
+- Pause/restauration : L3121-2
+- Déplacement professionnel : L3121-4
+- Astreinte : L3121-9
+- Pause minimale : L3121-16
+- Durée quotidienne max : L3121-18
+- Durée hebdomadaire max : L3121-20
+- Dépassement exceptionnel 60h (autorisation) : L3121-21
+- Moyenne 12 semaines : L3121-22
+- Durée légale 35h : L3121-27
+- Heures supplémentaires : L3121-28, L3121-29
+- Contingent + COR au-delà : L3121-30
+- Accord majoration min 10% : L3121-33
+- Majoration à défaut (25%/50%) : L3121-36
+- Contingent à défaut : D3121-24 (220h)
+- COR (règles supplétives) : D3121-17, D3121-18 (et suivants selon besoin)
+- Repos quotidien : L3131-1
+- Repos hebdomadaire : L3132-1, L3132-2
+- Preuve durée du travail : L3171-4 ; documents de décompte : L3171-2
+- Mentions bulletin de paie : R3243-1
+
+- Travail de nuit : L3122-1, L3122-2, L3122-5, L3122-6, L3122-7, L3122-8, L3122-16, L3122-18
+
+B) Ministère du Travail (travail-emploi.gouv.fr)
+- La durée légale du travail
+- Les heures supplémentaires : définition et limites
+- Les heures supplémentaires : contreparties
+- Le repos quotidien : principe et dérogations
+- Le repos hebdomadaire : principe et dérogations
+- Le travail de nuit
+
+C) Service-Public.fr (DILA)
+- F18205 : Temps de pause du salarié
+- F1911 : Durée du travail d’un salarié à temps plein
+- F2327 : Repos hebdomadaire du salarié
+- F2391 : Heures supplémentaires d’un salarié (secteur privé)
+- F19261 : Forfait en heures / en jours
+- F2212 : Travail de nuit du salarié (secteur privé)
+- F35344 : Mise en place du travail de nuit dans l’entreprise
+
+D) Ministère de l’Économie (Bercy) / URSSAF
+- economie.gouv.fr : Heures supplémentaires (salariés du privé) + encadré "ce qui change" 01/01/2026
+- economie.gouv.fr : "Entreprises : ce qui change au 1er janvier 2026"
+- urssaf.fr : Déduction forfaitaire de cotisations patronales sur les heures supplémentaires

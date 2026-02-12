@@ -1,0 +1,314 @@
+Date de préparation: 2026-02-11
+Titre: RGPD & données RH (accès, conservation, sécurité, droits)
+Doc_ID: rgpd_donnees_rh
+Pays: FR
+Domaine: Juridique RH / Protection des données
+Type: Fiche de conformité opérationnelle (RAG-ready)
+Langue: fr-FR
+
+SOURCES OFFICIELLES (sélection)
+- CNIL (Commission nationale de l'informatique et des libertés)
+- Service-Public Entreprendre (portail officiel français)
+- Légifrance (Journal officiel / codes)
+- EUR-Lex (droit de l'Union européenne)
+- ANSSI / cyber.gouv.fr (référentiels de cybersécurité de l'État)
+
+Date de consultation: 2026-02-11
+Version/Date du texte:
+- RGPD: Règlement (UE) 2016/679 (EUR-Lex)
+- Pages web: selon dates de mise à jour affichées sur les sites
+
+URLS (à conserver dans le référentiel de sources)
+CNIL
+1) Référentiel "Gestion des ressources humaines" (PDF / référentiel CNIL) :
+   https://www.cnil.fr/sites/cnil/files/2023-09/referentiel_gestion_des_ressources_humaines.pdf
+2) Le recrutement et la gestion du personnel :
+   https://www.cnil.fr/fr/le-recrutement-et-la-gestion-du-personnel
+3) Répondre à une demande de droit d’accès :
+   https://www.cnil.fr/fr/repondre-une-demande-de-droit-dacces
+4) RGPD – Le registre des activités de traitement :
+   https://www.cnil.fr/fr/RGPD-le-registre-des-activites-de-traitement
+5) Guide sécurité des données personnelles (CNIL) :
+   https://www.cnil.fr/fr/guide-securite-des-donnees-personnelles
+6) Sécurité – Gérer les incidents et violations :
+   https://www.cnil.fr/fr/securite-gerer-les-incidents-et-les-violations
+7) Notifier une violation de données (téléservice CNIL) :
+   https://www.cnil.fr/fr/services-en-ligne/notifier-une-violation-de-donnees-personnelles
+8) FAQ conservation dossier candidat :
+   https://www.cnil.fr/fr/cnil-direct/question/recrutement-un-employeur-peut-il-conserver-mon-dossier
+9) FAQ contrôle des horaires – conservation :
+   https://www.cnil.fr/fr/cnil-direct/question/controle-des-horaires-combien-de-temps-sont-conservees-les-donnees
+10) Guide durées de conservation (CNIL, PDF) :
+   https://www.cnil.fr/sites/cnil/files/atoms/files/guide_durees_de_conservation.pdf
+
+Service-Public (Entreprendre)
+11) Obligations RGPD (F24270) :
+   https://entreprendre.service-public.gouv.fr/vosdroits/F24270
+12) Délais de conservation des documents pour les entreprises (F10029) :
+   https://entreprendre.service-public.gouv.fr/vosdroits/F10029
+
+Légifrance (Code du travail / JO)
+13) Registre unique du personnel – durée de conservation (R1221-26) :
+   https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031392972/
+14) Double du bulletin de paie – conservation par l’employeur (L3243-4) :
+   https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020625846
+15) Bulletin de paie électronique – disponibilité (décret / JO) :
+   https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000033625104
+16) Décompte du temps de travail – conservation (D3171-16) :
+   https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033306631
+
+Droit de l’UE
+17) RGPD – Règlement (UE) 2016/679 (texte intégral consolidé) :
+   https://eur-lex.europa.eu/eli/reg/2016/679/oj?locale=fr
+
+Cybersécurité (État)
+18) ANSSI – Guide d’hygiène informatique :
+   https://cyber.gouv.fr/publications/guide-dhygiene-informatique
+
+----------------------------------------------------------------------------------------------------
+1) CONTEXTE / OBJECTIF
+Les traitements RH impliquent de nombreuses données personnelles, parfois sensibles ou à fort impact
+(juridique, social, réputationnel). L’employeur doit documenter ses traitements, informer les personnes,
+sécuriser les systèmes, maîtriser les durées de conservation et permettre l’exercice effectif des droits.
+Objectif de la fiche: fournir un référentiel opérationnel pour des traitements RH (privés ou publics),
+avec repères pratiques et preuves attendues.
+
+----------------------------------------------------------------------------------------------------
+2) PÉRIMÈTRE (RH)
+Exemples de traitements RH typiques:
+- Recrutement: ATS, CV, tests, entretiens, vérifications.
+- Gestion administrative du personnel: contrat, dossier du salarié, identité/coordonnées, justificatifs.
+- Paie et déclarations: bulletins, DSN, avantages, coordonnées bancaires.
+- Temps de travail/absences: badgeuse, planning, congés, télétravail, heures.
+- Évaluations/carrière: entretiens annuels, objectifs, formation, mobilité, people analytics.
+- Discipline/relations sociales: procédures, sanctions, contentieux.
+- Accès SI / sécurité: comptes, habilitations, logs, contrôles internes.
+- Santé au travail (selon organisation): données relevant de la santé, restrictions médicales (accès limité).
+
+----------------------------------------------------------------------------------------------------
+3) DÉFINITIONS (RAG)
+- Données personnelles: information se rapportant à une personne identifiée/identifiable.
+- Traitement: opération sur des données (collecter, enregistrer, consulter, conserver, supprimer…).
+- Responsable de traitement: entité déterminant finalités et moyens (souvent l’employeur).
+- Sous-traitant: prestataire traitant pour le compte du responsable (paie, SIRH, ATS, hébergeur).
+- Registre des activités de traitement: documentation structurée des traitements (finalités, catégories,
+  destinataires, durées, sécurité, transferts…).
+- Données sensibles: catégories particulières (dont santé, opinions, syndicat…) soumises à régime renforcé.
+- Conservation (CNIL): base active (usage courant) / archivage intermédiaire (accès restreint, obligations
+  et risques contentieux) / suppression / archivage définitif (cas rares et encadrés).
+
+----------------------------------------------------------------------------------------------------
+4) PRINCIPES RGPD APPLICABLES AUX TRAITEMENTS RH (références RGPD)
+Principe général: respecter et pouvoir démontrer la conformité (accountability).
+
+4.1 Principes (RGPD art. 5)
+- Licéité, loyauté, transparence
+- Finalités déterminées, explicites et légitimes
+- Minimisation des données
+- Exactitude
+- Limitation de la conservation
+- Intégrité et confidentialité (sécurité)
+- Responsabilisation (capacité à démontrer la conformité)
+
+4.2 Bases légales (repères RH)
+En RH, la base légale est souvent:
+- Exécution du contrat de travail (ex: paie, gestion administrative)
+- Obligation légale (ex: obligations sociales, paie, registres)
+- Intérêt légitime (ex: organisation RH/gestion, sécurité SI) sous réserve de proportionnalité
+- Consentement: à éviter par défaut en emploi (déséquilibre), sauf choix réel et absence de conséquence
+  en cas de refus (référentiel CNIL).
+
+----------------------------------------------------------------------------------------------------
+5) INFORMATION DES PERSONNES (candidats / salariés)
+5.1 Obligation d’information (RGPD art. 12-14)
+L’information doit couvrir au minimum:
+- Identité du responsable (et DPO le cas échéant)
+- Finalités et base légale
+- Catégories de données
+- Destinataires / catégories de destinataires
+- Durées de conservation (ou critères)
+- Droits (accès, rectification, effacement, limitation, opposition, portabilité selon cas)
+- Réclamation CNIL
+- Transferts hors UE, si applicable (mécanismes)
+- Décisions automatisées/profilage, si applicable
+
+5.2 Collecte indirecte (RGPD art. 14)
+Si les données proviennent d’un tiers (ex: recommandations, prestataires de sourcing), fournir l’info
+dans un délai raisonnable, au plus tard 1 mois, ou au premier contact/communication si plus tôt.
+
+Éléments RH recommandés:
+- Notice candidats intégrée ATS + mail de confirmation
+- Notice salariés intégrée SIRH/intranet + annexes spécifiques (badge, vidéosurveillance si existante, logs)
+- Mise à jour en cas d’évolution des finalités/outils
+
+----------------------------------------------------------------------------------------------------
+6) DROITS DES PERSONNES ET PROCÉDURE D’ACCÈS (RH)
+6.1 Droit d’accès (RGPD art. 15)
+Attendus: fournir une copie des données + informations (finalités, destinataires, durées, etc.).
+Process CNIL recommandé:
+- Canal unique (email/formulaire) + accusé de réception
+- Vérification d’identité proportionnée (si doute)
+- Recherche multi-sources (RH, paie, SIRH, IT/logs, prestataires)
+- Réponse structurée + copie (formats accessibles) + traçabilité
+- Expurgation/anonymisation des données de tiers pour protéger leurs droits
+- Respect des délais légaux (avec possibilité d’extension motivée selon RGPD)
+
+6.2 Autres droits (selon base légale)
+- Rectification (données inexactes)
+- Effacement (selon conditions; souvent limité en RH par obligations légales/archivage)
+- Limitation / opposition (notamment si base “intérêt légitime”)
+- Portabilité: plus rare en RH, selon conditions
+
+6.3 Exceptions / limites (cas RH fréquents)
+- Protection des droits et libertés d’autrui: expurger/anonymiser les éléments concernant d’autres personnes.
+- Secret des affaires / sécurité: analyse au cas par cas avec DPO/juridique.
+- Contentieux: bascule possible en archivage intermédiaire avec accès restreint, durée ajustée.
+
+----------------------------------------------------------------------------------------------------
+7) REGISTRE & GOUVERNANCE (RGPD art. 30 + pratique CNIL)
+7.1 Registre (obligation et outil de pilotage)
+Le registre doit documenter:
+- Finalités
+- Catégories de personnes / données
+- Destinataires
+- Durées
+- Mesures de sécurité
+- Transferts hors UE (si applicable)
+- Sous-traitants et leurs rôles (contrats, instructions, mesures)
+
+7.2 Gouvernance recommandée
+- Désigner un référent/DPO si applicable
+- Définir un processus de mise à jour du registre lors de:
+  - nouvel outil RH (ATS/SIRH), changement prestataire, nouvelle finalité, nouveau flux de données
+- Mise en place d’un “pack preuve” par traitement: notice + registre + clauses sous-traitance + sécurité + conservation
+
+----------------------------------------------------------------------------------------------------
+8) CONSERVATION DES DONNÉES RH (principe + repères officiels)
+8.1 Règle de base
+Définir une durée en lien avec la finalité; supprimer ou archiver en accès restreint lorsque la finalité
+est atteinte, et organiser des purges réelles (pas uniquement “archiver partout”).
+
+8.2 Repères de durées (à adapter; sources officielles)
+- Registre unique du personnel: 5 ans après le départ du salarié (Code du travail, R1221-26).
+- Double du bulletin de paie (employeur): 5 ans (Code du travail, L3243-4).
+- Bulletin de paie électronique (mise à disposition salarié): 50 ans OU jusqu’à l’âge légal + 6 ans
+  (décret / JO).
+- Recrutement (candidat non retenu): conservation possible en “vivier” 2 ans après dernier contact,
+  si le candidat a été informé et a donné son accord (FAQ CNIL).
+- Suivi temps/horaire (données identifiant + suivi): repères CNIL pouvant aller jusqu’à 5 ans après départ,
+  selon finalités/justification (FAQ CNIL).
+- Décompte du temps de travail: repère Code du travail (D3171-16) selon les documents concernés.
+
+8.3 Modèle de politique de conservation (structure recommandée)
+Pour chaque catégorie:
+- Finalité
+- Base légale
+- Durée en base active
+- Durée en archivage intermédiaire (si applicable)
+- Accès restreint / habilitations
+- Événement déclencheur (fin contrat, clôture litige, dernier contact candidat…)
+- Modalité de purge/anonymisation
+- Preuves (journaux de purge, PV, tickets)
+
+----------------------------------------------------------------------------------------------------
+9) SÉCURITÉ (RGPD art. 32) – RH & SIRH (mesures attendues)
+9.1 Mesures techniques/organisationnelles (exemples)
+- Contrôle d’accès (RBAC): principe du moindre privilège; séparation RH/paie/manager/IT
+- MFA si possible; gestion des mots de passe; SSO/IdP si existant
+- Journalisation: accès, exports, modifications; alertes sur comportements anormaux
+- Chiffrement: au repos/en transit selon risques; gestion des clés
+- Sauvegardes: tests de restauration; PCA/PRA selon criticité
+- Durcissement postes/serveurs; patch management
+- Procédures d’offboarding: fermeture comptes, retrait habilitations, récupération matériel
+- Revue périodique des habilitations (au moins annuelle; plus si turnover/risque élevé)
+
+9.2 Référentiels utiles
+- CNIL: guide sécurité des données personnelles
+- ANSSI: guide d’hygiène informatique (mesures structurantes)
+
+----------------------------------------------------------------------------------------------------
+10) SOUS-TRAITANCE (SIRH, PAIE, ATS, HÉBERGEMENT)
+10.1 Exigences
+- Contrat conforme: objet, instructions, confidentialité, sécurité, assistance, audits/contrôles,
+  sous-traitants ultérieurs, suppression/restitution en fin de contrat.
+- Vérifier localisation/hébergement, sous-traitants en chaîne, et transferts hors UE.
+- Documenter dans le registre: rôles, mesures, transferts, garanties.
+
+10.2 Vérifications pratiques (checkpoints)
+- DPA/avenant RGPD signé
+- Annexes sécurité (mesures, certifications si existantes)
+- Clauses sur logs/audit, notification incidents, SLA
+- Conditions de restitution/purge (attestation de suppression, délais)
+- Revue des transferts hors UE + mécanismes (si applicable)
+
+----------------------------------------------------------------------------------------------------
+11) VIOLATIONS DE DONNÉES (RGPD art. 33-34) – PROCESS INCIDENT
+- Tenir un registre interne des violations (toutes, même non notifiées).
+- Notifier la CNIL dans les 72h si risque pour droits et libertés.
+- Informer les personnes en cas de risque élevé (sauf exceptions).
+- Documenter: qualification, mesures correctives, décision de notification, communication, preuves.
+
+----------------------------------------------------------------------------------------------------
+12) EXCEPTIONS / CAS PARTICULIERS (RH)
+- Données sensibles (ex: santé): accès restreint, justification stricte, sécurité renforcée.
+- Petites structures: certaines obligations sont aménageables, mais de nombreux traitements RH
+  sont “non occasionnels” et requièrent un registre.
+- People analytics / scoring: vigilance sur proportionnalité, transparence, et décisions automatisées.
+- Droit d’accès: expurger les données de tiers; arbitrages DPO/juridique au cas par cas.
+
+----------------------------------------------------------------------------------------------------
+13) PROCÉDURE OPÉRATIONNELLE (ETAPES STANDARD)
+Étape 1 — Cartographier les traitements RH (liste + outils + flux).
+Étape 2 — Qualifier chaque traitement (finalité, base, minimisation, risques).
+Étape 3 — Tenir le registre (versionnage; mises à jour lors de changement outil/prestataire/finalité).
+Étape 4 — Rédiger/diffuser les notices (candidats et salariés; collecte indirecte ≤ 1 mois).
+Étape 5 — Mettre en place la procédure droits (canal, workflow, traçabilité, expurgation tiers).
+Étape 6 — Sécurité (RBAC, MFA, logs, sauvegardes, offboarding, tests).
+Étape 7 — Conservation (durées, archivage intermédiaire, purges réelles, preuves de purge).
+Étape 8 — Sous-traitants (contrats, sécurité, localisation, restitutions/purges).
+Étape 9 — Incidents (registre, qualification, notification 72h si risque, communication personnes si risque élevé).
+
+----------------------------------------------------------------------------------------------------
+14) DOCUMENTS / PREUVES À DEMANDER (CONTRÔLE READY)
+- Registre des traitements (daté/versionné)
+- Notices d’information candidats/salariés + preuve de diffusion
+- Procédure droits + registre des demandes + preuves de réponse
+- Politique de conservation + journaux/rapports de purge + règles d’archivage intermédiaire
+- Contrats/avenants sous-traitants + annexes sécurité + preuves de localisation/transferts
+- PSSI / mesures CNIL + éléments ANSSI + preuves de sauvegarde & tests/restauration
+- Procédure incident + registre des violations + preuves de notification si applicable
+- Revue d’habilitations + logs (extraits) + plan d’offboarding
+
+----------------------------------------------------------------------------------------------------
+15) POINTS DE VIGILANCE (JURIDIQUE RH)
+- Minimisation: éviter la collecte “au cas où” (pièces, données familiales, etc. sans base/finalité)
+- Accès interne: limiter par rôle; managers n’ont pas nécessairement accès à tout le dossier RH
+- Conservation: mettre en œuvre des purges effectives (pas de stockage indéfini)
+- Recrutement: vivier 2 ans max après dernier contact + information + accord
+- Sous-traitants cloud: vérifier transferts hors UE, sous-traitance en chaîne, et clauses d’audit/incidents
+- Sécurité: l’article 32 impose des mesures adaptées au risque (confidentialité, disponibilité, tests)
+- Incidents: processus 72h si risque; traçabilité et mesures correctives
+
+----------------------------------------------------------------------------------------------------
+16) EXEMPLES (CAS D’USAGE)
+Exemple 1 (droit d’accès salarié)
+- Demande: “toutes les données détenues sur moi”
+- Actions: accusé de réception; vérif identité si besoin; collecte RH/paie/SIRH/IT; expurgation tiers;
+  réponse structurée + copie; traçabilité (registre des demandes).
+
+Exemple 2 (changement prestataire paie)
+- Actions: mise à jour registre; nouveau DPA/clauses; revue sécurité; plan migration; purge/restitution
+  chez l’ancien prestataire + attestation; tests d’intégrité et droits d’accès.
+
+----------------------------------------------------------------------------------------------------
+17) RÉFÉRENCES JURIDIQUES (RGPD – EUR-Lex)
+Articles clés (à indexer dans le RAG):
+- Art. 5: principes
+- Art. 6: bases légales
+- Art. 9: données sensibles (catégories particulières)
+- Art. 12-15: transparence et droit d’accès
+- Art. 28: sous-traitants
+- Art. 30: registre des activités de traitement
+- Art. 32: sécurité
+- Art. 33-34: violations de données
+- Art. 44 et suivants: transferts hors UE

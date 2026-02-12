@@ -1,0 +1,253 @@
+Date de préparation : 2026-02-11
+Date d’enrichissement : 2026-02-12
+Titre : Congés payés (acquisition, décompte, prise, report, indemnités)
+Doc_ID : conges_payes
+Pays : FR
+Périmètre : Salariés du secteur privé (CDI, CDD, temps plein/temps partiel), hors régimes spécifiques (ex. caisses de congés payés : BTP, intermittents…) et catégories particulières (ex. assistants maternels, particulier employeur), sauf mention.
+Mots-clés : congés, acquisition, décompte, indemnité, fractionnement, report, arrêt maladie, AT/MP, CDD, rupture
+
+
+============================================================
+1) Sources officielles (à ingérer)
+============================================================
+
+[S1] Ministère du Travail – « Les congés payés »
+- URL : https://travail-emploi.gouv.fr/les-conges-payes
+- Version / Date du texte : Publié le 18/09/2015 – Mis à jour le 17/09/2025
+- Date de consultation : 2026-02-12
+
+[S2] Service-Public.fr (DILA) – « Congés payés du salarié dans le secteur privé » (F2258)
+- URL : https://www.service-public.gouv.fr/particuliers/vosdroits/F2258
+- Date de consultation : 2026-02-12
+
+[S3] Légifrance – Code du travail (articles consolidés, ex. L3141-3)
+- URL (exemple) : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033020826
+- Date de consultation : 2026-02-12
+
+[S4] Cour de cassation – Communiqué « Congé payé et arrêt maladie » (10/09/2025)
+- URL : https://www.courdecassation.fr/toutes-les-actualites/2025/09/10/communique-conge-paye-et-arret-maladie
+- Date de consultation : 2026-02-12
+
+[S5] Entreprendre.Service-Public.fr (DILA) – Actualité « Le salarié malade durant ses vacances peut reporter ces jours » (16/09/2025)
+- URL : https://entreprendre.service-public.gouv.fr/actualites/A18456
+- Date de consultation : 2026-02-12
+
+[S6] Légifrance – Loi n° 2024-364 du 22 avril 2024 (évolutions acquisition/report en cas de maladie, etc.)
+- URL : https://www.legifrance.gouv.fr/loda/id/JORFTEXT000049453263
+- Date de consultation : 2026-02-12
+
+
+============================================================
+2) Contexte (rappel d’ordre public)
+============================================================
+
+- Tout salarié a droit chaque année à un congé payé à la charge de l’employeur. (S1, S2, S3)
+- Les règles peuvent être précisées/aménagées par accord d’entreprise/établissement ou accord de branche, dans le cadre fixé par le Code du travail : période de prise, ordre des départs, fractionnement, report, etc. (S1, S3)
+
+
+============================================================
+3) Définitions utiles
+============================================================
+
+- Jour ouvrable : tous les jours de la semaine sauf le repos hebdomadaire (dimanche en principe) et les jours fériés habituellement non travaillés dans l’entreprise. (S1, S2)
+- Période de référence (acquisition) : période utilisée pour calculer les droits acquis ; par défaut du 1er juin au 31 mai (règle supplétive), sauf accord, et exceptions des caisses de congés payés (ex. BTP). (S1, S3)
+- Indemnité de congés payés : rémunération versée pendant le congé (à distinguer de l’indemnité compensatrice versée en fin de contrat). (S1, S2, S3)
+
+
+============================================================
+4) Règles principales (opposables + pratique RH)
+============================================================
+
+4.1 Acquisition des congés (règle générale)
+- Le salarié a droit à 2,5 jours ouvrables de congés payés par mois de travail effectif chez le même employeur.
+- La durée totale exigible ne peut excéder 30 jours ouvrables (5 semaines) par année complète. (S3 – art. L3141-3 ; S1 ; S2)
+
+Repère de calcul :
+- 1 mois de travail effectif = 4 semaines ou 24 jours de travail effectif (règle d’équivalence). (S1, S3)
+
+
+4.2 Période de référence (acquisition)
+- Par défaut (règle supplétive), la période d’acquisition court du 1er juin au 31 mai.
+- Des aménagements sont possibles par accord collectif ; certaines professions relèvent de caisses de congés payés (ex. BTP) avec règles propres. (S1, S3)
+
+
+4.3 Décompte / arrondis / jours ouvrables
+- Le décompte se fait en jours ouvrables (sauf dispositions plus favorables, ex. jours ouvrés).
+- Si le nombre de jours acquis n’est pas entier, il est arrondi au supérieur (ex. 26,5 → 27). (S1, S2)
+
+
+4.4 Périodes assimilées à du travail effectif (principe)
+Certaines absences sont assimilées à du travail effectif pour l’acquisition des congés (exemples usuels : maternité/paternité/adoption, AT/MP, etc.). La liste et les conditions se trouvent dans le Code du travail consolidé. (S1, S3)
+
+Garde-fou « prorata » :
+- Une absence ne peut pas avoir pour effet de réduire le droit à congé au-delà du prorata de la durée de l’absence. (S3)
+
+
+4.5 Maladie / accident NON professionnel : acquisition dédiée (loi 2024)
+Depuis la loi n° 2024-364 du 22 avril 2024 :
+- Pendant une suspension du contrat pour maladie ou accident non professionnel, le salarié acquiert 2 jours ouvrables par mois, dans la limite de 24 jours ouvrables par période de référence. (S1, S6, S3)
+
+
+4.6 Prise des congés : période, ordre, information
+Période de prise :
+- La période de prise des congés doit comprendre au moins la période du 1er mai au 31 octobre. (S1, S3)
+
+Fixation des règles :
+- En principe, un accord d’entreprise/établissement ou de branche fixe la période de prise, l’ordre des départs et les délais de modification.
+- À défaut d’accord, l’employeur fixe ces éléments dans le cadre légal (avec consultation/avis du CSE si applicable). (S1, S3)
+
+Délais d’information (règles usuelles rappelées par les sources officielles) :
+- Communication de la période de prise : au moins 2 mois avant l’ouverture de la période.
+- Communication de l’ordre des départs : au moins 1 mois avant le départ.
+- Modification des dates : en principe pas moins d’1 mois avant, sauf circonstances exceptionnelles (si pas de stipulation plus précise par accord). (S1, S3)
+
+
+4.7 Congé principal, fractionnement, 5e semaine
+- Le congé principal pris en une seule fois ne peut pas dépasser 24 jours ouvrables ; la 5e semaine se prend à part, sauf cas de dérogation prévus (contraintes géographiques, situations familiales spécifiques…). (S1, S3)
+- Le fractionnement du congé principal (prise en plusieurs fois) et les éventuels jours supplémentaires de fractionnement dépendent des règles (accord collectif / règles supplétives). (S1, S3)
+
+
+4.8 Report des congés en cas d’impossibilité de prise (maladie/accident) : report « 15 mois »
+Principe :
+- Lorsqu’un salarié est dans l’impossibilité, pour cause de maladie ou d’accident, de prendre au cours de la période de prise tout ou partie des congés acquis, il bénéficie d’une période de report (minimum légal : 15 mois) afin de pouvoir les utiliser. (S1, S6, S3)
+
+Point critique RH (déclenchement) :
+- Le point de départ de la période de report dépend des règles du Code du travail et des obligations d’information de l’employeur (solde de congés + date limite d’utilisation). La traçabilité de cette information est un enjeu contentieux. (S1, S3)
+
+
+4.9 Maladie pendant les congés : report si arrêt notifié (Cass. soc. 10/09/2025)
+- Dès lors qu’un salarié placé en arrêt maladie pendant ses congés payés a notifié à son employeur cet arrêt, il a le droit de voir les jours de congés coïncidant avec l’arrêt reportés. (S4, S5)
+
+
+4.10 Indemnité de congés payés (pendant le congé) & indemnité compensatrice (fin de contrat)
+Indemnité pendant congés :
+- Pendant le congé payé, l’employeur verse une indemnité de congés payés. (S1, S2, S3)
+- Le Code du travail prévoit notamment la règle du « dixième » (1/10e), et la pratique retient la méthode la plus favorable entre maintien du salaire et 1/10e, selon les modalités applicables. (S1, S2, S3)
+
+Indemnité compensatrice (fin de contrat : CDI/CDD/intérim) :
+- En cas de rupture du contrat, les congés non pris donnent lieu à indemnité compensatrice (incluant notamment le CDD). (S1, S2, S3)
+
+
+============================================================
+5) Exceptions / cas particuliers (à connaître)
+============================================================
+
+- Régimes spécifiques : caisses de congés payés (ex. BTP), intermittents, etc. → règles propres. (S1)
+- Jeunes salariés : dispositifs de congés supplémentaires possibles selon l’âge et la situation (voir Service-Public). (S2)
+- Enfants à charge : congés supplémentaires possibles dans certaines conditions (voir Service-Public). (S2)
+- Étudiant salarié : congés supplémentaires non rémunérés possibles pour examens selon conditions (voir Service-Public). (S2)
+
+
+============================================================
+6) Procédure / étapes (checklist RH)
+============================================================
+
+Étape 1 — Identifier la période de référence (acquisition)
+- Appliquer la période fixée par accord ; à défaut, 1er juin → 31 mai ; vérifier les régimes de caisse le cas échéant. (S1, S3)
+
+Étape 2 — Calculer les droits acquis
+- Base : 2,5 j ouvrables / mois de travail effectif, plafond 30.
+- Maladie/accident non professionnel : 2 j / mois, plafond 24 sur la période.
+- Appliquer les périodes assimilées prévues par le Code.
+- Arrondir au supérieur si décimal. (S1, S2, S3, S6)
+
+Étape 3 — Organiser la prise (période, ordre, fractionnement)
+- Définir la période de prise (incluant 1er mai–31 oct).
+- Fixer/communiquer l’ordre des départs.
+- Vérifier les règles de fractionnement et de 5e semaine. (S1, S3)
+
+Étape 4 — Notifier (preuves)
+- Communiquer la période de prise (≥ 2 mois avant ouverture).
+- Communiquer l’ordre des départs (≥ 1 mois avant départ).
+- Encadrer toute modification (principe : ≥ 1 mois avant, sauf circonstances exceptionnelles). (S1, S3)
+
+Étape 5 — Indemniser
+- Calculer l’indemnité de congés payés selon les règles applicables (méthode la plus favorable si applicable).
+- En fin de contrat : calculer l’indemnité compensatrice pour congés non pris. (S1, S2, S3)
+
+Étape 6 — Cas d’arrêt maladie/accident empêchant la prise : gérer le report
+- Mettre à jour le solde.
+- À la reprise : informer le salarié du solde et de la date limite d’utilisation sur support à date certaine (enjeu déclenchement du report). (S1, S3, S6)
+
+
+============================================================
+7) Documents / preuves à conserver (audit & contentieux)
+============================================================
+
+- Décompte interne des congés (solde, périodes d’acquisition/prise, règles applicables).
+- Trace des communications :
+  * période de prise (J-2 mois minimum),
+  * ordre des départs (J-1 mois minimum),
+  * modifications éventuelles et leur justification.
+- En cas d’arrêt maladie/accident :
+  * arrêt de travail,
+  * preuve de notification à l’employeur (quand pertinent),
+  * preuve de l’information post-reprise (solde + date limite, date certaine).
+- En fin de contrat :
+  * éléments de paie permettant de calculer l’indemnité compensatrice (bases, primes, avantages…). (S1, S2, S3)
+
+
+============================================================
+8) Points de vigilance (juridique RH)
+============================================================
+
+- Obligation employeur de permettre la prise effective :
+  * l’employeur doit mettre en place les mesures permettant au salarié d’exercer son droit (information, organisation, ordre des départs).
+  * défaut de mise en œuvre → risque de litige (dommages-intérêts / rappels). (S1, S3)
+
+- Interdiction de monétiser en cours de contrat (principe) :
+  * les congés payés doivent être pris et ne sont pas remplacés par une indemnité,
+  * sauf cas prévus (ex. rupture du contrat, CDD, intérim). (S1, S3)
+
+- Congé principal « 24 jours » :
+  * le congé principal ne dépasse pas 24 jours ouvrables pris d’un bloc (sauf cas).
+  * la 5e semaine se gère séparément. (S1, S3)
+
+- Maladie pendant congés :
+  * report des jours coïncidant avec l’arrêt si arrêt notifié à l’employeur (Cass. soc. 10/09/2025). (S4, S5)
+
+- Report « 15 mois » en cas d’impossibilité :
+  * point de départ et preuve de l’information employeur = point sensible.
+  * formaliser l’information « solde + date limite » sur support à date certaine. (S1, S3, S6)
+
+
+============================================================
+9) Exemples (pédagogiques)
+============================================================
+
+Exemple 1 — Acquisition “classique” :
+- 12 mois travaillés sur la période → 12 × 2,5 = 30 jours ouvrables. (S1, S2, S3)
+
+Exemple 2 — Maladie non professionnelle (illustration) :
+- 4 mois d’arrêt non pro → 4 × 2 = 8 jours (plafonds légaux à vérifier selon période de référence)
+- 8 mois de travail effectif → 8 × 2,5 = 20 jours
+- Total illustratif : 28 jours ouvrables. (S1, S6, S3)
+
+
+============================================================
+10) Références juridiques (repères)
+============================================================
+
+Code du travail – Congés payés (accès par chapitres/sections sur Légifrance) :
+- Chapitre Ier : Congés payés (Articles L3141-1 à L3141-33) :
+  https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000006178009/ (S3)
+- Durée du congé (Articles L3141-3 à L3141-11) :
+  https://www.legifrance.gouv.fr/codes/id/LEGISCTA000033020831 (S3)
+- Article L3141-3 (2,5 jours ouvrables / mois ; plafond 30 jours ouvrables) :
+  https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033020826 (S3)
+
+Textes :
+- Loi n° 2024-364 du 22 avril 2024 :
+  https://www.legifrance.gouv.fr/loda/id/JORFTEXT000049453263 (S6)
+
+Jurisprudence / Communication officielle :
+- Cour de cassation – Communiqué 10/09/2025 « Congé payé et arrêt maladie » :
+  https://www.courdecassation.fr/toutes-les-actualites/2025/09/10/communique-conge-paye-et-arret-maladie (S4)
+
+Fiches officielles pratiques :
+- Ministère du Travail – Congés payés :
+  https://travail-emploi.gouv.fr/les-conges-payes (S1)
+- Service-Public.fr – F2258 Congés payés (secteur privé) :
+  https://www.service-public.gouv.fr/particuliers/vosdroits/F2258 (S2)
+- Entreprendre.Service-Public.fr – Actualité 16/09/2025 (report si malade pendant congés) :
+  https://entreprendre.service-public.gouv.fr/actualites/A18456 (S5)

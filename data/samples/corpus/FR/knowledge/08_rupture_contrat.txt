@@ -1,0 +1,209 @@
+Date de préparation: 2026-02-11
+Titre: Rupture du contrat (démission, licenciement, rupture conventionnelle)
+Doc_ID: rupture_contrat
+Pays: FR
+Périmètre: Salariés du secteur privé (principalement CDI). Des règles spécifiques peuvent s'appliquer selon le type de contrat (CDD, apprentissage), le statut (salarié protégé) et la convention collective.
+
+====================================================================
+SOURCES OFFICIELLES (à privilégier pour l'ingestion)
+====================================================================
+
+1) Ministère du Travail (travail-emploi.gouv.fr)
+- Rupture du contrat de travail: https://travail-emploi.gouv.fr/droit-du-travail/rupture-du-contrat-de-travail
+- Rupture conventionnelle du CDI: https://travail-emploi.gouv.fr/la-rupture-conventionnelle-du-contrat-de-travail-duree-indeterminee
+- Ce qui change au 1er janvier 2026 (contribution rupture conventionnelle): https://travail-emploi.gouv.fr/ce-qui-change-pour-le-travail-et-lemploi-au-1er-janvier-2026
+
+2) Service-Public.fr (DILA - Premier ministre)
+- Rupture conventionnelle (salarié du privé): https://www.service-public.gouv.fr/particuliers/vosdroits/F19030
+- Rupture du contrat de travail dans le secteur privé (portail): https://www.service-public.gouv.fr/particuliers/vosdroits/N19611
+- Certificat de travail: https://www.service-public.gouv.fr/particuliers/vosdroits/F87
+- Solde de tout compte: https://www.service-public.gouv.fr/particuliers/vosdroits/F86
+- Saisir le conseil de prud'hommes (CPH): https://www.service-public.gouv.fr/particuliers/vosdroits/F2360
+- Fin de contrat (employeur) : documents à remettre au salarié: https://entreprendre.service-public.gouv.fr/vosdroits/F21789
+
+3) Légifrance (textes consolidés)
+- Code du travail, art. L1237-13 (rétractation 15 jours): https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019071182
+- Code du travail, art. L1237-14 (homologation + délai de recours 12 mois): https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019071180
+- Code du travail, art. L1232-2 (convocation entretien préalable / 5 jours ouvrables): https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901000
+- Code du travail, art. L1232-6 (notification licenciement / délai 2 jours ouvrables): https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036762096
+- Code du travail, art. L1471-1 (prescriptions en droit du travail): https://www.legifrance.gouv.fr/codes/id/LEGISCTA000027550102
+- Code du travail, art. L1234-20 (reçu pour solde de tout compte): https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019071083
+
+4) Téléservice officiel Rupture conventionnelle (TéléRC)
+- Portail TéléRC: https://www.telerc.travail.gouv.fr/
+- Espace documentaire (délais, homologation): https://www.telerc.travail.gouv.fr/espace-documentaire/rupture-conventionnelle
+
+5) Code du travail numérique (Ministère du Travail)
+- Outil: indemnité rupture conventionnelle: https://code.travail.gouv.fr/outils/indemnite-rupture-conventionnelle
+- Modèles de courriers: https://code.travail.gouv.fr/modeles-de-courriers
+
+6) URSSAF (règles déclaratives et taux 2026)
+- Indemnités de rupture conventionnelle (taux 40% en 2026): https://www.urssaf.fr/accueil/employeur/embaucher-gerer-salaries/gerer-fin-relation-travail/rupture-conventionnelle.html
+- Actualité URSSAF (augmentation du taux): https://www.cea.urssaf.fr/portail/accueil/s-informer-sur-offre-de-service/actualites/augmentation-du-taux-de-la-contr.html
+
+7) BOSS (Bulletin officiel de la sécurité sociale)
+- Indemnités de rupture (régime social/fiscal): https://boss.gouv.fr/portail/accueil/autres-elements-de-remuneration/indemnites-de-rupture.html
+
+8) Conseil d'État (actualité)
+- Abandon de poste / présomption de démission: https://www.conseil-etat.fr/actualites/presomption-de-demission-en-cas-d-abandon-de-poste-la-mise-en-demeure-doit-indiquer-les-consequences-de-l-absence-de-reprise-du-travail-sans-moti
+
+
+====================================================================
+CONTEXTE
+====================================================================
+
+La rupture du contrat de travail peut intervenir notamment par:
+- Démission (initiative du salarié)
+- Licenciement (initiative de l'employeur, motif personnel ou économique)
+- Rupture conventionnelle individuelle (accord employeur/salarié pour un CDI)
+
+Chaque mode de rupture entraîne des conséquences distinctes (procédure, préavis, indemnités, accès à l'assurance chômage, documents de fin de contrat) et doit être qualifié correctement dès le départ (enjeu contentieux important).
+
+====================================================================
+DÉFINITIONS (socle)
+====================================================================
+
+- Démission: manifestation de volonté du salarié de rompre son contrat. Pour être valable, elle doit être claire et non équivoque.
+- Licenciement: rupture par l'employeur. La procédure et les obligations varient selon le motif (personnel, disciplinaire, économique) et selon certaines situations (salarié protégé, inaptitude, etc.).
+- Rupture conventionnelle (RC) individuelle du CDI: rupture d'un commun accord, encadrée par une procédure spécifique (entretien(s), signature d'une convention, délai de rétractation, puis homologation ou autorisation).
+
+====================================================================
+RÈGLES PRINCIPALES (RAG-ready)
+====================================================================
+
+[RP-1] Qualification du mode de rupture
+- Bien distinguer: démission / licenciement / rupture conventionnelle.
+- La qualification détermine les obligations (délais, formalisme) et les droits du salarié (indemnités, chômage).
+
+[RP-2] Rupture conventionnelle (CDI) - procédure obligatoire
+- Entretien(s) entre employeur et salarié.
+- Signature d'une convention de rupture.
+- Délai de rétractation: 15 jours calendaires (Code du travail, L1237-13).
+- Après la rétractation: demande d'homologation (sauf salarié protégé: autorisation).
+- Délai d'instruction de l'administration: 15 jours ouvrables; absence de réponse à l'issue du délai = homologation (TéléRC + Code du travail, L1237-14).
+- Date de rupture: ne peut pas être antérieure au lendemain du jour de l'homologation/autorisation (L1237-14).
+
+[RP-3] Rupture conventionnelle - indemnité minimale
+- L'indemnité spécifique de RC ne peut pas être inférieure à l'indemnité légale de licenciement (référence rappelée sur les pages Ministère du Travail et Service-Public).
+- Pour l'estimation: utiliser l'outil officiel Code du travail numérique (simulateur).
+
+[RP-4] Rupture conventionnelle - recours / contestation
+- Recours juridictionnel (CPH) dans un délai de 12 mois à compter de la date d'homologation (Code du travail, L1237-14 ; rappel Service-Public).
+
+[RP-5] Licenciement motif personnel - délais procéduraux minimaux (socle)
+- Convocation à entretien préalable: respecter un délai minimal de 5 jours ouvrables entre la présentation/remise de la convocation et l'entretien (Code du travail, L1232-2).
+- Notification du licenciement (lettre): ne peut pas être expédiée moins de 2 jours ouvrables après la date prévue de l'entretien (Code du travail, L1232-6).
+- La lettre de licenciement doit énoncer les motifs.
+
+[RP-6] Documents de fin de contrat - obligations employeur
+A la fin du contrat de travail, l'employeur tient à disposition/remet notamment:
+- Certificat de travail (Service-Public F87)
+- Reçu pour solde de tout compte (Service-Public F86 ; Code du travail L1234-20)
+- Attestation France Travail (mentionnée dans Service-Public "Fin de contrat" employeur)
+Les modalités peuvent varier selon l'organisation (mise à disposition, remise, envoi), mais la remise doit être traçable.
+
+[RP-7] Solde de tout compte - effet libératoire si signé
+- Le reçu pour solde de tout compte détaille les sommes versées à la rupture.
+- S'il est signé et comporte les mentions requises, il devient libératoire au-delà de 6 mois (Service-Public F86).
+- Le salarié n'est pas obligé de signer.
+
+[RP-8] Rupture conventionnelle - contribution patronale (régime social) - changement 2026
+- Pour les ruptures intervenant à compter du 1er janvier 2026, le taux de la contribution patronale relative aux indemnités de rupture conventionnelle (et mise à la retraite) est rehaussé de 30% à 40% (Ministère du Travail).
+- URSSAF: précise les modalités déclaratives et rappelle le taux à 40% en 2026.
+- BOSS: encadre le régime social/fiscal des indemnités de rupture.
+
+====================================================================
+EXCEPTIONS / CAS PARTICULIERS (à indexer)
+====================================================================
+
+[CP-1] Salarié protégé
+- Rupture conventionnelle: au lieu d'une homologation, une autorisation administrative est requise (procédure spécifique).
+- Licenciement: autorisation de l'inspection du travail selon le statut et la situation.
+
+[CP-2] Convention collective / contrat / usages
+- Préavis, indemnités, formalités peuvent être plus favorables ou préciser des règles (notamment préavis de démission/licenciement).
+- Toujours vérifier convention collective applicable + contrat de travail.
+
+[CP-3] Abandon de poste / présomption de démission (dispositif spécifique)
+- La présomption de démission suppose une mise en demeure de justifier l'absence et de reprendre le poste dans un délai fixé.
+- Le Conseil d'État (18/12/2024) précise que la mise en demeure doit indiquer les conséquences de l'absence de reprise du travail sans motif légitime.
+
+====================================================================
+PROCÉDURE (focus) — Rupture conventionnelle CDI (process simple)
+====================================================================
+
+[RC-ETAPE-1] Préparation + entretien(s)
+- Organiser un ou plusieurs entretien(s) avec le salarié.
+- Préparer les éléments: date envisagée de rupture, montant d'indemnité, informations sur droit de rétractation.
+
+[RC-ETAPE-2] Convention de rupture
+- Rédiger et signer la convention.
+- Remettre un exemplaire signé à chaque partie (bonne pratique de preuve: remise contre décharge / envoi traçable).
+
+[RC-ETAPE-3] Rétractation (15 jours calendaires)
+- Chaque partie dispose de 15 jours calendaires à compter de la date de signature pour se rétracter (L1237-13).
+- Moyen recommandé: courrier permettant d'attester la date de réception (Service-Public).
+
+[RC-ETAPE-4] Homologation / autorisation
+- Si aucune rétractation: déposer la demande d'homologation via TéléRC.
+- Délai d'instruction: 15 jours ouvrables (TéléRC / L1237-14). Silence = homologation.
+
+[RC-ETAPE-5] Fixer la date de rupture + sortie
+- La date de rupture ne peut pas être antérieure au lendemain de l'homologation/autorisation (L1237-14).
+- Émettre les documents de fin de contrat (certificat de travail, attestation France Travail, solde de tout compte).
+- Gérer les éléments paie (indemnité, congés payés, etc.) + régime social (URSSAF / BOSS).
+
+====================================================================
+CHECKLIST RH (pièces & preuves)
+====================================================================
+
+[CL-1] Documents/écrits de rupture (selon mode)
+- Démission: écrit du salarié (ou confirmation écrite) + gestion du préavis.
+- Licenciement: convocation entretien + preuve d'envoi/remise; compte rendu; lettre de licenciement motivée + preuve.
+- Rupture conventionnelle: convention signée + preuve de remise d'un exemplaire à chaque partie; preuve de dépôt TéléRC; décision/issue homologation.
+
+[CL-2] Fin de contrat (obligatoire)
+- Certificat de travail
+- Attestation France Travail
+- Reçu pour solde de tout compte
+- (Selon cas) état récapitulatif épargne salariale / documents mutuelle-prévoyance / portabilité (à vérifier selon contrat/organisme)
+
+[CL-3] Traçabilité (prévention contentieux)
+- Privilégier LRAR, remise en main propre contre décharge, ou système d'horodatage interne.
+- Archiver: accusés de réception, échanges, pièces TéléRC, copies des documents remis.
+
+====================================================================
+POINTS DE VIGILANCE (juridique)
+====================================================================
+
+[VIG-1] Risque de requalification / contestation
+- RC: attention aux pressions/vice du consentement; conserver les preuves d'un accord libre.
+- Licenciement: attention aux délais, à la motivation de la lettre et à la cohérence dossier.
+- Démission: vérifier qu'elle est claire et non équivoque; attention aux cas d'abandon de poste.
+
+[VIG-2] Délais légaux = points de nullité/irrégularité
+- RC: rétractation (15 jours calendaires) + homologation (15 jours ouvrables).
+- Licenciement motif personnel: 5 jours ouvrables avant entretien + 2 jours ouvrables avant envoi lettre.
+- Prud'hommes: délais de prescription à vérifier (L1471-1 + pages Service-Public).
+
+[VIG-3] Coût employeur RC à partir du 01/01/2026
+- Contribution patronale portée à 40% (Ministère du Travail / URSSAF).
+- Vérifier paramétrage paie et déclaration.
+
+====================================================================
+RÉFÉRENCES NORMATIVES (cibles RAG)
+====================================================================
+
+- Code du travail: Rupture conventionnelle (L1237-11 à L1237-16)
+  * L1237-13: droit de rétractation 15 jours calendaires
+  * L1237-14: homologation/autorisation + délai de recours 12 mois + date de rupture (lendemain de l'homologation)
+
+- Code du travail: Licenciement motif personnel
+  * L1232-2: délai minimal 5 jours ouvrables entre convocation et entretien
+  * L1232-6: notification par lettre, délai minimal 2 jours ouvrables après entretien
+
+- Code du travail: Solde de tout compte
+  * L1234-20 (règles de base)
+
+- Prescriptions (droit du travail)
+  * L1471-1 (à compléter selon l'objet de l'action; se reporter à Service-Public CPH)

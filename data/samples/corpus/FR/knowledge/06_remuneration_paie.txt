@@ -1,0 +1,236 @@
+# Rémunération & paie (SMIC, bulletin, retenues, primes, frais)
+# Doc_ID: remuneration_paie | Pays: FR
+# Date de préparation: 2026-02-11 | Date de consultation: 2026-02-11
+# Périmètre: Salariés du secteur privé (CDI/CDD/intérim), sauf mention contraire.
+# Remarque: Des règles peuvent être précisées/complétées par convention collective, accord d’entreprise, contrat, ou usage.
+
+============================================================
+1) SOURCES OFFICIELLES (à citer en RAG)
+============================================================
+
+A) Ministère du Travail et des Solidarités (travail-emploi.gouv.fr)
+- Le salaire : fixation et paiement
+  https://travail-emploi.gouv.fr/le-salaire-fixation-et-paiement
+- Le SMIC (montants et principes)
+  https://travail-emploi.gouv.fr/le-smic-salaire-minimum-de-croissance
+- Revalorisation annuelle du SMIC au 1er janvier 2026 (détail des montants 2026)
+  https://travail-emploi.gouv.fr/revalorisation-annuelle-du-smic-au-1er-janvier-2026
+- Le bulletin de paie (mentions obligatoires, mentions interdites, modèle, net social)
+  https://travail-emploi.gouv.fr/le-bulletin-de-paie
+- La saisie et les cessions des rémunérations (réforme à compter du 01/07/2025)
+  https://travail-emploi.gouv.fr/la-saisie-et-les-cessions-des-remunerations
+- Prime de partage de la valeur (PPV)
+  https://travail-emploi.gouv.fr/la-prime-de-partage-de-la-valeur
+
+B) Service-Public (particuliers) (service-public.gouv.fr)
+- Salaire, primes et avantages (définition des avantages en nature, etc.)
+  https://www.service-public.gouv.fr/particuliers/vosdroits/F2301
+- Fiche de paie (règles, sanctions, conservation, net social)
+  https://www.service-public.gouv.fr/particuliers/vosdroits/F559
+- Paiement du salaire (mode, trop-perçu, prescription, sanctions retard/non-paiement)
+  https://www.service-public.gouv.fr/particuliers/vosdroits/F2308
+- Saisie sur salaire (saisie des rémunérations) – règles générales
+  https://www.service-public.gouv.fr/particuliers/vosdroits/F115
+- Obligations de l’employeur en cas de saisie (focus réforme au 01/07/2025)
+  https://www.service-public.gouv.fr/particuliers/vosdroits/F32951
+
+C) Service-Public (entreprises) (entreprendre.service-public.gouv.fr)
+- Prise en charge obligatoire des frais de transports publics (50%) + mentions bulletin + règles sociales/fiscales
+  https://entreprendre.service-public.gouv.fr/vosdroits/F37900
+- Actualité : prolongation en 2026 des mesures transport/pourboires (exonération 75% au 01/01/2026 selon BOSS/BOFiP)
+  https://entreprendre.service-public.gouv.fr/actualites/A18726
+
+D) Légifrance (legifrance.gouv.fr) – Code du travail / textes
+- Bulletin de paie: L.3243-2 (remise + dématérialisation sauf opposition)
+  https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033024092
+- Bulletin de paie: R.3243-1 (liste de mentions obligatoires)
+  https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041757540
+- Conservation côté employeur: L.3243-4 (5 ans)
+  https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020625846
+- Retenues “fournitures diverses”: L.3251-1 (interdiction de compensation)
+  https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902873
+- Paiement mensuel + acompte à quinzaine: L.3242-1
+  https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902858
+- Date de paiement / jour ouvrable sauf virement: R.3241-1
+  https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018533814
+- Prescription de l’action en paiement ou répétition du salaire (3 ans): L.3245-1
+  https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027566295
+- Transport: L.3261-2 (prise en charge abonnements)
+  https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006189675
+
+E) Urssaf (urssaf.fr)
+- Frais professionnels (principes)
+  https://www.urssaf.fr/accueil/employeur/beneficier-exonerations/frais-professionnels.html
+- Barèmes / plafonds frais professionnels (année 2026)
+  https://www.urssaf.fr/accueil/outils-documentation/taux-baremes/frais-professionnels.html
+- Montant du SMIC (tableau 2026 utile paie)
+  https://www.urssaf.fr/accueil/outils-documentation/taux-baremes/montant-smic.html
+- Avantages en nature (principes et modalités d’évaluation)
+  https://www.urssaf.fr/accueil/employeur/cotisations/avantages-en-nature.html
+
+F) BOSS (boss.gouv.fr) – doctrine cotisations (frais/avantages)
+- Frais professionnels (règles et doctrine opposable)
+  https://boss.gouv.fr/accueil/autres-elements-de-remuneration/frais-professionnels.html
+- Avantages en nature (règles et doctrine opposable)
+  https://boss.gouv.fr/accueil/autres-elements-de-remuneration/avantages-en-nature.html
+
+G) Ministère de la Transition écologique (ecologie.gouv.fr) – Forfait mobilités durables
+- FAQ officielle FMD
+  https://www.ecologie.gouv.fr/politiques-publiques/faq-forfait-mobilites-durables-fmd
+
+============================================================
+2) CONTEXTE (synthèse)
+============================================================
+- Le salaire est la contrepartie du travail. Il peut inclure: salaire de base, primes, majorations, avantages en nature, et autres éléments selon les règles légales/collectives/contractuelles.
+- La paie recouvre: fixation du salaire (bornes légales, notamment le SMIC, et minima conventionnels), paiement du salaire, remise d’un bulletin, règles de retenues, gestion des remboursements de frais, et traitement des erreurs (trop-perçu).
+
+============================================================
+3) DÉFINITIONS OPÉRATIONNELLES
+============================================================
+- SMIC: salaire minimum légal (horaire et mensuel) constituant un plancher, sous réserve de cas particuliers et de la vérification des minima conventionnels.
+- Avantage en nature: bien/service fourni par l’employeur (ex: logement, véhicule) permettant au salarié d’économiser une dépense personnelle; il est intégré en paie (assiette, cotisations) selon les règles.
+- Frais professionnels: dépenses engagées par le salarié pour les besoins de son activité; remboursement possible au réel ou au forfait dans les conditions (URSSAF/BOSS).
+
+============================================================
+4) RÈGLES PRINCIPALES (RH/Paie)
+============================================================
+
+4.1 SMIC et fixation du salaire
+- Le salaire ne peut pas être inférieur au SMIC. En pratique, il faut aussi vérifier les minima conventionnels applicables (classification, coefficient, etc.).
+- Montants applicables à compter du 01/01/2026 (base 35h):
+  * SMIC horaire brut: 12,02 €
+  * SMIC mensuel brut: 1 823,03 €
+  (Ces montants sont confirmés par le Ministère du Travail et par l’Urssaf.)
+- Contrôle “SMIC”: attention à la distinction entre éléments de rémunération et remboursements de frais (les frais remboursés ne se traitent pas comme du salaire). Se référer aux explications officielles du Ministère/Urssaf/BOSS selon le type d’élément.
+
+4.2 Paiement du salaire (périodicité, date, mode)
+- Mensualisation: le paiement de la rémunération est effectué une fois par mois. Le salarié qui en fait la demande a droit à un acompte à quinzaine dans les conditions de l’article L.3242-1.
+- Date de paiement: le salaire est versé un jour ouvrable sauf en cas de paiement par virement (R.3241-1).
+- Mode de paiement:
+  * Au-delà de 1 500 € net/mois: paiement par chèque ou virement (règles rappelées sur travail-emploi.gouv.fr).
+  * À 1 500 € net/mois ou moins: le salarié peut demander un paiement en espèces (rappel travail-emploi.gouv.fr).
+- Retard/non-paiement: Service-Public rappelle l’existence de sanctions et les recours (prud’hommes, etc.).
+
+4.3 Bulletin de paie (remise, dématérialisation, mentions, conservation)
+- Remise obligatoire d’un bulletin lors du paiement du salaire (cadre légal). La remise peut être électronique, sauf opposition du salarié (L.3243-2).
+- Mentions obligatoires: encadrées par le Code du travail; le détail figure notamment à l’article R.3243-1.
+- Mentions interdites: certaines informations ne doivent pas apparaître; se référer à la page officielle “Le bulletin de paie” du Ministère et à Service-Public.
+- Modèle / “bulletin clarifié” + Montant net social:
+  * Le Ministère rappelle le modèle de bulletin et les règles liées au “montant net social” (obligation d’affichage et modalités).
+  * Des textes réglementaires et arrêtés encadrent l’ordre et les libellés de présentation.
+- Conservation:
+  * Côté employeur: conservation d’un double pendant 5 ans (L.3243-4).
+  * Service-Public précise, au-delà de 5 ans, des exigences de disponibilité (jusqu’à 50 ans après émission ou 6 ans après départ à la retraite selon le cas) lorsqu’il y a dématérialisation/gestion électronique, ainsi que les sanctions en cas de non-remise (amende pouvant atteindre 450 € par fiche).
+
+4.4 Retenues sur salaire et compensations (principes + interdictions)
+- En cas d’absence/suspension du contrat, le salaire de base est diminué proportionnellement au travail non accompli (sauf dispositions plus favorables).
+- Des règles particulières s’appliquent à certaines retenues (avances, fournitures diverses, trop-perçu, saisies, cessions).
+- Interdiction “fournitures diverses”: l’employeur ne peut pas opérer une retenue pour compenser des sommes dues par le salarié pour fournitures diverses (L.3251-1).
+- Les sanctions pécuniaires sont interdites (rappel du Ministère du Travail).
+
+4.5 Trop-perçu (erreur de paie): récupération, plafond, prescription, mentions
+- Si une somme non due a été versée par erreur, l’employeur peut demander le remboursement.
+- Service-Public précise:
+  * La retenue sur salaire ne peut pas être supérieure à 10% du salaire net.
+  * Le remboursement peut être organisé à l’amiable, ou récupéré dans les limites applicables (saisie sur rémunérations), ou via action en justice.
+  * Prescription: 3 ans à compter du jour où l’employeur s’aperçoit de l’erreur (cohérent avec la prescription triennale de l’action en répétition du salaire, L.3245-1).
+  * Le bulletin doit mentionner le montant de la retenue et sa nature.
+- Bonnes pratiques paie: privilégier un écrit (accord amiable/échéancier), tracer la justification, et afficher clairement la retenue sur le bulletin.
+
+4.6 Primes et éléments variables
+- Une prime peut être obligatoire si elle résulte d’un engagement: contrat, accord collectif, usage, etc. (références Service-Public + documents internes).
+- PPV (Prime de partage de la valeur): cadre et conditions sur la page officielle du Ministère du Travail (vérifier éligibilité, non-substitution, modalités, éventuels plafonds et régimes applicables).
+
+4.7 Frais professionnels et avantages en nature (sécurisation social/cotisations)
+- Distinguer:
+  * Frais professionnels = remboursement d’une dépense engagée pour l’activité (URSSAF/BOSS: réel ou forfait, conditions d’exonération).
+  * Avantage en nature = fourniture/mise à disposition d’un bien/service (URSSAF/BOSS: modalités d’évaluation et assujettissement).
+- Pour le forfait:
+  * Respecter les barèmes/plafonds et conditions (URSSAF – Taux & barèmes + BOSS) pour sécuriser l’exonération de cotisations.
+- Pour l’évaluation des avantages en nature:
+  * Se référer aux fiches URSSAF et à la doctrine BOSS (véhicule, logement, etc.).
+
+4.8 Transport domicile–travail (abonnements) + FMD (mobilités durables)
+- Obligation: prise en charge par l’employeur d’une partie des titres d’abonnement aux transports publics et services publics de location de vélos (L.3261-2) ; Service-Public Entreprendre détaille le “50%” obligatoire et les modalités.
+- Mention sur bulletin: Service-Public indique que la prise en charge des frais de transport domicile–travail doit apparaître au bulletin parmi les “autres versements et retenues” (fiche de paie).
+- Régime social/fiscal: le site Entreprendre Service-Public a publié une actualité indiquant qu’au 01/01/2026, dans l’attente de la loi de finances, la doctrine (BOSS/BOFiP) maintient l’exonération sur une prise en charge jusqu’à 75% en 2026 (au-delà du 50% obligatoire), sous conditions.
+- Forfait mobilités durables (FMD): se référer à la FAQ officielle du ministère de la Transition écologique (éligibilité, modes de transport, preuves, cumul, etc.).
+
+============================================================
+5) EXCEPTIONS / CAS PARTICULIERS (checklist)
+============================================================
+- Primes: vérifier la source de l’engagement (contrat/accord/usage) et les conditions (présence, ancienneté, performance, etc.).
+- Salariés non mensualisés: règles spécifiques sur la périodicité de paiement (Service-Public).
+- Bulletin: des régimes particuliers existent (ex: certains emplois à domicile, etc. – se référer au Code du travail et aux pages officielles).
+- Transport: règles spécifiques selon le type de titre, le champ (abonnements), et les évolutions temporaires de régime social/fiscal (suivre Entreprendre Service-Public + BOSS).
+
+============================================================
+6) PROCÉDURE RECOMMANDÉE (Paie sécurisée)
+============================================================
+Étape 1 — Sécuriser la base de rémunération
+- Vérifier SMIC en vigueur + composantes “prises en compte” selon les pages officielles.
+- Vérifier minima conventionnels et classification.
+- Documenter (contrat, avenants, accords, usages, notes internes).
+
+Étape 2 — Produire la paie
+- Paiement: vérifier périodicité, date de paiement, mode (virement/chèque/espèces et seuils).
+- Bulletin: mentions obligatoires (R.3243-1), net social, mentions interdites, conservation et disponibilité.
+
+Étape 3 — Gérer événements et corrections
+- Frais pro: choisir réel vs forfait, exiger justificatifs si réel, appliquer barèmes si forfait.
+- Avantages en nature: évaluer selon règles URSSAF/BOSS, intégrer en paie.
+- Transport: vérifier justificatifs d’abonnement, appliquer prise en charge obligatoire, afficher sur bulletin.
+- Trop-perçu: privilégier accord amiable/échéancier, plafonner les retenues (10% net), mentionner sur bulletin.
+- Saisie/cession: appliquer la procédure applicable (réforme au 01/07/2025) et les obligations d’information/versement (Ministère/Service-Public).
+
+============================================================
+7) DOCUMENTS / PREUVES À DEMANDER (ingestion RAG: “preuves”)
+============================================================
+- Contrat de travail, avenants, convention collective applicable, accord d’entreprise (classification, minima, primes).
+- Bulletins de paie + preuve de remise (papier ou mise à disposition électronique + information au salarié).
+- Justificatifs de frais (tickets, factures) si remboursement au réel + politique notes de frais.
+- Pièces transport: titre d’abonnement nominatif/justificatifs, période couverte.
+- Avantages en nature: éléments de calcul et de valorisation (contrat de mise à disposition, modalités d’usage, etc.).
+- Trop-perçu: courrier d’information, accord écrit (échéancier), justificatifs de calcul, lignes de retenue en paie.
+- Saisie: acte/notifications, échanges, preuves de versement et déclarations selon le régime en vigueur.
+
+============================================================
+8) POINTS DE VIGILANCE (juridique RH)
+============================================================
+- SMIC et minima conventionnels: risque de rappel de salaire si insuffisance.
+- Paiement: respect des règles (date/jour ouvrable, mode, acompte, seuils) ; tracer les versements.
+- Bulletin: conformité stricte (mentions obligatoires/interdites) + net social + conservation/disponibilité.
+- Retenues: éviter compensations interdites (L.3251-1) ; trop-perçu encadré (10% net + mention + prescription).
+- Frais vs avantages: erreurs de qualification = risque URSSAF (cotisations) ; documenter la méthode (réel/forfait).
+- Transport: obligation 50% + actualités 2026 sur l’exonération 75% ; vérifier si des textes nouveaux modifient la situation au fil de l’année (source: Entreprendre Service-Public + BOSS).
+
+============================================================
+9) EXEMPLES (pour tests RAG)
+============================================================
+Exemple A — SMIC (01/01/2026)
+- Un salarié à temps plein (35h) ne peut pas être payé en dessous de 1 823,03 € brut mensuels (SMIC 2026).
+
+Exemple B — Trop-perçu (paie)
+- Trop-perçu détecté: l’employeur propose un échéancier; à défaut d’accord, la retenue mensuelle ne peut pas dépasser 10% du salaire net. Le bulletin affiche le montant et la nature de la retenue.
+
+Exemple C — Transport
+- Abonnement transports publics: l’employeur rembourse au minimum 50%; la prise en charge apparaît sur le bulletin. Une prise en charge jusqu’à 75% peut bénéficier d’un régime d’exonération en 2026 selon la doctrine indiquée sur Entreprendre Service-Public (à suivre selon actualités et textes).
+
+============================================================
+10) INDEX “ARTICLES / RÉFÉRENCES” (pour retrieval rapide)
+============================================================
+- Code du travail – Paiement mensuel + acompte: L.3242-1
+  https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902858
+- Code du travail – Date de paiement: R.3241-1
+  https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018533814
+- Code du travail – Bulletin: L.3243-2 / R.3243-1 / L.3243-4
+  https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033024092
+  https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041757540
+  https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020625846
+- Code du travail – Retenues “fournitures diverses”: L.3251-1
+  https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902873
+- Code du travail – Prescription salaire (paiement / répétition): L.3245-1
+  https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027566295
+- Code du travail – Transport: L.3261-2
+  https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006189675
+

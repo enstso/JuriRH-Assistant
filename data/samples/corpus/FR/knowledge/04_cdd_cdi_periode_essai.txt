@@ -1,0 +1,271 @@
+Date de préparation: 2026-02-11
+Titre: Contrat de travail (CDI, CDD, période d'essai)
+Doc_ID: contrat_cdd_cdi_essai
+Pays: FR
+Langue: fr
+Périmètre: Secteur privé (règles générales). Des règles conventionnelles (conventions/accords collectifs) peuvent prévoir des durées/modalités différentes, dans le cadre autorisé par la loi.
+
+Sources (sites officiels):
+- Service-Public.fr (DILA / Premier ministre)
+- Ministère du Travail et des Solidarités (travail-emploi.gouv.fr)
+- Code du travail numérique (code.travail.gouv.fr) — service public d'information
+- Légifrance (legifrance.gouv.fr) — diffusion du droit
+- Justice.fr (justice.fr) — service public d'information
+
+Date de consultation: 2026-02-11
+Versions / dates des sources (indicatif):
+- Ministère du Travail (article “Le CDD conclu avant un CDI réduit la durée de la période d'essai”): publié le 04/10/2024
+- Service-Public (F1643 “Période d'essai pour un salarié”): vérifié le 14/04/2025
+- Service-Public (F38 “Renouvellement d'un CDD”): vérifié le 31/07/2023
+- Service-Public (F36 “Conclusion du CDD”): vérifié le 19/03/2021
+- Service-Public (F34 “Un employeur peut-il embaucher en CDD ?”): vérifié le 10/07/2025
+- Service-Public (F34572 “Dans quels cas un CDD est-il requalifié en CDI ?”): vérifié le 21/02/2024
+- Justice.fr (fiche “Dans quels cas un CDD est-il requalifié en CDI ?”): mis à jour le 21/02/2024
+- Code du travail numérique (contribution “Durée maximale d'un CDD”): mis à jour le 01/01/2025
+- Code du travail (articles cités): version en vigueur au 12/02/2026 (référence Légifrance)
+
+URLs (sélection):
+- Ministère du Travail: https://travail-emploi.gouv.fr/le-cdd-conclu-avant-un-cdi-reduit-la-duree-de-la-periode-dessai
+- Ministère du Travail (dossier CDD): https://travail-emploi.gouv.fr/le-contrat-duree-determinee-cdd
+- Ministère du Travail (dossier Période d'essai): https://travail-emploi.gouv.fr/la-periode-dessai
+
+- Service-Public (Période d'essai): https://www.service-public.gouv.fr/particuliers/vosdroits/F1643
+- Service-Public (Renouvellement d'un CDD): https://www.service-public.gouv.fr/particuliers/vosdroits/F38
+- Service-Public (Conclusion d'un CDD): https://www.service-public.gouv.fr/particuliers/vosdroits/F36
+- Service-Public (Conditions de conclusion d'un CDD): https://www.service-public.gouv.fr/particuliers/vosdroits/F34
+- Service-Public (Requalification CDD -> CDI): https://www.service-public.gouv.fr/particuliers/vosdroits/F34572
+- Service-Public (Prime de précarité / indemnité fin CDD): https://www.service-public.gouv.fr/particuliers/vosdroits/F803
+- Service-Public (Fin d'un CDD): https://www.service-public.gouv.fr/particuliers/vosdroits/F40
+
+- Justice.fr (Requalification): https://www.justice.fr/fiche/cas-cdd-requalifie-cdi
+
+- Code du travail numérique (L1243-11): https://code.travail.gouv.fr/code-du-travail/l1243-11
+- Code du travail numérique (Durée maximale d'un CDD): https://code.travail.gouv.fr/contribution/quelle-peut-etre-la-duree-maximale-dun-cdd
+- Code du travail numérique (Renouvellement / contribution): https://code.travail.gouv.fr/contribution/2216-combien-de-fois-le-contrat-de-travail-peut-il-etre-renouvele
+
+- Légifrance (Section “Période d'essai” L1221-19 à L1221-26): https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000019067609/
+- Légifrance (Article L1243-11): https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901222
+- Légifrance (Article L1242-1): https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901194
+- Légifrance (Article L1242-2): https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037312980
+- Légifrance (Article L1242-6): https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901199
+- Légifrance (Article L1242-12): https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901206
+- Légifrance (Article L1242-13): https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901207
+- Légifrance (Article L1242-10): https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901204
+- Légifrance (Article L1242-8-1): https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035643961
+- Légifrance (Article L1243-13-1): https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035639380
+- Légifrance (Article L1244-3-1): https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035639421
+- Légifrance (Article L1244-4-1): https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035639433
+- Légifrance (Article L1245-2): https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901234
+- Légifrance (Article L1243-8): https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901219
+- Légifrance (Article L1243-10): https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901221
+
+- Jurisprudence (Légifrance JURI): Cass. soc., 19/06/2024, n° 23-10.783
+  https://www.legifrance.gouv.fr/juri/id/JURITEXT000049774948
+
+================================================================================
+1) Contexte
+================================================================================
+- Le CDI est la forme “normale et générale” de la relation de travail.
+- Le CDD est un recours encadré: il ne peut pas avoir pour objet ni pour effet de pourvoir durablement un emploi lié à l'activité normale et permanente de l'entreprise (art. L1242-1).
+- La période d’essai n’est pas obligatoire: elle n’existe que si elle est prévue dans le contrat de travail ou la lettre d’engagement (principe rappelé sur Service-Public et par le Ministère du Travail).
+- En cas d'enchaînement CDD -> CDI chez le même employeur, la durée du (ou des) CDD peut réduire la période d’essai du CDI (art. L1243-11; Cass. soc., 19/06/2024).
+
+================================================================================
+2) Définitions (opérationnelles pour RH)
+================================================================================
+CDI:
+- Contrat sans terme fixé (relation durable).
+
+CDD:
+- Contrat à durée limitée, autorisé seulement dans des cas précis (tâche précise et temporaire) et soumis à formalisme (écrit, motif précis, mentions obligatoires, transmission au salarié).
+
+Période d’essai:
+- Phase initiale du contrat permettant à l'employeur d'évaluer les compétences du salarié et au salarié d'apprécier le poste.
+- Elle doit être expressément stipulée (sinon: pas d'essai).
+
+Délai de carence:
+- Délai minimal à respecter avant de conclure un nouveau CDD sur le même poste après la fin d’un CDD, sauf exceptions (règles légales ou convention/accord de branche).
+
+Requalification:
+- Transformation judiciaire d’un ou plusieurs CDD irréguliers en CDI, avec conséquences sur l'ancienneté et indemnités (voir Service-Public F34572, Justice.fr et art. L1245-2).
+
+================================================================================
+3) Règles principales (à utiliser en “base de connaissances” RAG)
+================================================================================
+
+3.1 CDD: principe, motifs autorisés et interdictions
+A) Principe d’interdiction de pourvoir durablement un emploi permanent
+- Un CDD ne peut pas pourvoir durablement un emploi lié à l'activité normale et permanente de l'entreprise (art. L1242-1).
+- Service-Public rappelle que le CDD doit correspondre à une tâche précise et temporaire; sinon risque de requalification.
+
+B) Cas de recours (exemples fréquents)
+- Les cas de recours sont listés par le Code du travail (art. L1242-2) et présentés sur Service-Public (F34) : remplacement, accroissement temporaire d’activité, emploi saisonnier, certains emplois “d’usage”, etc.
+- Toujours vérifier que le cas correspond au besoin RH réel (preuve interne: élément objectif).
+
+C) Interdictions / restrictions (exemples)
+- Interdiction de conclure un CDD pour remplacer un salarié dont le contrat est suspendu par suite d'un conflit collectif (grève) (art. L1242-6).
+- Interdiction (principe) de conclure un CDD pour certains travaux particulièrement dangereux listés par voie réglementaire (art. L1242-6).
+
+3.2 Formalisme du CDD (risque majeur de requalification)
+A) Écrit + motif précis + mentions obligatoires
+- Le CDD doit être établi par écrit et comporter la définition précise de son motif (art. L1242-12).
+- A défaut (notamment absence de motif précis): le contrat est réputé conclu pour une durée indéterminée (art. L1242-12) -> risque de requalification CDI.
+
+B) Transmission au salarié
+- Le contrat doit être transmis au salarié au plus tard dans les 2 jours ouvrables suivant l'embauche (art. L1242-13).
+- Attention (spécificité “pointue”): la seule méconnaissance du délai de transmission n'entraîne pas, à elle seule, la requalification en CDI, mais ouvre droit à une indemnité plafonnée à 1 mois de salaire (art. L1245-1; Service-Public F36).
+
+3.3 Renouvellement du CDD (plafond, conditions)
+A) Règle “branche” vs règle “par défaut”
+- Une convention/accord de branche étendu peut fixer le nombre maximal de renouvellements (art. L1243-13).
+- A défaut de stipulation de branche: le CDD est renouvelable 2 fois (art. L1243-13-1; Service-Public F38).
+Note RH: cette règle s'applique au CDD à terme précis. Un CDD sans terme précis a d'autres règles (voir Service-Public F38/F36 et Code du travail).
+
+B) Condition de forme
+- Les conditions de renouvellement doivent être prévues dans le contrat OU faire l'objet d'un avenant soumis au salarié avant le terme initialement prévu (art. L1243-13-1; Service-Public F38).
+
+3.4 Durée maximale du CDD (règle “branche” + règle “par défaut” + exceptions)
+- Une convention/accord de branche étendu peut fixer la durée totale maximale (art. L1242-8).
+- A défaut: la durée totale ne peut excéder 18 mois, renouvellements compris (art. L1242-8-1).
+- Exceptions fréquentes (à vérifier au cas par cas): ex. 9 mois (attente d’un salarié recruté en CDI), 24 mois (départ définitif avant suppression de poste), etc. (Code du travail numérique: “Durée maximale d'un CDD”).
+
+3.5 Délai de carence entre CDD successifs sur le même poste
+- Règle “branche” possible: la branche peut fixer modalités / cas d’exclusion (art. L1244-3; art. L1244-4).
+- A défaut de stipulation de branche: carence = 1/2 de la durée si CDD < 14 jours; carence = 1/3 si CDD >= 14 jours (art. L1244-3-1; Service-Public F38).
+- Exceptions légales (exemples): la carence n'est pas applicable dans certains cas, notamment pour le remplacement en cas de nouvelle absence du salarié remplacé (art. L1244-4-1; Service-Public F38).
+
+3.6 Période d’essai en CDI: validité, durées, renouvellement, délais de prévenance
+A) Validité
+- L’essai n’existe que s’il est prévu dans le contrat ou la lettre d’engagement (Service-Public F1643; Ministère du Travail).
+
+B) Durées maximales (durée initiale)
+- CDI (durées maximales légales de base): ouvriers/employés 2 mois; agents de maîtrise/techniciens 3 mois; cadres 4 mois (art. L1221-19; voir aussi Service-Public F1643).
+
+C) Renouvellement (CDI)
+- Renouvellement possible 1 fois si un accord de branche étendu le prévoit, et si le contrat/lettre l’indique + accord du salarié (Service-Public F1643).
+- Plafonds “renouvellement compris”: 4 mois (ouvriers/employés), 6 mois (AM/techniciens), 8 mois (cadres) (art. L1221-21; Ministère du Travail “La période d’essai”).
+
+D) Rupture pendant l’essai: délais de prévenance
+- Rupture par l’employeur: délai minimum de prévenance en fonction de l’ancienneté, et indemnité compensatrice en cas de non-respect (art. L1221-25; Service-Public F1643).
+- Rupture par le salarié: délai de prévenance de 48h (24h si présence < 8 jours) (art. L1221-26; Service-Public F1643).
+Note RH: la période d’essai (renouvellement inclus) ne peut pas être prolongée du fait de la durée du délai de prévenance (art. L1221-25).
+
+3.7 Période d’essai en CDD (règles spécifiques)
+- Le CDD peut comporter une période d’essai (art. L1242-10).
+- Durée maximale: 1 jour par semaine de travail, plafonnée à 2 semaines si durée initiale <= 6 mois; plafonnée à 1 mois dans les autres cas (art. L1242-10; Service-Public F1643).
+- Non renouvelable (même avec accord des parties) (Service-Public F1643).
+
+3.8 Enchaînement CDD -> CDI: déduction des CDD sur l’essai du CDI
+- Si la relation contractuelle se poursuit en CDI à la suite d'un ou plusieurs CDD, la durée du/des CDD est déduite de la période d'essai éventuellement prévue dans le CDI (art. L1243-11).
+- La Cour de cassation a rappelé que la déduction s'apprécie pour le ou les CDD pertinents, notamment en cas de succession de CDD sans discontinuité fonctionnelle (Cass. soc., 19/06/2024, n° 23-10.783; Ministère du Travail 04/10/2024).
+Implication RH: en cas de rupture “pendant l’essai” du CDI, vérifier si l’essai a été automatiquement réduit par les CDD antérieurs (sinon risque de contestation).
+
+3.9 Fin du CDD: indemnité de fin de contrat (“prime de précarité”) — rappel utile RH
+- En principe, à l'issue d'un CDD non poursuivi en CDI, indemnité de fin de contrat = 10% de la rémunération brute totale (art. L1243-8; Service-Public F803; Service-Public F40).
+- Cas de non-versement: ex. embauche en CDI à l'issue du CDD, faute grave, force majeure, certains CDD (ex. CDD d'usage) (art. L1243-10; Service-Public F40).
+
+================================================================================
+4) Procédure / étapes (checklist RH)
+================================================================================
+Étape 1 — Qualifier le besoin
+- Besoin durable -> privilégier CDI.
+- Besoin temporaire -> identifier un cas de recours CDD (art. L1242-2) et documenter l'élément objectif (remplacement, surcroît, saisonnier…).
+
+Étape 2 — Sécuriser le formalisme
+CDD:
+- Écrit, français, signé (Service-Public F36).
+- Motif précis + mentions obligatoires (art. L1242-12).
+- Transmission sous 2 jours ouvrables (art. L1242-13) — en cas de retard: risque d’indemnité (art. L1245-1).
+CDI:
+- Si essai souhaité: clause écrite.
+- Vérifier durées légales et, si renouvellement, existence d’un accord de branche étendu + accord du salarié (Service-Public F1643).
+
+Étape 3 — Gérer la vie du CDD
+- Renouvellement: vérifier si branche fixe une règle; sinon renouvellement max = 2; avenant avant terme (art. L1243-13-1; Service-Public F38).
+- Contrats successifs: vérifier la carence (art. L1244-3-1) et ses exceptions (art. L1244-4-1).
+
+Étape 4 — Enchaînement CDD -> CDI
+- Vérifier si le CDI fait suite à des CDD sur le même employeur et en continuité: déduire la durée des CDD de l’essai (art. L1243-11; Cass. 19/06/2024).
+- Si rupture pendant essai: appliquer les délais de prévenance (art. L1221-25 / L1221-26).
+
+================================================================================
+5) Documents / preuves à conserver (audit & contentieux)
+================================================================================
+- Contrat signé (CDD/CDI) + lettre d'engagement si utilisée.
+- Justificatif du motif CDD:
+  - Remplacement: identité du remplacé, cause, dates, preuve d’absence/suspension.
+  - Accroissement: commande/activité objectivée, justificatifs.
+- Avenants de renouvellement (datés, soumis avant terme) + suivi du nombre de renouvellements.
+- Calculs carence (avec justification des exceptions si applicable).
+- Historique des contrats (dates, fonctions, interruptions) pour l’imputation CDD -> essai CDI.
+- Courriers/preuves de notification des délais de prévenance en cas de rupture d'essai.
+
+================================================================================
+6) Points de vigilance “juridique RH” (raccourcis décisionnels)
+================================================================================
+- Essai non écrit = essai inexistant (Service-Public F1643 / Ministère du Travail).
+- CDD sans motif précis / sans écrit -> risque très élevé de requalification CDI (art. L1242-12; Service-Public F36/F34572).
+- Retard de remise du CDD: pas automatiquement requalification, mais indemnité possible (art. L1245-1; Service-Public F36).
+- Oublier la carence (ou mal appliquer une exception) -> risque de requalification (Service-Public F38; art. L1244-3-1 / L1244-4-1).
+- Oublier la déduction des CDD sur l’essai du CDI -> fragilise une rupture pendant essai (art. L1243-11; Cass. 19/06/2024; Ministère 04/10/2024).
+- Rupture d’essai sans respect du délai de prévenance -> indemnité compensatrice (art. L1221-25; Service-Public F1643).
+
+================================================================================
+7) Exemples (pédagogiques)
+================================================================================
+Exemple A — CDD -> CDI et période d’essai
+- Un salarié enchaîne plusieurs CDD chez le même employeur, mêmes fonctions, sans discontinuité fonctionnelle.
+- Embauche en CDI avec période d'essai prévue au contrat.
+- Règle: la durée des CDD est déduite de l’essai du CDI (art. L1243-11; Cass. 19/06/2024).
+- Conséquence: une rupture “pendant l’essai” peut être contestée si l’essai était en réalité réduit/épuisé.
+
+Exemple B — Renouvellement
+- Un CDD à terme précis arrive à échéance.
+- Pour renouveler: vérifier règles de branche; à défaut, max 2 renouvellements; avenant soumis avant terme (art. L1243-13-1; Service-Public F38).
+- Oubli d’avenant avant terme -> risque d’irrégularité et contentieux.
+
+Exemple C — Délai de carence
+- CDD de 30 jours sur un poste X; nouvel emploi sur le même poste X (cas général, hors exceptions).
+- Carence (à défaut d’accord de branche): 1/3 de 30 jours (art. L1244-3-1; Service-Public F38).
+- Si remplacement en cas de nouvelle absence du salarié remplacé: carence non applicable (art. L1244-4-1).
+
+================================================================================
+8) Références juridiques (à citer en “preuve”)
+================================================================================
+Code du travail (Légifrance):
+- CDD: principe et cas de recours
+  - L1242-1 (emploi permanent / activité normale)
+  - L1242-2 (cas de recours)
+  - L1242-6 (interdictions: grève, travaux dangereux…)
+- CDD: forme et transmission
+  - L1242-12 (écrit + motif précis; à défaut réputé CDI)
+  - L1242-13 (transmission sous 2 jours ouvrables)
+  - L1245-1 (retard de transmission: indemnité, pas requalification “à elle seule”)
+- CDD: durée/renouvellement
+  - L1242-8 / L1242-8-1 (durée totale; défaut 18 mois)
+  - L1243-13 (règle de branche sur renouvellement)
+  - L1243-13-1 (défaut: 2 renouvellements + avenant avant terme)
+- Contrats successifs / carence
+  - L1244-3-1 (formule de carence par défaut)
+  - L1244-4-1 (exceptions légales)
+- CDD -> CDI / période d’essai
+  - L1243-11 (poursuite après terme; déduction CDD sur l’essai)
+- Période d’essai en CDI
+  - L1221-19 (durées maximales initiales)
+  - L1221-21 (renouvellement possible par branche + plafonds renouvellement compris)
+  - L1221-25 (délai de prévenance employeur + règle “non-prolongation”)
+  - L1221-26 (délai de prévenance salarié)
+- Indemnité fin de CDD
+  - L1243-8 (indemnité de fin de contrat 10%)
+  - L1243-10 (cas d’exclusion)
+
+Jurisprudence (Légifrance):
+- Cass. soc., 19/06/2024, n° 23-10.783 (déduction des CDD successifs sur l’essai CDI).
+
+Services publics (guides):
+- Service-Public F1643 (période d’essai CDI/CDD/intérim)
+- Service-Public F36 (conclusion du CDD: écrit, motif, transmission, risques)
+- Service-Public F38 (renouvellement CDD + délai de carence)
+- Service-Public F34 (conditions de recours au CDD)
+- Service-Public F34572 + Justice.fr (requalification CDD -> CDI, procédure et indemnité)
+- Code du travail numérique (fiches + contributions, pour synthèses opérationnelles et simulateurs)

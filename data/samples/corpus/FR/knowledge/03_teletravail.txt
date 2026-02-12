@@ -1,0 +1,352 @@
+Date de préparation: 2026-02-11
+Titre: Télétravail (mise en place, frais, santé-sécurité, accident du travail)
+Doc_ID: teletravail
+Pays: FR
+Périmètre: Salariés du secteur privé (CDI/CDD, temps plein/temps partiel).
+
+Source principale (socle):
+- Service-Public.fr – « Télétravail dans le secteur privé » (DILA – Premier ministre)
+  URL: https://www.service-public.gouv.fr/particuliers/vosdroits/F13851
+  Version/Date du texte: Vérifié le 28 février 2025
+  Date de consultation (socle): 2026-02-11
+
+Sources officielles / institutionnelles ajoutées (renforcement):
+- Légifrance (Code du travail / Code de la sécurité sociale)
+- Entreprendre.Service-Public.fr (barèmes/exonérations frais professionnels – télétravail 2026)
+- Assurance Maladie – ameli.fr (Entreprise) (procédure accident du travail)
+- CNIL (télétravail, protection des données, contrôle/surveillance)
+- Ministère du Travail (travail-emploi.gouv.fr) (télétravail, mode d’emploi)
+- Ministère de l’Économie (economie.gouv.fr) (télétravail, points 2026)
+- INRS (prévention santé-sécurité, organisation du travail, RPS, TMS)
+Date de consultation (sources ajoutées): 2026-02-12
+
+Mots-clés: télétravail, accord collectif, charte, avenant, CSE, frais professionnels, allocation forfaitaire, URSSAF, DUERP, santé-sécurité, RPS, TMS, accident du travail, DAT, CPAM, RGPD, CNIL, contrôle, droit à la déconnexion
+
+
+======================================================================
+1) CONTEXTE
+======================================================================
+Le télétravail est une forme d’organisation du travail dans laquelle un travail qui aurait pu être réalisé
+dans les locaux de l’employeur est effectué hors de ces locaux, en utilisant les technologies de l’information
+et de la communication. Le salarié doit être volontaire (principe).
+
+En cas de circonstances exceptionnelles (notamment menace d’épidémie) ou force majeure, la mise en œuvre du
+télétravail peut être considérée comme un aménagement du poste de travail nécessaire à la continuité de
+l’activité et à la protection des salariés.
+
+
+======================================================================
+2) DÉFINITIONS
+======================================================================
+Télétravail (secteur privé):
+- Organisation du travail à distance, pour un travail normalement réalisable dans les locaux, réalisée via les TIC.
+
+Télétravailleur (au sens du Code du travail):
+- Tout salarié de l’entreprise qui effectue du télétravail, soit dès l’embauche, soit ultérieurement.
+
+Accident du travail (définition générale):
+- Est considéré comme accident du travail, quelle qu’en soit la cause, l’accident survenu « par le fait ou à
+  l’occasion du travail » (Code de la sécurité sociale).
+
+Accident du travail en télétravail (présomption):
+- L’accident survenu sur le lieu où est exercé le télétravail, pendant l’exercice de l’activité professionnelle,
+  est présumé être un accident du travail (au sens du Code de la sécurité sociale).
+
+
+======================================================================
+3) RÈGLES PRINCIPALES (CADRE JURIDIQUE ET ORGANISATION)
+======================================================================
+
+3.1 Mise en place: accord collectif / charte / accord individuel
+- Le télétravail est mis en place:
+  (a) par accord collectif; ou
+  (b) à défaut, par une charte élaborée par l’employeur après avis du CSE (s’il existe).
+- En l’absence d’accord collectif ou de charte, lorsque le salarié et l’employeur conviennent de recourir au
+  télétravail, ils formalisent leur accord « par tout moyen ». (Un écrit daté est recommandé en pratique.)
+
+3.2 Contenu minimal (accord collectif ou charte) – items à prévoir
+L’accord collectif applicable ou, à défaut, la charte doit préciser au minimum:
+1° Conditions de passage en télétravail et conditions de retour à une exécution du contrat sans télétravail,
+   notamment en cas d’épisode de pollution mentionné par le Code de l’environnement;
+2° Modalités d’acceptation par le salarié des conditions de mise en œuvre du télétravail;
+3° Modalités de contrôle du temps de travail OU de régulation de la charge de travail;
+4° Plages horaires durant lesquelles l’employeur peut habituellement contacter le salarié en télétravail;
+5° Modalités d’accès des travailleurs handicapés à une organisation en télétravail;
+6° Modalités d’accès des salariées enceintes à une organisation en télétravail;
+7° Modalités d’accès des salariés aidants à une organisation en télétravail.
+
+3.3 Refus / motivation
+- Refus du salarié: le refus d’accepter un poste de télétravailleur n’est pas un motif de rupture du contrat.
+- Refus de l’employeur:
+  * Si le salarié occupe un poste éligible au télétravail dans les conditions prévues par accord collectif ou,
+    à défaut, par la charte, l’employeur motive sa réponse.
+  * Lorsque la demande est formulée par un travailleur handicapé ou un salarié aidant, l’employeur motive,
+    le cas échéant, sa décision de refus (y compris en l’absence d’accord/charte).
+
+3.4 Égalité de traitement (droits équivalents)
+Le télétravailleur a les mêmes droits que le salarié qui exécute son travail dans les locaux de l’entreprise
+(droits individuels et collectifs: formation, accès à l’information, avantages, etc.).
+
+3.5 CSE (consultation / information)
+Lorsque l’employeur élabore une charte à défaut d’accord collectif, celle-ci doit être établie après avis du CSE
+s’il existe. (En pratique, la consultation CSE est un point de preuve à conserver.)
+
+
+======================================================================
+4) FRAIS DE TÉLÉTRAVAIL (PRISE EN CHARGE + BARÈMES 2026)
+======================================================================
+
+4.1 Principe (frais professionnels)
+Les frais professionnels engagés par le salarié pour les besoins de son activité peuvent être pris en charge
+par l’employeur:
+- soit au réel (sur justificatifs),
+- soit sous forme d’allocation forfaitaire (dans certaines limites, avec régime social favorable).
+
+4.2 Allocation forfaitaire télétravail: plafonds d’exonération 2026 (barèmes)
+L’employeur peut verser une allocation forfaitaire exonérée de cotisations/contributions sociales dans les limites suivantes:
+
+A) En l’absence d’accord collectif:
+- 2,70 € par jour de télétravail, dans la limite de 59,40 € par mois; OU
+- 11 € par mois pour 1 jour de télétravail par semaine (ex.: 2 jours/semaine -> 22 €/mois).
+
+B) Lorsque l’allocation est prévue par un accord collectif (branche, groupe, professionnel, interprofessionnel):
+- 3,30 € par jour de télétravail, dans la limite de 72,60 € par mois; OU
+- 13,20 € par mois pour 1 jour de télétravail par semaine (ex.: 2 jours/semaine -> 26,40 €/mois).
+
+4.3 Dépassement des plafonds (justificatifs)
+Au-delà des plafonds, la prise en charge peut rester admise si l’employeur est en mesure de justifier les dépenses
+en cas de contrôle (logique “frais réels”).
+
+4.4 Transport domicile-travail (rappel)
+La prise en charge légale de l’abonnement de transport domicile-travail (règles habituelles) reste applicable selon
+les conditions de droit commun, y compris en cas de télétravail partiel.
+
+
+======================================================================
+5) SANTÉ-SÉCURITÉ (OBLIGATION GÉNÉRALE + DUERP + PRÉVENTION)
+======================================================================
+
+5.1 Obligation générale de sécurité
+L’employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale
+des travailleurs. Ces mesures comprennent notamment:
+- actions de prévention des risques professionnels,
+- actions d’information et de formation,
+- mise en place d’une organisation et de moyens adaptés.
+L’employeur veille à adapter ces mesures pour tenir compte des changements et tendre à l’amélioration continue.
+
+5.2 DUERP (Document unique d’évaluation des risques)
+L’employeur transcrit et met à jour dans un document unique les résultats de l’évaluation des risques pour la
+santé et la sécurité des travailleurs. L’évaluation comporte un inventaire des risques identifiés dans chaque unité
+de travail.
+
+Point opérationnel (INRS):
+Le télétravail doit être inclus dans la démarche globale de prévention: organisation du travail, information/formation
+des managers et des salariés, aménagement du poste (ergonomie), prévention TMS, fatigue visuelle, sédentarité,
+et risques psychosociaux (isolement, intensification, perte de repères, hyperconnexion).
+
+
+======================================================================
+6) ACCIDENT DU TRAVAIL EN TÉLÉTRAVAIL (PRÉSOMPTION + PROCÉDURE)
+======================================================================
+
+6.1 Présomption en télétravail (conditions)
+Si un accident survient:
+- sur le lieu où est exercé le télétravail, ET
+- pendant l’exercice de l’activité professionnelle,
+alors il est présumé accident du travail (au sens du Code de la sécurité sociale).
+
+Implication pratique:
+- cadrer et documenter: lieux autorisés, plages de contact/horaires, modalités de contrôle/charge, consignes,
+  afin de faciliter l’instruction en cas de sinistre.
+
+6.2 Démarches “accident du travail” (Assurance Maladie – ameli.fr)
+Rappels clés (procédure générale, applicable aussi en télétravail):
+
+Côté salarié:
+- Informer l’employeur au plus vite, idéalement dans les 24 heures (sauf cas de force majeure), en précisant
+  lieu, circonstances, témoins s’il y en a.
+
+Côté employeur:
+- Déclarer l’accident à l’Assurance Maladie (DAT) dans les 48 heures (hors dimanches/jours fériés).
+- Émettre des réserves motivées sur le caractère professionnel:
+  * au moment de la DAT, ou
+  * dans les 10 jours suivant la DAT.
+- Délai CPAM: la CPAM dispose en principe de 30 jours à compter de la réception de la DAT et du certificat médical
+  pour statuer; ce délai peut être porté à 70 jours si des vérifications/investigations sont nécessaires (réserves ou
+  décision de la caisse).
+
+
+======================================================================
+7) DONNÉES PERSONNELLES / CONTRÔLE DE L’ACTIVITÉ (CNIL – RGPD)
+======================================================================
+
+7.1 Principes RGPD applicables au télétravail
+En télétravail, les règles RGPD restent identiques:
+- finalité déterminée, base légale, minimisation, durée de conservation,
+- information des salariés,
+- sécurité/confidentialité des données (mesures techniques et organisationnelles).
+
+7.2 Contrôle/surveillance: proportionnalité et interdits pratiques
+La CNIL rappelle que les dispositifs de contrôle doivent être proportionnés et non intrusifs.
+Exemples de points de vigilance (à apprécier selon contexte):
+- éviter la surveillance permanente (captures continues, webcam imposée en continu, etc.);
+- encadrer les outils (visioconférence, messageries, VPN, MDM/BYOD) avec règles claires;
+- privilégier le pilotage par objectifs/charge plutôt qu’une traçabilité excessive.
+
+7.3 Sécurité SI recommandée (CNIL)
+Exemples de mesures:
+- évaluer les risques SI liés au travail à distance (accès, habilitations, admin à distance),
+- équiper les postes (pare-feu, antivirus, blocage sites malveillants),
+- sécuriser les accès (VPN, authentification forte), et choisir des outils garantissant la confidentialité.
+
+
+======================================================================
+8) DROIT À LA DÉCONNEXION (QVCT) – OBLIGATION DE NÉGOCIATION / CHARTE
+======================================================================
+Dans le cadre de la négociation “égalité professionnelle et qualité de vie et des conditions de travail” (QVCT),
+doivent être traitées:
+- les modalités du plein exercice du droit à la déconnexion;
+- et la mise en place de dispositifs de régulation de l’utilisation des outils numériques,
+afin d’assurer le respect des temps de repos/congés et de la vie personnelle et familiale.
+
+À défaut d’accord, l’employeur élabore une charte après avis du CSE. La charte définit les modalités d’exercice du
+droit à la déconnexion et prévoit des actions de formation/sensibilisation à un usage raisonnable des outils numériques.
+
+
+======================================================================
+9) PROCÉDURE / ÉTAPES (CHECKLIST OPÉRATIONNELLE RH/JURIDIQUE)
+======================================================================
+Étape 1 – Identifier le cadre applicable:
+- Accord collectif télétravail ? Charte existante ? Sinon: prévoir accord individuel “par tout moyen”.
+- Vérifier la présence du CSE (et conserver la trace de l’avis si charte).
+
+Étape 2 – Définir les paramètres:
+- fréquence (régulier/occasionnel), lieux autorisés, conditions de passage/retour,
+- plages de contact, modalités de contrôle du temps OU régulation de la charge,
+- accessibilité (handicap, grossesse, aidants).
+
+Étape 3 – Matériel, sécurité, données, frais:
+- équipements / maintenance / support,
+- sécurité SI (VPN, antivirus/pare-feu, habilitations),
+- règles d’usage des outils + politique RGPD,
+- modèle de prise en charge des frais (réel vs forfait) + barèmes 2026 + justificatifs si dépassement.
+
+Étape 4 – Prévention et suivi:
+- DUERP: intégrer télétravail (TMS, RPS, sédentarité, isolement, hyperconnexion),
+- information/formation (managers & salariés),
+- revue périodique: incidents, charge, QVCT, droit à la déconnexion, retours terrain.
+
+
+======================================================================
+10) DOCUMENTS / PREUVES À CONSERVER (AUDIT / CONTENTIEUX)
+======================================================================
+Cadre et décisions:
+- Accord collectif télétravail OU charte télétravail (+ avis CSE) OU accord individuel (écrit recommandé, mail daté, etc.).
+- Critères d’éligibilité poste / raisons de refus motivées (si applicable).
+
+Organisation du travail:
+- règles: plages de contact, contrôle temps / régulation charge, conditions de retour sur site.
+- consignes SSI / RGPD, habilitations, charte informatique.
+
+Frais:
+- politique d’indemnisation (forfait 2026 ou remboursement au réel),
+- justificatifs (si remboursement réel ou dépassement plafonds),
+- notes de frais / attestations de jours télétravaillés (si nécessaire).
+
+Santé-sécurité:
+- DUERP à jour intégrant télétravail,
+- actions de prévention (formation, sensibilisation, ergonomie, RPS),
+- signalements / actions correctives.
+
+Accident du travail:
+- déclaration interne, éléments factuels (lieu, heure, activité), DAT, réserves motivées le cas échéant,
+- certificat médical, échanges CPAM (délais d’instruction).
+
+
+======================================================================
+11) POINTS DE VIGILANCE (JURIDIQUE RH)
+======================================================================
+- Formalisation: privilégier des écrits datés (accord/charte/avenant/mails) même si “par tout moyen” est admis.
+- Lieux & horaires: cadrer les lieux autorisés et plages de contact pour limiter les zones grises (AT, temps de travail).
+- Charge de travail: prévoir une vraie régulation (pilotage, objectifs, droit à la déconnexion, charge soutenable).
+- Prévention: inclure télétravail dans DUERP (TMS, RPS, isolement, hyperconnexion), et documenter les actions.
+- Données & contrôle: respecter RGPD/CNIL (proportionnalité des contrôles, information, sécurité SI).
+- AT: maîtriser les délais (DAT 48h; réserves 10 jours; instruction 30/70 jours) et sécuriser la collecte d’éléments factuels.
+
+
+======================================================================
+12) EXEMPLES (CAS PRATIQUES)
+======================================================================
+Exemple 1 – Charte télétravail:
+- 2 jours/semaine, domicile ou tiers-lieu autorisé, plages de contact 9h-12h / 14h-18h,
+- régulation de la charge + règles de déconnexion,
+- barème forfait 2026 + procédure justificatifs si dépassement,
+- règles RGPD/SSI (VPN, antivirus, usage des outils).
+
+Exemple 2 – Accident en télétravail:
+- chute au domicile pendant une visioconférence sur un créneau de travail prévu.
+- Présomption d’accident du travail (à instruire via DAT + éléments factuels + éventuelles réserves motivées).
+
+
+======================================================================
+13) RÉFÉRENCES (SOURCES) – LISTE
+======================================================================
+[SP1] Service-Public.fr (DILA) – Télétravail dans le secteur privé (F13851)
+     https://www.service-public.gouv.fr/particuliers/vosdroits/F13851
+     Vérifié le 28/02/2025. Consulté le 11/02/2026.
+
+[LCT1] Code du travail – Article L1222-9 (télétravail: mise en place, contenu charte/accord, droits, présomption AT, motivation refus)
+      https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047864720
+      Consulté le 12/02/2026.
+
+[LCT2] Code du travail – Article L1222-11 (circonstances exceptionnelles / force majeure)
+      https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025558064/2017-09-01
+      Consulté le 12/02/2026.
+
+[LCT3] Code du travail – Article L4121-1 (obligation générale de sécurité)
+      https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828/
+      Consulté le 12/02/2026.
+
+[LCT4] Code du travail – Article R4121-1 (DUERP)
+      https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023795562
+      Consulté le 12/02/2026.
+
+[LCT5] Code du travail – Article L2242-17 (QVCT – droit à la déconnexion, charte à défaut)
+      https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043893940
+      Consulté le 12/02/2026.
+
+[CSS1] Code de la sécurité sociale – Article L411-1 (définition accident du travail)
+      https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047452603
+      Consulté le 12/02/2026.
+
+[ESP1] Entreprendre.Service-Public.fr (DILA) – Remboursement des frais de télétravail : barème 2026
+      https://entreprendre.service-public.gouv.fr/actualites/A18043
+      Publié le 07/01/2026. Consulté le 12/02/2026.
+
+[BER1] economie.gouv.fr – Entreprises, ce que vous devez savoir sur le télétravail (focus 2026)
+      https://www.economie.gouv.fr/entreprises/gerer-ses-ressources-humaines-et-ses-salaries/entreprises-ce-que-vous-devez-savoir-sur-le-teletravail
+      Date page: 03/02/2026. Consulté le 12/02/2026.
+
+[AM1] ameli.fr (Entreprise) – Accident du travail ou de trajet : les démarches à effectuer (DAT, délais, réserves, instruction)
+     https://www.ameli.fr/entreprise/vos-salaries/accident-travail-trajet/demarches
+     Consulté le 12/02/2026.
+
+[CNIL1] CNIL – Les conseils de la CNIL pour mettre en place du télétravail (sécurité SI, organisation)
+       https://www.cnil.fr/fr/les-conseils-de-la-cnil-pour-mettre-en-place-du-teletravail
+       Consulté le 12/02/2026.
+
+[CNIL2] CNIL – Les questions-réponses de la CNIL sur le télétravail (contrôle, outils, bonnes pratiques)
+       https://www.cnil.fr/fr/les-questions-reponses-de-la-cnil-sur-le-teletravail
+       Consulté le 12/02/2026.
+
+[CNIL3] CNIL – Télétravail : les règles et les bonnes pratiques à suivre (page d’entrée)
+       https://www.cnil.fr/fr/teletravail-les-regles-et-les-bonnes-pratiques-suivre
+       Consulté le 12/02/2026.
+
+[MT1] travail-emploi.gouv.fr – Télétravail : mode d’emploi
+     https://travail-emploi.gouv.fr/teletravail-mode-demploi
+     Consulté le 12/02/2026.
+
+[INRS1] INRS – Télétravail : prévenir les risques
+       https://www.inrs.fr/risques/teletravail/prevenir-les-risques.html
+       Consulté le 12/02/2026.

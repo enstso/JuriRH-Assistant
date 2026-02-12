@@ -1,0 +1,316 @@
+Date de préparation: 2026-02-11
+Titre: Clauses contractuelles (mobilité, non-concurrence, confidentialité)
+Doc_ID: clauses_contrat
+Pays: FR
+Domaine: Droit du travail (RH) – Relations individuelles (secteur privé)
+Public cible: RH, juristes d’entreprise, managers (application opérationnelle), direction
+
+========================
+1) Objectif du document
+========================
+Fournir une fiche “prête pour l’ingestion RAG” sur 3 clauses contractuelles sensibles :
+- Clause de non-concurrence (post-contrat)
+- Clause de mobilité (lieu d’exécution du travail / mutation)
+- Clause de confidentialité (protection d’informations / données)
+
+Le document synthétise les conditions de validité, les modalités de mise en œuvre, les risques contentieux
+et les pièces justificatives à conserver, à partir de sources officielles FR (administration, Légifrance, CNIL).
+
+Avertissement: ce document est informatif. L’analyse doit être adaptée au contexte (poste, convention collective,
+accords d’entreprise, contraintes familiales, organisation, périmètre géographique, nature des informations, etc.).
+
+=====================================================
+2) Sources (priorité: sites officiels / textes opposables)
+=====================================================
+2.1 Sources officielles (recommandées pour RAG)
+- Service-Public (DILA / Premier ministre)
+  * Non-concurrence (F1910) – https://www.service-public.gouv.fr/particuliers/vosdroits/F1910
+  * Clause de mobilité (F31576) – https://www.service-public.gouv.fr/particuliers/vosdroits/F31576
+  * Modification du lieu de travail / secteur géographique (F31586) – https://www.service-public.gouv.fr/particuliers/vosdroits/F31586
+
+- Code du travail numérique (Ministère du Travail)
+  * Conditions de la clause de non-concurrence – https://code.travail.gouv.fr/contribution/quelles-sont-les-conditions-de-la-clause-de-non-concurrence
+
+- Légifrance (textes + jurisprudence)
+  * Cass. soc., 29 janv. 2003, n°00-44.882 (conditions cumulatives + contrepartie nécessaire)
+    https://www.legifrance.gouv.fr/juri/id/JURITEXT000007045871
+  * Cass. soc., 15 nov. 2006, n°04-46.721 (contrepartie “dérisoire” = absence)
+    https://www.legifrance.gouv.fr/juri/id/JURITEXT000007054657
+  * Cass. soc., 15 janv. 2014, n°12-19.472 (paiement avant rupture = clause nulle ; sommes = complément de salaire)
+    https://www.legifrance.gouv.fr/juri/id/JURITEXT000028483459
+  * Cass. soc., 4 mars 2020, n°18-24.329 (mobilité: loyauté + délai de prévenance ; atteinte vie perso/famille = justification/proportionnalité)
+    https://www.legifrance.gouv.fr/juri/id/JURITEXT000041745287
+
+  * Code du travail – art. L1121-1 (restrictions aux libertés: justification + proportionnalité)
+    https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006900785
+  * Code du travail – art. L1222-1 (exécution de bonne foi)
+    https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006189417
+
+  * Code du travail – art. L1227-1 (secret de fabrication)
+    (rechercher sur Légifrance: “L1227-1 code du travail”)
+
+  * Code de commerce – secret des affaires (ex: art. L151-1 et suivants)
+    (rechercher sur Légifrance: “L151-1 code de commerce secret des affaires”)
+
+  * Code civil – art. 1240 (responsabilité délictuelle)
+    (rechercher sur Légifrance: “article 1240 code civil”)
+
+  * Code pénal – art. 226-13 (secret professionnel) et 226-15 (secret des correspondances)
+    (rechercher sur Légifrance: “article 226-13 code pénal”, “article 226-15 code pénal”)
+
+- CNIL (RGPD – texte consolidé en français)
+  * Chapitre II – art. 5(1)(f) intégrité et confidentialité
+    https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre2
+  * Chapitre IV – art. 32 sécurité du traitement
+    https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4
+
+2.2 Sources institutionnelles (utiles mais non opposables au même titre qu’un texte/jurisprudence)
+- CCI Paris Île-de-France (fiche pratique “clauses sensibles”) – https://www.entreprises.cci-paris-idf.fr/fiches-pratiques/les-clauses-sensibles-du-contrat-de-travail-non-concurrence-mobilite-et
+- Welcome to France (fiche pratique) – https://www.welcometofrance.com/fiche/clauses-du-contrat
+
+=================================================
+3) Périmètre – concepts et repères transverses
+=================================================
+Périmètre: salariés du secteur privé (CDI / CDD). Les conventions collectives et accords d’entreprise peuvent préciser
+(ou conditionner) certaines modalités, notamment sur la non-concurrence (durée, indemnité, modalités de renonciation).
+
+Repères transverses (à relier à toutes les clauses):
+- Principe de proportionnalité et de justification des restrictions aux libertés (Code du travail, art. L1121-1).
+- Exécution de bonne foi du contrat de travail (Code du travail, art. L1222-1).
+- En mobilité, le juge apprécie la notion de “secteur géographique” au cas par cas.
+- En non-concurrence, la jurisprudence a construit les critères; leur non-respect expose à la nullité et/ou à des dommages-intérêts.
+- En confidentialité, la clause est d’autant plus robuste qu’elle est précise sur l’objet (informations visées) et articulée
+  avec des mesures internes (accès, classification, chartes, sécurité informatique, procédures de sortie).
+
+==========================
+4) Définitions (opérationnel)
+==========================
+4.1 Clause de non-concurrence
+Clause qui limite la liberté du salarié d’exercer, après la rupture du contrat, certaines activités concurrentes
+(fonctions équivalentes chez un concurrent, ou pour son compte). Elle doit indemniser cette restriction.
+
+4.2 Clause de mobilité
+Clause par laquelle le salarié accepte à l’avance que son lieu de travail puisse être modifié dans une zone définie
+(et selon des conditions de mise en œuvre). La jurisprudence encadre l’usage (bonne foi, délai, proportionnalité).
+
+4.3 Clause de confidentialité
+Clause imposant au salarié de ne pas divulguer certaines informations sensibles/stratégiques (pendant le contrat;
+et parfois après rupture si stipulé et justifié). Elle peut porter sur:
+- informations commerciales / stratégie / prix / clientèle,
+- documents internes,
+- secrets de fabrication / secret des affaires,
+- données personnelles (RH, paie, candidats, évaluations) – articulation RGPD.
+
+========================================================
+5) Clause de non-concurrence – régime (conditions + gestion)
+========================================================
+5.1 Conditions de validité (cumulatives)
+La jurisprudence impose des conditions cumulatives. Une clause de non-concurrence n’est licite que si:
+A) elle est indispensable à la protection des intérêts légitimes de l’entreprise,
+B) elle est limitée dans le temps,
+C) elle est limitée dans l’espace (zone géographique),
+D) elle tient compte des spécificités de l’emploi du salarié,
+E) elle comporte l’obligation, pour l’employeur, de verser une contrepartie financière.
+Référence de principe (conditions cumulatives + contrepartie nécessaire): Cass. soc., 29 janv. 2003, n°00-44.882.
+
+Sur la forme:
+- Clause écrite (contrat de travail ou prévue par la convention collective à la date de la signature).
+- Activité visée: la clause doit cibler des fonctions / activités déterminées (éviter “toute activité”).
+- Proportion: la clause ne doit pas empêcher le salarié de retrouver un emploi.
+
+5.2 Contrepartie financière (indemnité compensatrice)
+Règles pratiques issues des sources officielles:
+- La contrepartie est due si la clause s’applique, dès la rupture (fin de préavis ou départ si dispense).
+- La contrepartie doit être raisonnable: une contrepartie dérisoire équivaut à une absence de contrepartie.
+  (Cass. soc., 15 nov. 2006, n°04-46.721: contrepartie dérisoire = absence).
+- La contrepartie doit être versée après la rupture (et non pendant l’exécution du contrat). Si la clause prévoit
+  un paiement avant la rupture, elle est nulle; les sommes versées peuvent s’analyser en complément de salaire et
+  ne sont pas forcément restituables (Cass. soc., 15 janv. 2014, n°12-19.472).
+- Le mode de rupture (démission, licenciement y compris faute grave) ne supprime pas, en soi, le droit à la contrepartie
+  si la clause est applicable (voir fiche Service-Public F1910).
+
+5.3 Début / durée / point de départ
+- Point de départ: fin effective du contrat (fin de préavis) ou départ en cas de dispense de préavis (Service-Public F1910).
+- Durée: à prévoir (ex: 6 mois / 12 mois / 24 mois selon poste/secteur/convention). L’excès de durée augmente le risque de nullité.
+
+5.4 Renonciation (levée de la clause)
+- La renonciation unilatérale par l’employeur n’est possible que si elle est prévue par le contrat ou un texte conventionnel
+  (sinon accord du salarié nécessaire). (Service-Public F1910).
+- La renonciation doit être claire et non équivoque; les modalités (délai, notification LRAR, etc.) dépendent du texte applicable.
+- La renonciation tardive expose au paiement de la contrepartie.
+
+5.5 Manquements et sanctions
+A) Si le salarié viole la clause:
+- l’employeur peut interrompre le versement (à condition de prouver la violation),
+- action judiciaire possible: dommages-intérêts; possibilité de demander remboursement de tout ou partie de la contrepartie
+  si préjudice constaté (Service-Public F1910).
+
+B) Si l’employeur ne paie pas:
+- le salarié peut être libéré de l’obligation de non-concurrence,
+- action prud’homale possible: paiement + dommages-intérêts (Service-Public F1910).
+
+5.6 Checklist de rédaction (non-concurrence)
+Inclure a minima:
+- activité(s) interdite(s) (fonctions / secteur),
+- zone géographique (liste de départements / région / périmètre),
+- durée (date de départ, durée),
+- contrepartie (montant, assiette de calcul, périodicité, modalités),
+- possibilité de renonciation + procédure (qui / quand / comment),
+- rappel de l’objectif (intérêts légitimes) et justification liée au poste.
+
+5.7 Preuves / pièces à conserver (non-concurrence)
+- Contrat/avenant signé + convention collective applicable.
+- Preuve de rupture et de la date effective (préavis/dispense).
+- Si renonciation: courrier de renonciation + preuve d’envoi/réception et respect des délais.
+- Paiements: bulletins / virements / calcul de l’indemnité.
+- En cas de violation alléguée: éléments probants (constats, offres d’emploi, communication commerciale, etc.) – prudence RGPD.
+
+=====================================================
+6) Clause de mobilité – régime (validité + mise en œuvre)
+=====================================================
+6.1 Préambule: mobilité vs modification du lieu de travail
+Selon Service-Public (F31586), la mutation dans le même “secteur géographique” est en principe une modification des conditions
+de travail (elle s’impose au salarié). En dehors du secteur géographique, c’est une modification d’un élément essentiel du contrat
+(donc accord du salarié nécessaire), sauf exceptions (notamment application d’une clause de mobilité). Le juge apprécie le secteur
+géographique (ex: région entière ou bassin d’emploi) et peut s’appuyer sur des critères comme la distance, le temps de trajet et la
+qualité des transports.
+
+6.2 Conditions de validité (principes jurisprudentiels)
+Une clause de mobilité doit notamment:
+- être acceptée (écrite / clause contractuelle ou texte conventionnel applicable),
+- définir une zone géographique (suffisamment précise),
+- poursuivre un objectif lié aux intérêts de l’entreprise / à l’organisation,
+- respecter les principes de bonne foi et de proportionnalité (L1222-1 et L1121-1).
+
+Point jurisprudentiel utile:
+- Dans Cass. soc., 4 mars 2020, n°18-24.329, il est rappelé que la mise en œuvre doit se faire de façon loyale, avec un délai
+  de prévenance raisonnable. Si l’activation porte atteinte à la vie personnelle et familiale, l’atteinte doit être justifiée par la tâche
+  à accomplir et proportionnée au but recherché.
+
+6.3 Mise en œuvre: bonnes pratiques “anti-contentieux”
+Avant d’activer une mobilité, documenter:
+- le motif organisationnel (intérêt de l’entreprise),
+- le périmètre (zone prévue),
+- le délai de prévenance (raisonnable, ou conforme à la convention collective),
+- l’impact individuel (trajet, charges familiales, scolarité, santé; à objectiver),
+- les mesures d’accompagnement (frais, relocation, télétravail partiel, horaires, etc. si applicable).
+
+Points d’alerte:
+- une clause qui laisse à l’employeur le pouvoir de fixer seul et à tout moment “n’importe quel lieu” sans zone déterminée
+  est à risque;
+- une mise en œuvre brutale, sans délai, ou sans justification opérationnelle solide, est à risque;
+- une atteinte importante à la vie personnelle/familiale doit être justifiée et proportionnée.
+
+6.4 Cas particuliers: salarié protégé
+Service-Public (F31586) rappelle qu’une mutation géographique d’un salarié protégé constitue une modification du contrat,
+nécessitant l’accord préalable, quelle que soit la localisation.
+
+6.5 Preuves / pièces à conserver (mobilité)
+- Clause de mobilité (contrat/avenant) + convention collective.
+- Courriers/mails de notification + preuve de délai de prévenance.
+- Note interne ou dossier justifiant le besoin (réorganisation, ouverture site, continuité de service, etc.).
+- Éléments objectivant l’impact et la proportionnalité (trajets, solutions proposées).
+
+=========================================================
+7) Clause de confidentialité – régime (informations + RGPD)
+=========================================================
+7.1 Logique générale
+La confidentialité sert à protéger:
+- des informations stratégiques,
+- des secrets d’affaires / secrets de fabrication,
+- des données personnelles (RH, paie, candidats, disciplinaire, santé, etc.).
+
+Contrairement à la non-concurrence, une clause de confidentialité n’a pas, en principe, d’exigence générale de contrepartie financière.
+Mais elle doit être proportionnée et ciblée: une clause trop large qui interdirait en pratique toute activité future pourrait être requalifiée
+ou jugée excessive.
+
+7.2 Confidentialité “données personnelles” (RGPD)
+Pour les RH, la confidentialité s’articule avec:
+- Principe “intégrité et confidentialité” (RGPD art. 5(1)(f) – texte CNIL): protection contre traitement non autorisé/illicite et
+  contre la perte/destruction/dommage accidentel (mesures techniques/organisationnelles).
+- Obligation de sécurité (RGPD art. 32 – texte CNIL): mise en œuvre de mesures techniques et organisationnelles appropriées,
+  appréciées au regard des risques.
+
+Implication pratique:
+- la clause de confidentialité doit renvoyer aux politiques internes (charte informatique, gestion des accès, “need to know”),
+  et aux obligations de ne pas extraire / copier / transférer des données RH hors des outils autorisés.
+
+7.3 Confidentialité “secret de fabrication” / “secret des affaires”
+Deux piliers utiles à citer dans les politiques RH:
+- Code du travail – art. L1227-1 (sanction du secret de fabrication) – applicable selon le contexte.
+- Code de commerce – secret des affaires (art. L151-1 et s.) – définit les informations protégées (valeur économique, non publiques,
+  mesures raisonnables de protection, etc.). (Références à vérifier sur Légifrance et à paramétrer dans les politiques internes.)
+
+7.4 Rédaction: comment “resserrer” la clause (conseil de qualité)
+Inclure:
+- une définition des informations confidentielles (catégories + exemples),
+- les supports visés (papier, fichiers, messageries, cloud, photos),
+- la durée (pendant le contrat; et après rupture si nécessaire),
+- les exceptions (info publique; divulgation imposée par la loi; autorisation écrite),
+- les obligations de restitution / suppression à la sortie (matériel, docs, fichiers, accès),
+- sanctions disciplinaires et civiles en cas de violation (sans sur-promettre).
+
+7.5 Procédure interne RH (confidentialité)
+- Onboarding: remise + signature (clause/charte), formation, rappel des canaux autorisés.
+- Pendant: gestion des habilitations, revues régulières, journalisation, clauses spécifiques pour postes sensibles.
+- Offboarding (check-list de sortie): restitution, fermeture comptes, export/interdiction, rappel écrit de l’obligation.
+
+7.6 Preuves / pièces à conserver (confidentialité)
+- Clause signée + annexes (liste/classification des infos).
+- Charte informatique / SSI + preuves de remise.
+- Registre des accès (habilitations) et journalisation (dans le respect du droit).
+- Check-list de départ signée (restitution, suppression, désactivation accès).
+- En cas d’incident: éléments factuels; notification RGPD si nécessaire (hors périmètre de cette fiche).
+
+================================================
+8) Points de vigilance – “à mettre dans l’IA”
+================================================
+8.1 Points de vigilance – non-concurrence
+- Tout critère manquant => clause à risque (nullité).
+- Contrepartie trop faible (“dérisoire”) => assimilée à absence => clause illicite (Cass. 2006).
+- Paiement avant rupture => clause nulle + risque de requalification en salaire (Cass. 2014).
+- Renonciation non prévue ou tardive => risque de devoir payer l’indemnité.
+- Rédaction trop large (activité/zone/durée) => risque de nullité et/ou de dommages-intérêts.
+
+8.2 Points de vigilance – mobilité
+- Zone non définie / trop floue => clause fragile.
+- Mise en œuvre sans délai / sans loyauté => abus possible.
+- Atteinte vie personnelle/familiale => test justification + proportionnalité (Cass. 2020 + L1121-1).
+- Différencier “mutation dans le secteur géographique” (souvent conditions de travail) vs “hors secteur” (souvent modification du contrat),
+  et documenter.
+
+8.3 Points de vigilance – confidentialité
+- “Tout est confidentiel” sans définition => difficile à opposer.
+- Ne pas transformer la confidentialité en non-concurrence déguisée (restriction trop large).
+- Articulation RGPD: sécurisation des données RH, accès et extraction, obligation de sécurité.
+- En cas d’information “secret des affaires”, démontrer les mesures raisonnables de protection (classification, accès, NDA, etc.).
+
+=====================
+9) Exemples (modèles)
+=====================
+9.1 Exemple (non-concurrence – squelette)
+“Pendant [12] mois à compter de la date effective de fin du contrat, le salarié s’interdit d’exercer des fonctions de [X]
+pour des entreprises exerçant l’activité de [Y] situées dans le périmètre suivant: [départements / région].
+En contrepartie, l’employeur versera une indemnité mensuelle égale à [X]% de la moyenne mensuelle des [3] derniers mois de rémunération.
+L’employeur pourra renoncer à l’application de la clause en notifiant sa décision au salarié par [procédure + délai], conformément à [contrat/CC].”
+
+9.2 Exemple (mobilité – squelette)
+“Compte tenu des nécessités d’organisation, le salarié accepte que son lieu de travail puisse être modifié dans le périmètre suivant:
+[zone géographique précise]. La mise en œuvre fera l’objet d’un délai de prévenance de [X] jours / semaines (ou selon CC),
+et sera réalisée de bonne foi, en tenant compte des contraintes personnelles justifiées.”
+
+9.3 Exemple (confidentialité – squelette)
+“Le salarié s’engage à conserver confidentielles les informations non publiques relatives à [stratégie, prix, clients, RH, outils],
+dont il a connaissance dans le cadre de ses fonctions. Cette obligation s’applique pendant l’exécution du contrat et pendant [X] ans
+après sa rupture pour les informations qui n’ont pas perdu leur caractère confidentiel. À la sortie, le salarié restituera l’ensemble
+des documents et supports, et n’en conservera aucune copie.”
+
+===========================
+10) Date de consultation
+===========================
+Date de consultation (sources officielles): 2026-02-11
+- Service-Public F1910: vérifié le 27/10/2023 (affiché sur la page).
+- Service-Public F31576 (clause de mobilité): vérifié le 07/02/2022 (affiché sur la page).
+- Service-Public F31586 (modification du lieu de travail): vérifié le 08/10/2025 (affiché sur la page).
+- CNIL (RGPD): pages “chapitre2” et “chapitre4” accessibles et à jour à la date de consultation.
+- Jurisprudences Légifrance: dates indiquées dans les décisions (2003, 2006, 2014, 2020).

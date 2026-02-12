@@ -1,0 +1,39 @@
+{"id":"Q001","question":"En France, acquisition des congés payés : combien de jours OUVRABLES sont acquis par mois de travail effectif (règle générale) et quel est le plafond annuel ?","filters":{"country":"FR"},"should_refuse":false,"tags":["conges","FR"]}
+{"id":"Q002","question":"Congés payés : le décompte se fait-il en jours ouvrables ou en jours ouvrés (principe) ?","filters":{"country":"FR"},"should_refuse":false,"tags":["conges","FR"]}
+{"id":"Q003","question":"Congés payés : la période de prise doit-elle inclure au moins du 1er mai au 31 octobre (principe) ?","filters":{"country":"FR"},"should_refuse":false,"tags":["conges","FR"]}
+{"id":"Q004","question":"Congés payés : quel est le délai minimal pour informer les salariés de la période de prise (ex : 2 mois avant) ?","filters":{"country":"FR"},"should_refuse":false,"tags":["conges","FR"]}
+{"id":"Q005","question":"Congés payés : quel est le délai minimal pour communiquer l’ordre des départs à chaque salarié (ex : 1 mois avant) ?","filters":{"country":"FR"},"should_refuse":false,"tags":["conges","FR"]}
+{"id":"Q006","question":"Congés payés : l’employeur peut-il modifier des dates déjà fixées et avec quel délai (principe : 1 mois sauf circonstances exceptionnelles) ?","filters":{"country":"FR"},"should_refuse":false,"tags":["conges","FR"]}
+{"id":"Q007","question":"Congés payés : report en cas d’impossibilité de prendre les congés (maladie/accident) — quelle durée minimale de report (ex : 15 mois) ?","filters":{"country":"FR"},"should_refuse":false,"tags":["conges","FR"]}
+{"id":"Q008","question":"Indemnité de congés payés : comparer maintien de salaire vs règle du 1/10e — quelle règle appliquer (prendre la plus favorable) ?","filters":{"country":"FR"},"should_refuse":false,"tags":["conges","FR"]}
+{"id":"Q009","question":"Congés payés : fractionnement — règle du congé principal (max 24 jours ouvrables d’affilée, 5e semaine à part) ?","filters":{"country":"FR"},"should_refuse":false,"tags":["conges","FR"]}
+{"id":"Q010","question":"Congés payés et arrêt maladie : acquisition pendant maladie/accident NON professionnel (ex : 2 jours ouvrables/mois) et plafond (ex : 24 jours) ?","filters":{"country":"FR"},"should_refuse":false,"tags":["conges","FR"]}
+
+{"id":"Q011","question":"Temps de travail : durée légale hebdomadaire en France (35h) — c’est une durée de référence pour déclencher les heures supplémentaires ?","filters":{"country":"FR"},"should_refuse":false,"tags":["temps_travail","FR"]}
+{"id":"Q012","question":"Heures supplémentaires : définition (heures effectuées au-delà de 35h/semaine à la demande de l’employeur) ?","filters":{"country":"FR"},"should_refuse":false,"tags":["temps_travail","FR"]}
+{"id":"Q013","question":"Temps de travail : pause obligatoire — dès que le temps de travail quotidien atteint 6 heures, quelle pause minimale doit être accordée ?","filters":{"country":"FR"},"should_refuse":false,"tags":["temps_travail","FR"]}
+{"id":"Q014","question":"Temps de travail : durée maximale quotidienne (limite générale) — combien d’heures par jour au maximum hors dérogations ?","filters":{"country":"FR"},"should_refuse":false,"tags":["temps_travail","FR"]}
+{"id":"Q015","question":"Temps de travail : durée maximale hebdomadaire absolue — quel plafond sur une semaine (ex : 48h) ?","filters":{"country":"FR"},"should_refuse":false,"tags":["temps_travail","FR"]}
+{"id":"Q016","question":"Temps de travail : durée maximale hebdomadaire moyenne — quel plafond en moyenne sur 12 semaines consécutives (ex : 44h) ?","filters":{"country":"FR"},"should_refuse":false,"tags":["temps_travail","FR"]}
+{"id":"Q017","question":"Repos quotidien : quelle durée minimale de repos entre deux journées de travail (ex : 11h) ?","filters":{"country":"FR"},"should_refuse":false,"tags":["temps_travail","FR"]}
+{"id":"Q018","question":"Repos hebdomadaire : quelle durée minimale de repos hebdomadaire consécutif (ex : 24h + 11h = 35h) ?","filters":{"country":"FR"},"should_refuse":false,"tags":["temps_travail","FR"]}
+{"id":"Q019","question":"Forfait jours : quelles conditions générales (accord collectif requis) et quel repère usuel de jours/an (ex : 218) ?","filters":{"country":"FR"},"should_refuse":false,"tags":["temps_travail","FR"]}
+{"id":"Q020","question":"Travail de nuit : donner les points clés (définition travailleur de nuit + limite de durée quotidienne + contreparties/organisation selon accord).","filters":{"country":"FR"},"should_refuse":false,"tags":["temps_travail","FR"]}
+
+{"id":"Q021","question":"Télétravail : est-ce un droit automatique ? Dans quels cas l’employeur doit-il motiver un refus (si accord/charte et poste éligible) ?","filters":{"country":"FR"},"should_refuse":false,"tags":["teletravail","FR"]}
+{"id":"Q022","question":"Télétravail : mise en place par accord collectif/charte ; à défaut accord individuel « par tout moyen » — faut-il forcément un avenant écrit ?","filters":{"country":"FR"},"should_refuse":false,"tags":["teletravail","FR"]}
+{"id":"Q023","question":"Télétravail : qui prend en charge les frais engagés par le salarié pour l’exécution du contrat (matériel, internet) — réel ou forfait ?","filters":{"country":"FR"},"should_refuse":false,"tags":["teletravail","FR"]}
+{"id":"Q024","question":"Télétravail : obligations employeur (santé-sécurité, protection des données, régulation charge) et entretien annuel (conditions d’activité/charge) ?","filters":{"country":"FR"},"should_refuse":false,"tags":["teletravail","FR"]}
+{"id":"Q025","question":"Accident du travail en télétravail : présomption si l’accident survient sur le lieu de télétravail pendant l’activité professionnelle — principe à retenir ?","filters":{"country":"FR"},"should_refuse":false,"tags":["teletravail","FR"]}
+
+{"id":"Q026","question":"Contrat : différence entre CDI (forme normale et générale) et CDD (contrat à durée limitée, recours encadré) ?","filters":{"country":"FR"},"should_refuse":false,"tags":["contrat","FR"]}
+{"id":"Q027","question":"CDD : obligation d’indiquer un motif précis (remplacement, accroissement temporaire, saisonnier…) et risque si motif imprécis/absent (requalification) ?","filters":{"country":"FR"},"should_refuse":false,"tags":["contrat","FR"]}
+{"id":"Q028","question":"Période d’essai : est-elle automatique ? (doit être prévue par écrit dans le contrat/lettre d’engagement)","filters":{"country":"FR"},"should_refuse":false,"tags":["contrat","FR"]}
+{"id":"Q029","question":"Période d’essai : règle de décompte « de date à veille de date » (principe) et exemple simple de calcul ?","filters":{"country":"FR"},"should_refuse":false,"tags":["contrat","FR"]}
+{"id":"Q030","question":"Renouvellement de période d’essai : principe — possible seulement si prévu et avec accord exprès du salarié ?","filters":{"country":"FR"},"should_refuse":false,"tags":["contrat","FR"]}
+
+{"id":"Q031R","question":"(HORS PÉRIMÈTRE) États-Unis : combien de jours de congés payés sont imposés par la loi fédérale ? Répondre uniquement si un document US est présent.","filters":{"country":"US"},"should_refuse":true,"tags":["refusal","US"]}
+{"id":"Q032R","question":"(HORS PÉRIMÈTRE) Allemagne : durée légale hebdomadaire du travail (loi allemande). Répondre uniquement avec sources DE.","filters":{"country":"DE"},"should_refuse":true,"tags":["refusal","DE"]}
+{"id":"Q033R","question":"(HORS PÉRIMÈTRE) Canada : obligations employeur sur le télétravail (droit canadien). Répondre uniquement si corpus CA.","filters":{"country":"CA"},"should_refuse":true,"tags":["refusal","CA"]}
+{"id":"Q034R","question":"(HORS PÉRIMÈTRE) Espagne : indemnité légale de fin de contrat CDD (règles ES). Répondre uniquement si documents ES.","filters":{"country":"ES"},"should_refuse":true,"tags":["refusal","ES"]}
+{"id":"Q035R","question":"(HORS PÉRIMÈTRE) Italie : durée maximale quotidienne de travail (règles IT). Répondre uniquement si documents IT.","filters":{"country":"IT"},"should_refuse":true,"tags":["refusal","IT"]}

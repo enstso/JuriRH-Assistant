@@ -43,6 +43,15 @@ REFUSAL_PATTERNS = [
 ]
 
 
+# Bonus: citation patterns in plain text answer
+CITATION_TEXT_PATTERNS = [
+    r"\[([A-Za-z0-9_\-]{3,})\]",          # [conges_payes]
+    r"\bsource\s*:\s*([^\n]{5,})",        # Source: ...
+    r"\b(sources?)\s*:\s*([^\n]{5,})",    # Sources: ...
+    r"(https?://[^\s\)\]]+)",             # URL
+]
+
+
 def detect_refusal(answer: str) -> bool:
     if not answer:
         return True
@@ -78,25 +87,98 @@ def call_api(api_base: str, payload: Dict[str, Any], timeout: int) -> Tuple[int,
         return 0, {"answer": ""}, latency, f"REQUEST_ERROR: {e}"
 
 
+def _as_str(x: Any) -> str:
+    try:
+        s = str(x)
+    except Exception:
+        return ""
+    return s.strip()
+
+
+def _pick_from_dict(d: Dict[str, Any], keys: List[str]) -> str:
+    for k in keys:
+        v = d.get(k)
+        if v is None:
+            continue
+        s = _as_str(v)
+        if s and s.lower() != "none":
+            return s
+    return ""
+
+
+def _extract_citation_from_context_item(c: Any) -> str:
+    """
+    Accepts:
+    - string
+    - dict with keys: source/id/title/url/doc_id/...
+    - dict with metadata sub-dict
+    """
+    if c is None:
+        return ""
+    if isinstance(c, str):
+        return c.strip()
+
+    if isinstance(c, dict):
+        md = c.get("metadata") if isinstance(c.get("metadata"), dict) else {}
+
+        # priority: doc_id > source > url > title > id
+        for d in (c, md):
+            s = _pick_from_dict(
+                d,
+                keys=[
+                    "doc_id", "docId", "document_id",
+                    "source",
+                    "url",
+                    "title",
+                    "id",
+                ],
+            )
+            if s:
+                return s
+    return _as_str(c)
+
+
+def _extract_citations_from_answer_text(answer: str) -> List[str]:
+    if not answer:
+        return []
+    out: List[str] = []
+    for pat in CITATION_TEXT_PATTERNS:
+        for m in re.finditer(pat, answer, flags=re.IGNORECASE):
+            # pattern may capture groups or whole match
+            if m.groups():
+                for g in m.groups():
+                    s = _as_str(g)
+                    if s:
+                        out.append(s)
+            else:
+                s = _as_str(m.group(0))
+                if s:
+                    out.append(s)
+    # dedupe preserving order
+    return [c for c in dict.fromkeys(out) if c]
+
+
 def extract_answer_and_citations(data: Dict[str, Any]) -> Tuple[str, List[str]]:
     answer = data.get("answer") or data.get("text") or data.get("response") or ""
     citations: List[str] = []
 
+    # explicit citations
     if isinstance(data.get("citations"), list):
-        citations = [str(x) for x in data["citations"]]
+        citations.extend([_as_str(x) for x in data["citations"]])
 
-    # some APIs may include "context"/"sources"
+    # some APIs may include "sources"
     if isinstance(data.get("sources"), list):
-        citations.extend([str(x) for x in data["sources"]])
+        citations.extend([_as_str(x) for x in data["sources"]])
 
+    # context: list of dicts/strings
     if isinstance(data.get("context"), list):
         for c in data["context"]:
-            if isinstance(c, dict):
-                citations.append(str(c.get("source") or c.get("id") or c.get("title") or ""))
-            else:
-                citations.append(str(c))
+            citations.append(_extract_citation_from_context_item(c))
 
-    # dedupe
+    # also try to detect citations inside the answer text itself
+    citations.extend(_extract_citations_from_answer_text(answer))
+
+    # dedupe + remove empties
     citations = [c for c in dict.fromkeys(citations) if c]
     return answer, citations
 
@@ -144,8 +226,19 @@ def main():
     if out_csv:
         csv_file = out_csv.open("w", encoding="utf-8", newline="")
         fieldnames = [
-            "id","question","tags","should_refuse","http_status","latency_ms",
-            "did_refuse","refusal_ok","citations_count","error","answer_preview"
+            "id",
+            "question",
+            "tags",
+            "should_refuse",
+            "http_status",
+            "latency_ms",
+            "did_refuse",
+            "refusal_ok",
+            "citations_count",
+            "citations_preview",
+            "answer_len",
+            "error",
+            "answer_preview",
         ]
         csv_writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
         csv_writer.writeheader()
@@ -208,6 +301,8 @@ def main():
                     "did_refuse": did_refuse,
                     "refusal_ok": 1 if ok else 0,
                     "citations_count": len(citations),
+                    "citations_preview": "; ".join(citations[:5])[:300],
+                    "answer_len": len(answer or ""),
                     "error": error,
                     "answer_preview": (answer or "")[:250].replace("\n", " "),
                 })

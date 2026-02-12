@@ -1,0 +1,271 @@
+Date de préparation: 2026-02-11
+Titre: Arrêt maladie & inaptitude (obligations, maintien, contrôle, reclassement)
+Doc_ID: arret_maladie_inaptitude
+Pays: FR
+Périmètre: Salariés du secteur privé (CDI/CDD) — règles générales. Attention: des dispositions conventionnelles/contractuelles peuvent être plus favorables (maintien de salaire, carences, formalités, etc.).
+Mots-clés: arrêt maladie, arrêt de travail, IJSS, maintien de salaire, contre-visite patronale, contrôle, visite médicale de reprise, préreprise, inaptitude, reclassement, licenciement
+
+===============================================================================
+0) SOURCES OFFICIELLES (URLs) — consultation: 2026-02-11
+===============================================================================
+
+[SP-F303] Service-Public.fr — Arrêt maladie: démarches à effectuer par le salarié
+https://www.service-public.gouv.fr/particuliers/vosdroits/F303
+
+[SP-F2871] Service-Public.fr — Visite médicale après arrêt de travail (préreprise / reprise)
+https://www.service-public.gouv.fr/particuliers/vosdroits/F2871
+
+[SP-F726] Service-Public.fr — Inaptitude au travail d'un salarié après un arrêt maladie
+https://www.service-public.gouv.fr/particuliers/vosdroits/F726
+
+[AMELI-ASSURE-ARRET] ameli.fr (assuré) — Arrêt maladie: démarches du salarié + règles téléconsultation (3 jours) + 48h
+https://www.ameli.fr/assure/droits-demarches/maladie-accident-hospitalisation/arret-travail-maladie/arret-travail-maladie-salarie
+
+[AMELI-ASSURE-IJ] ameli.fr (assuré) — Indemnités journalières maladie: base 50% + plafond 1,4 SMIC + montant max
+https://www.ameli.fr/assure/remboursements/indemnites-journalieres-maladie-maternite-paternite/indemnites-journalieres-pour-maladie/arret-maladie-salarie
+
+[AMELI-ENT-IJ] ameli.fr (entreprise) — Indemnités journalières maladie: calcul + plafond + montant max (repères employeur)
+https://www.ameli.fr/entreprise/vos-salaries/arret-de-travail/indemnites-journalieres
+
+[AMELI-ENT-IJ-MAX] ameli.fr (entreprise) — Montants maximum des IJ (table)
+https://www.ameli.fr/entreprise/vos-salaries/montants-reference/indemnites-journalieres-montants-maximum
+
+[MIN-TRAVAIL-2024] Ministère du Travail — Arrêts de travail et contre-visites patronales (décret du 05/07/2024: explications)
+https://travail-emploi.gouv.fr/arrets-de-travail-et-contre-visites-patronales-ce-quil-faut-retenir-du-decret-du-5-juillet-2024
+
+[CTN-MAINTIEN] Code du travail numérique (info) — Maintien de salaire (panorama + renvoi aux textes)
+https://code.travail.gouv.fr/information/arret-maladie-quelles-sont-les-conditions-du-maintien-de-salaire
+
+[CTN-OBLIG] Code du travail numérique (info) — Obligations du salarié pendant l'arrêt (panorama + renvoi aux textes)
+https://code.travail.gouv.fr/information/arret-maladie-quelles-sont-les-obligations-du-salarie
+
+[LGR-L1226-1] Légifrance — Code du travail: Article L1226-1 (indemnité complémentaire + renvoi contre-visite)
+https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031687748
+
+[LGR-D1226-1] Légifrance — Code du travail: Article D1226-1 (90% puis 2/3)
+https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018537770
+
+[LGR-D1226-2] Légifrance — Code du travail: Article D1226-2 (majorations selon ancienneté, plafonnées)
+https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000018482654/
+
+[LGR-D1226-3] Légifrance — Code du travail: Article D1226-3 (carence maintien: au-delà de 7 jours hors AT/MP)
+https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000018482980/
+
+[LGR-R1226-10] Légifrance — Code du travail: Article R1226-10 (lieu de repos + horaires si “sortie libre”)
+https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049898796
+
+[LGR-R1226-11] Légifrance — Code du travail: Article R1226-11 (contre-visite domicile ou cabinet sur convocation date certaine)
+https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049898798
+
+[LGR-R1226-12] Légifrance — Code du travail: Article R1226-12 (résultat du contrôle + transmission au salarié)
+https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049898800
+
+[LGR-L1226-2] Légifrance — Code du travail: Article L1226-2 (reclassement en cas d’inaptitude non pro + avis CSE)
+https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035653236
+
+[LGR-L1226-4] Légifrance — Code du travail: Article L1226-4 (délai 1 mois: reprise du salaire si ni reclassement ni licenciement)
+https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025560071
+
+[JORF-2024-692] Légifrance — Décret n°2024-692 du 5 juillet 2024 (contre-visite patronale)
+https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049888878
+
+===============================================================================
+1) CONTEXTE ET DÉFINITIONS
+===============================================================================
+
+1.1 Contexte
+- L’arrêt maladie (arrêt de travail) suspend le contrat de travail: le salarié est absent pour raison médicale. [SP-F303]
+- L’inaptitude est un avis du médecin du travail (santé au travail), à distinguer de l’invalidité (Sécurité sociale). [SP-F726]
+
+1.2 Définitions utiles
+- Arrêt maladie / arrêt de travail: interruption de travail prescrite par un professionnel de santé. [SP-F303] [AMELI-ASSURE-ARRET]
+- IJSS (indemnités journalières de Sécurité sociale): indemnisation versée par la CPAM/MSA sous conditions. [AMELI-ASSURE-IJ]
+- Maintien de salaire (complément employeur): indemnité complémentaire prévue par le Code du travail (socle légal), fréquemment améliorée par convention collective. [LGR-L1226-1] [CTN-MAINTIEN]
+- Contre-visite patronale: contrôle médical organisé par l’employeur (si maintien de salaire) pour apprécier le caractère justifié de l’arrêt, dans le cadre légal. [JORF-2024-692] [LGR-R1226-11]
+- Inaptitude: constat du médecin du travail indiquant que le salarié n’est pas apte à son poste (ou à tout emploi), pouvant déclencher une obligation de reclassement. [SP-F726] [LGR-L1226-2]
+
+===============================================================================
+2) ARRÊT MALADIE — OBLIGATIONS DU SALARIÉ ET RÉFLEXES RH
+===============================================================================
+
+2.1 Transmission de l’arrêt (délais) et pièces
+- Délai: le salarié dispose de 48 heures pour informer son organisme (CPAM/MSA) lorsqu’il est malade. [SP-F303]
+- En pratique (papier): envoi des volets 1 et 2 à la CPAM/MSA; volet 3 à l’employeur. En cas de télétransmission, le salarié ne reçoit souvent que le volet 3 pour l’employeur. [SP-F303]
+- Important (anti-fraude): si l’arrêt est sur support papier, seule la version “Cerfa sécurisé” est acceptée par l’Assurance Maladie. Les photocopies/scans/anciens formulaires peuvent être rejetés. [SP-F303] [AMELI-ASSURE-ARRET]
+
+Réflexe RH:
+- Ne collecter que les informations nécessaires (dates, volet employeur) et respecter le secret médical (ne pas demander le diagnostic).
+
+2.2 Téléconsultation (limitation “3 jours”)
+- Depuis le 01/01/2024, les arrêts prescrits ou renouvelés en téléconsultation ne peuvent pas excéder 3 jours, sauf exceptions prévues. [AMELI-ASSURE-ARRET] [AMELI-ASSURE-IJ]
+
+2.3 Présence / sorties / contrôlabilité
+- Le salarié doit respecter les prescriptions et les règles relatives aux sorties/présence (selon l’arrêt) et rester “contrôlable” (contrôles CPAM et/ou contre-visites employeur si maintien). [AMELI-ASSURE-ARRET]
+- En cas de “sortie libre”, le salarié doit être en mesure d’indiquer des horaires permettant un contrôle (voir aussi règles contre-visite employeur). [AMELI-ASSURE-ARRET] [LGR-R1226-10]
+
+===============================================================================
+3) INDEMNISATION — IJSS + MAINTIEN DE SALAIRE EMPLOYEUR (SOCLE)
+===============================================================================
+
+3.1 IJ maladie (repères)
+- Base: indemnité journalière = 50% du salaire journalier de base, avec salaires pris en compte dans la limite de 1,4 fois le SMIC mensuel. [AMELI-ASSURE-IJ] [AMELI-ENT-IJ]
+- Carence IJ: les IJ maladie sont dues à compter du 4e jour d’arrêt (carence 3 jours), sauf régimes/accords plus favorables ou situations particulières. [AMELI-ASSURE-IJ]
+
+Repères 2026 (montants max indiqués par l’Assurance Maladie):
+- Arrêts prescrits en janvier 2026: max 41,47 € brut/jour.
+- Arrêts prescrits à compter de février 2026: max 41,95 € brut/jour. [AMELI-ASSURE-IJ] [AMELI-ENT-IJ-MAX]
+
+3.2 Maintien de salaire employeur (complément) — conditions et calcul
+Socle légal (à vérifier avec la convention collective):
+- Condition d’ancienneté: 1 an d’ancienneté (et autres conditions légales) pour bénéficier du complément. [LGR-L1226-1]
+- Montant (minimum légal):
+  - 90% de la rémunération brute pendant 30 jours,
+  - puis 2/3 pendant 30 jours. [LGR-D1226-1]
+- Durée augmentée selon l’ancienneté: +10 jours par période entière de 5 ans (au-delà de l’année requise), sans dépasser 90 jours par période. [LGR-D1226-2]
+- Point de départ (carence maintien):
+  - AT/MP (hors accident de trajet): dès le 1er jour d’absence,
+  - autres cas: au-delà de 7 jours d’absence. [LGR-D1226-3]
+
+Notes RH:
+- La convention collective peut supprimer/réduire la carence, augmenter les taux, prévoir la subrogation, etc. [CTN-MAINTIEN]
+
+===============================================================================
+4) CONTRE-VISITE PATRONALE (SI MAINTIEN DE SALAIRE)
+===============================================================================
+
+4.1 Principes
+- L’employeur peut faire procéder à une contre-visite par un médecin mandaté (cadre du maintien de salaire) afin que le médecin se prononce sur le caractère justifié de l’arrêt, y compris sa durée. [LGR-R1226-11] [JORF-2024-692]
+
+4.2 Obligations du salarié spécifiques “contre-visite”
+- Communiquer dès le début de l’arrêt (et à chaque changement) le lieu de repos s’il diffère du domicile.
+- Si l’arrêt porte la mention “sortie libre”, communiquer les horaires auxquels la contre-visite peut s’effectuer. [LGR-R1226-10]
+
+4.3 Modalités du contrôle
+- La contre-visite peut avoir lieu à tout moment de l’arrêt, au choix du médecin:
+  - au domicile/lieu communiqué, sans préavis (hors heures de sorties autorisées),
+  - ou au cabinet sur convocation conférant date certaine.
+- Si le salarié est dans l’impossibilité de se déplacer, il en informe le médecin en précisant les raisons. [LGR-R1226-11]
+
+4.4 Résultat et information
+- Le médecin informe l’employeur:
+  - arrêt justifié,
+  - arrêt injustifié,
+  - ou impossibilité de contrôle imputable au salarié (ex: refus de convocation, absence lors de la visite).
+- L’employeur transmet sans délai cette information au salarié. [LGR-R1226-12]
+
+Point RH:
+- La conséquence principale porte sur le maintien de salaire (complément employeur), selon le cadre légal et la traçabilité.
+
+===============================================================================
+5) REPRISE DU TRAVAIL — PRÉREPRISE ET REPRISE
+===============================================================================
+
+5.1 Visite de préreprise (anticipation)
+- Possible pour les arrêts de plus de 30 jours.
+- Peut être demandée par le salarié, le médecin traitant, le médecin conseil, ou le médecin du travail.
+- Objectif: anticiper aménagements/adaptation/reclassement. [SP-F2871]
+
+5.2 Visite de reprise (obligatoire dans certains cas)
+- La visite de reprise n’est pas systématique.
+- Elle est obligatoire si l’arrêt était dû à:
+  - maladie/accident non professionnel d’au moins 60 jours,
+  - accident du travail d’au moins 30 jours,
+  - maladie professionnelle (quelle que soit la durée),
+  - congé maternité.
+- Elle doit être organisée à la demande de l’employeur et avoir lieu dans les 8 jours calendaires suivant la reprise. [SP-F2871]
+
+===============================================================================
+6) INAPTITUDE APRÈS ARRÊT MALADIE — RECLASSEMENT PUIS (ÉVENTUELLEMENT) RUPTURE
+===============================================================================
+
+6.1 Inaptitude: décision du médecin du travail
+- L’inaptitude est constatée par le médecin du travail (et non par l’Assurance Maladie). [SP-F726]
+- L’avis d’inaptitude inclut des conclusions écrites et des indications relatives au reclassement; il peut mentionner que le maintien dans un emploi serait gravement préjudiciable ou que l’état de santé fait obstacle à tout reclassement. [SP-F726]
+
+6.2 Obligation de reclassement (principe — inaptitude non professionnelle)
+- L’employeur propose un emploi approprié aux capacités du salarié, en tenant compte des conclusions du médecin du travail. [LGR-L1226-2]
+- La proposition prend en compte, lorsqu’il existe, l’avis du CSE. [LGR-L1226-2]
+- Le reclassement vise un emploi aussi comparable que possible, en envisageant mutations/aménagements/adaptations/transformation de poste ou aménagement du temps de travail. [LGR-L1226-2]
+
+6.3 Exceptions (dispense de reclassement)
+- Si l’avis d’inaptitude mentionne que tout maintien serait gravement préjudiciable pour la santé ou que l’état de santé rend impossible tout reclassement, les obligations peuvent être adaptées (dispense de proposition selon le cas). [SP-F726]
+
+6.4 Délai d’un mois: reprise du paiement du salaire
+- Si, à l’issue d’un délai d’un mois à compter de l’examen médical de reprise, le salarié déclaré inapte n’est ni reclassé ni licencié, l’employeur doit reprendre le versement du salaire correspondant à l’emploi précédemment occupé. [LGR-L1226-4] [SP-F726]
+
+6.5 Rupture du contrat (si reclassement impossible ou refus, selon cadre)
+- En CDI: licenciement pour inaptitude possible dans les cas précisés (refus, impossibilité, mentions spécifiques dans l’avis). [SP-F726]
+- Contestation: salarié ou employeur peut contester l’avis d’inaptitude devant le conseil de prud’hommes dans un délai de 15 jours suivant la notification. [SP-F726]
+
+===============================================================================
+7) PROCÉDURE RH — ÉTAPES “OPÉRATIONNELLES”
+===============================================================================
+
+Étape 1 — Réception et gestion de l’arrêt
+- Enregistrer l’absence, sécuriser les dates, vérifier les formalités (délai 48h, volet employeur).
+- Transmettre l’attestation de salaire à la CPAM (DSN / circuit) pour déclencher IJ. [SP-F303] [AMELI-ASSURE-ARRET]
+
+Étape 2 — Indemnisation
+- Appliquer le socle légal + dispositions conventionnelles (carences, taux, durée, subrogation).
+- Informer le salarié des règles internes (contact, justificatifs, sortie libre, etc.). [CTN-MAINTIEN] [AMELI-ENT-IJ]
+
+Étape 3 — Contrôle éventuel (si maintien)
+- Mettre en place une contre-visite dans le respect du décret et des articles R1226-10 à R1226-12. [LGR-R1226-10] [LGR-R1226-11] [LGR-R1226-12]
+
+Étape 4 — Retour et santé au travail
+- Déterminer si une visite de reprise est obligatoire et l’organiser (8 jours). [SP-F2871]
+- Le cas échéant: accompagner la préreprise (>30 jours). [SP-F2871]
+
+Étape 5 — Inaptitude (si prononcée)
+- Lancer la recherche de reclassement (postes, aménagements, groupe si applicable), consulter le CSE si existant, tracer les démarches.
+- Si échec/exception: procéder selon les règles (information écrite, rupture, respect du délai d’un mois). [LGR-L1226-2] [LGR-L1226-4] [SP-F726]
+
+===============================================================================
+8) DOCUMENTS / PREUVES À DEMANDER OU CONSERVER (MINIMISATION)
+===============================================================================
+
+- Volet employeur (volet 3) de l’arrêt + dates (preuve de réception). [SP-F303]
+- Attestation de salaire transmise à la CPAM (preuves DSN / accusés si disponibles). [AMELI-ASSURE-ARRET]
+- Maintien de salaire: éléments de paie/ancienneté/convention collective applicable. [LGR-L1226-1] [CTN-MAINTIEN]
+- Contre-visite: preuve de convocation (si cabinet) et information transmise au salarié; informations lieu de repos / horaires (si sortie libre) uniquement si nécessaires. [LGR-R1226-10] [LGR-R1226-11] [LGR-R1226-12]
+- Inaptitude: avis du médecin du travail + traçabilité du reclassement (postes examinés, échanges, propositions, réponses). [SP-F726] [LGR-L1226-2]
+
+===============================================================================
+9) POINTS DE VIGILANCE (JURIDIQUE & CONFORMITÉ)
+===============================================================================
+
+- Ne pas confondre inaptitude (médecin du travail) et invalidité (Sécurité sociale). [SP-F726]
+- Secret médical / minimisation: ne pas demander de diagnostic; ne conserver que les éléments nécessaires (dates, avis, procédures). [AMELI-ASSURE-ARRET]
+- Contre-visite: respecter strictement le cadre (date certaine convocation, obligations salarié, transmission au salarié). [LGR-R1226-11] [LGR-R1226-12]
+- Inaptitude: obligation de reclassement “par défaut”; vérifier les mentions exactes de l’avis (dispense possible) et documenter les recherches. [SP-F726] [LGR-L1226-2]
+- Délai d’un mois: surveiller l’échéance pour éviter la reprise automatique du salaire. [LGR-L1226-4]
+
+===============================================================================
+10) EXEMPLES (CAS D’USAGE)
+===============================================================================
+
+Exemple 1 — Arrêt avec mention “sortie libre”
+- Le salarié doit communiquer les horaires de contrôlabilité pour une contre-visite employeur. [LGR-R1226-10]
+- En parallèle, les règles CPAM de contrôlabilité existent également. [AMELI-ASSURE-ARRET]
+
+Exemple 2 — Inaptitude au poste mais aptitude à un poste aménagé
+- Le médecin du travail prononce l’inaptitude au poste, avec indications d’aménagement / reclassement.
+- L’employeur doit rechercher et proposer un poste adapté, consulter le CSE si existant, tracer les propositions. [LGR-L1226-2] [SP-F726]
+
+===============================================================================
+11) RÉFÉRENCES JURIDIQUES (SYNTHÈSE)
+===============================================================================
+
+- Code du travail (Légifrance):
+  - L1226-1: indemnité complémentaire + base du maintien + renvoi contre-visite. [LGR-L1226-1]
+  - D1226-1: modalités de calcul (90% puis 2/3). [LGR-D1226-1]
+  - D1226-2: majorations de durée selon l’ancienneté (plafond 90j par période). [LGR-D1226-2]
+  - D1226-3: point de départ (AT/MP vs autres: au-delà de 7 jours). [LGR-D1226-3]
+  - R1226-10 à R1226-12: contre-visite (infos salarié, modalités, information). [LGR-R1226-10] [LGR-R1226-11] [LGR-R1226-12]
+  - L1226-2: reclassement après inaptitude non professionnelle + avis CSE. [LGR-L1226-2]
+  - L1226-4: reprise du salaire après 1 mois si ni reclassement ni licenciement. [LGR-L1226-4]
+
+- Portails officiels (pratique):
+  - Service-Public: obligations/démarches arrêt; visites; inaptitude et recours. [SP-F303] [SP-F2871] [SP-F726]
+  - Assurance Maladie (ameli): IJ, plafonds, règles téléconsultation, démarches. [AMELI-ASSURE-IJ] [AMELI-ASSURE-ARRET] [AMELI-ENT-IJ]
+  - Ministère du Travail: explications décret 05/07/2024 (contre-visite). [MIN-TRAVAIL-2024]

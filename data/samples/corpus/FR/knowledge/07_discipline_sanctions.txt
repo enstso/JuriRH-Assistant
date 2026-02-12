@@ -1,0 +1,293 @@
+DISCIPLINE — PROCEDURE DISCIPLINAIRE (SANCTIONS, DELAIS, ENTRETIEN PREALABLE)
+Doc_ID: discipline_sanctions
+Pays: FR (France)
+Domaine: Droit du travail / RH (secteur privé)
+Périmètre: salariés du secteur privé (CDI, CDD, apprentissage, etc.) ; attention aux règles spécifiques prévues par la convention collective, le statut et/ou le règlement intérieur.
+
+Date de préparation (projet): 2026-02-11
+Date de consolidation / enrichissement (présente version): 2026-02-12 (Europe/Paris)
+Objectif RAG: fournir une synthèse opérationnelle et sourcée (sites officiels) sur le pouvoir disciplinaire, la procédure, les délais et les points de vigilance.
+
+=====================================================================
+1) SOURCES OFFICIELLES (PRIORITAIRES)
+=====================================================================
+
+A. Ministère du Travail et des Solidarités (travail-emploi.gouv.fr)
+- « La sanction disciplinaire » (Date de mise à jour: 28/07/2025)
+  https://travail-emploi.gouv.fr/la-sanction-disciplinaire
+- « Le règlement intérieur » (Date de mise à jour: 16/04/2025)
+  https://travail-emploi.gouv.fr/le-reglement-interieur
+- « La procédure en cas de licenciement pour motif personnel » (fiche pratique)
+  https://travail-emploi.gouv.fr/la-procedure-en-cas-de-licenciement-pour-motif-personnel
+
+B. Service-Public.fr (DILA / Premier ministre)
+- « Sanctions disciplinaires d’un salarié du secteur privé » (F2234, vérifié le 07/05/2025)
+  https://www.service-public.gouv.fr/particuliers/vosdroits/F2234
+- « Règlement intérieur d’une entreprise » (F1905)
+  https://www.service-public.gouv.fr/particuliers/vosdroits/F1905
+- « Saisir le conseil de prud’hommes (CPH) » (F2360 — délais de saisine)
+  https://www.service-public.gouv.fr/particuliers/vosdroits/F2360
+- « Comment calcule-t-on un délai dans une procédure civile ? » (F31111, vérifié le 30/04/2025)
+  https://www.service-public.gouv.fr/particuliers/vosdroits/F31111
+- « Procédure de licenciement pour motif personnel » (F2839)
+  https://www.service-public.gouv.fr/particuliers/vosdroits/F2839
+
+C. Code du travail numérique (code.travail.gouv.fr) — service officiel
+- Modèle: « Convocation à un entretien préalable à une sanction disciplinaire » (modèle)
+  https://code.travail.gouv.fr/modeles-de-courriers/convocation-a-un-entretien-prealable-a-une-sanction-disciplinaire
+- Modèle: « Convocation à un entretien préalable au licenciement pour motif personnel » (modèle)
+  https://code.travail.gouv.fr/modeles-de-courriers/convocation-a-un-entretien-prealable-au-licenciement-pour-motif-personnel
+
+D. Légifrance (legifrance.gouv.fr) — textes et jurisprudence
+Textes clés (Code du travail):
+- Définition sanction disciplinaire: L1331-1
+  https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901445
+- Interdiction sanctions pécuniaires: L1331-2
+  https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901446
+- Information écrite des griefs: L1332-1
+  https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901447
+- Procédure (entretien, délais): L1332-2
+  https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025560074
+- Mise à pied conservatoire et procédure: L1332-3
+  https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901449
+- Prescription 2 mois: L1332-4 (version en vigueur depuis 01/05/2008)
+  https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901450
+- « 3 ans » (ancienne sanction non invocable): L1332-5
+  https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901451
+- Contrôle du juge prud’homal: L1333-1
+  https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901453
+
+Décrets / computation des délais (Code du travail):
+- Convocation: R1332-1
+  https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018536889
+- Notification motivée: R1332-2
+  https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018536887
+- Computation du délai d’1 mois (L1332-2): R1332-3
+  https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018536885
+- Application au délai de 2 mois (L1332-4): R1332-4
+  https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018536881
+
+Règlement intérieur:
+- Seuil et délai d’obligation (≥ 50 salariés): L1311-2
+  https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038610176
+- Contenu disciplinaire du règlement intérieur: L1321-1
+  https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901432
+- Rappels obligatoires (droits de la défense, harcèlement, etc.): L1321-2
+  https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045391757
+- Clauses interdites (légalité / non-discrimination / proportionnalité): L1321-3
+  https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033975667
+- Procédure d’adoption / entrée en vigueur: L1321-4
+  https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035652969
+- Notes de service (adjonctions) et urgence santé/sécurité: L1321-5
+  https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035653093
+
+Computation (Code de procédure civile):
+- Article 641 (délais exprimés en mois/années)
+  https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411002/
+- Article 642 (prorogation si samedi/dimanche/jour férié)
+  https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411003
+
+Jurisprudence Légifrance (sélection utile RH / discipline):
+- Mise à pied disciplinaire: doit être prévue + durée maximale dans le règlement intérieur (Cass. soc., 26/10/2010)
+  https://www.legifrance.gouv.fr/juri/id/JURITEXT000022977598
+- Règlement intérieur / notes de service: effet seulement si formalités (consultation + transmission inspection) respectées (Cass. soc., 09/05/2012)
+  https://www.legifrance.gouv.fr/juri/id/JURITEXT000025861398
+- Prescription 2 mois et refus d’une sanction modifiant le contrat: nouveau délai à compter du refus exprimé (Cass. soc., 27/05/2021)
+  https://www.legifrance.gouv.fr/juri/id/JURITEXT000043617961
+- Conseil de discipline (organisme disciplinaire): saisine interrompt/suspend le délai d’1 mois de L1332-2 (Cass. soc., 02/05/2024)
+  https://www.legifrance.gouv.fr/juri/id/JURITEXT000049510328
+- « Mise en garde » / rappel à l’ordre: la qualification dépend du contenu (sanction vs simple observation) (Cass. soc., 29/05/2024)
+  https://www.legifrance.gouv.fr/juri/id/JURITEXT000049641045
+- CDD — rupture anticipée pour faute grave: application des seules garanties L1332-1 à L1332-3 (Cass. soc., 20/11/2013)
+  https://www.legifrance.gouv.fr/juri/id/JURITEXT000028230909/
+
+=====================================================================
+2) DEFINITIONS OPERATOIRES
+=====================================================================
+
+2.1 Faute disciplinaire
+- Comportement du salarié constituant un manquement à ses obligations (contrat, règlement intérieur, consignes, sécurité, etc.).
+- Il n’existe pas de liste légale exhaustive: l’employeur apprécie les faits, sous contrôle du juge prud’homal (Service-Public F2234).
+
+2.2 Sanction disciplinaire (définition légale)
+- Une sanction est une mesure, autre qu’une observation verbale, prise par l’employeur à la suite d’un agissement considéré fautif et qui affecte (immédiatement ou non) la présence, la fonction, la carrière ou la rémunération (Code du travail L1331-1).
+
+2.3 Observations / rappel à l’ordre / « mise en garde »
+- Une simple observation (sans incidence sur la situation du salarié) n’est pas une sanction (L1331-1).
+- Une lettre de « mise en garde » peut, selon son contenu, constituer:
+  (a) soit un simple rappel à l’ordre (pas une sanction),
+  (b) soit une sanction disciplinaire si elle comporte des griefs et entraîne une conséquence sur la situation du salarié (Cass. soc., 29/05/2024).
+
+2.4 Mise à pied conservatoire (mesure d’attente)
+- Mesure immédiate pouvant être décidée lorsque le maintien du salarié est impossible pendant l’instruction.
+- Si une sanction définitive est prononcée pour les mêmes faits, la procédure de L1332-2 doit être respectée (L1332-3).
+
+=====================================================================
+3) PRINCIPES JURIDIQUES (REGLES DE FOND)
+=====================================================================
+
+3.1 Pouvoir disciplinaire: justification et proportionnalité
+- Toute sanction doit être motivée par des faits fautifs et proportionnée à leur gravité (Ministère du Travail; Service-Public F2234).
+- Le juge (Conseil de prud’hommes) contrôle la régularité de procédure et la justification de la sanction (L1333-1).
+
+3.2 Interdictions majeures
+- Sanctions pécuniaires interdites: amendes / retenues à titre disciplinaire (L1331-2).
+- Sanctions discriminatoires interdites (principe rappelé notamment via le contrôle de légalité du règlement intérieur: L1321-3; Ministère du Travail).
+
+3.3 Non-cumul / non bis in idem
+- Un même fait fautif ne doit pas être sanctionné deux fois (principe rappelé par les sources ministérielles et la pratique du droit disciplinaire).
+
+=====================================================================
+4) TYPOLOGIE DES SANCTIONS (EXEMPLES)
+=====================================================================
+
+NB: les catégories varient selon les entreprises; le règlement intérieur et la convention collective peuvent préciser l’échelle des sanctions.
+
+Sanctions fréquentes (exemples):
+- Avertissement / blâme (sanctions « mineures »).
+- Mise à pied disciplinaire (si prévue au règlement intérieur et durée maximale fixée: Cass. soc., 26/10/2010; Ministère du Travail — règlement intérieur).
+- Mutation disciplinaire, rétrogradation, changement de fonctions (souvent modification du contrat => accord du salarié requis).
+- Licenciement pour motif disciplinaire (procédure spécifique de licenciement; voir § 9).
+
+=====================================================================
+5) PROCEDURE DISCIPLINAIRE (HORS LICENCIEMENT) — ETAPES
+=====================================================================
+
+5.1 Etape 0 — Qualification et sécurisation
+- Décrire précisément les faits (dates, lieux, témoins, consignes violées, impacts).
+- Vérifier:
+  - absence de discrimination,
+  - absence de sanction pécuniaire,
+  - absence de double sanction pour les mêmes faits.
+
+5.2 Etape 1 — Vérifier la prescription des faits (délai de 2 mois)
+- Aucun fait fautif ne peut donner lieu à l’engagement de poursuites disciplinaires au-delà de 2 mois à compter du jour où l’employeur a eu connaissance des faits (L1332-4).
+- Le délai se calcule selon R1332-4 (renvoi à R1332-3) et, de manière générale, selon CPC 641 et 642.
+
+5.3 Etape 2 — Choisir la nature de la sanction (mineure vs avec incidence)
+A. Sanction mineure (ex: avertissement)
+- En principe, pas d’entretien préalable obligatoire (Service-Public F2234).
+- Cependant, l’écrit reste indispensable: le salarié doit être informé par écrit des griefs (L1332-1) et la décision doit être motivée (pratique + exigence d’argumentation Service-Public F2234).
+
+B. Sanction ayant une incidence sur présence/fonction/carrière/rémunération
+- Obligation d’entretien préalable, sauf avertissement ou sanction de même nature sans incidence (L1332-2).
+
+5.4 Etape 3 — Convocation à entretien préalable
+- La lettre de convocation doit indiquer: objet, date/heure/lieu, rappel de la possibilité d’assistance par une personne de l’entreprise (R1332-1).
+- La convocation est remise contre récépissé ou envoyée en recommandé; elle doit intervenir dans le délai de 2 mois de L1332-4 (R1332-1).
+
+5.5 Etape 4 — Entretien préalable
+- Pendant l’entretien, l’employeur indique les motifs de la sanction envisagée et recueille les explications du salarié (L1332-2).
+
+5.6 Etape 5 — Décision et notification
+- La sanction ne peut être notifiée:
+  - ni moins de 2 jours ouvrables,
+  - ni plus d’1 mois
+  après le jour fixé pour l’entretien (L1332-2).
+- La décision doit être écrite et motivée; notification au salarié par remise contre récépissé ou recommandé (R1332-2).
+
+=====================================================================
+6) DELAIS — RECAP PRATIQUE
+=====================================================================
+
+6.1 Délai de 2 mois (prescription des faits fautifs)
+- Point de départ: jour où l’employeur a connaissance des faits (L1332-4).
+- Les règles de computation prévues pour L1332-2 s’appliquent au délai de 2 mois (R1332-4).
+- Illustrations jurisprudentielles:
+  - En cas de refus d’une sanction nécessitant l’accord du salarié (ex. rétrogradation), un nouveau délai de 2 mois peut courir à compter du refus exprimé (Cass. soc., 27/05/2021).
+
+6.2 Délai d’1 mois (notification après entretien)
+- L’employeur doit notifier la sanction au plus tard dans le mois suivant le jour fixé pour l’entretien (L1332-2).
+- Règles de computation (R1332-3):
+  - expiration le jour du mois suivant portant le même quantième que le jour fixé pour l’entretien;
+  - à défaut, le dernier jour du mois suivant;
+  - si le dernier jour tombe un samedi/dimanche/jour férié ou chômé: prorogation au premier jour ouvrable suivant.
+
+6.3 Délai minimum de 2 jours ouvrables
+- La sanction ne peut intervenir avant l’expiration de 2 jours ouvrables après le jour fixé pour l’entretien (L1332-2).
+- « Jours ouvrables »: en pratique, tous les jours sauf le jour de repos hebdomadaire (souvent dimanche) et les jours fériés (se référer à la pratique interne et, au besoin, à Service-Public pour les définitions générales).
+
+6.4 « Règle des 3 ans »
+- Une sanction datant de plus de 3 ans ne peut pas être invoquée à l’appui d’une nouvelle sanction (L1332-5).
+
+=====================================================================
+7) CAS PARTICULIERS IMPORTANTS
+=====================================================================
+
+7.1 Mise à pied conservatoire (urgence)
+- Si une mise à pied conservatoire est décidée à effet immédiat, aucune sanction définitive pour les mêmes faits ne peut être prise sans respecter la procédure de L1332-2 (L1332-3).
+- Bon réflexe: enchaîner la procédure sans « délai anormal » (Ministère du Travail — sanction disciplinaire).
+
+7.2 Sanctions modifiant le contrat de travail (rétrogradation, mutation disciplinaire, etc.)
+- Une sanction qui modifie un élément essentiel du contrat nécessite généralement l’accord du salarié.
+- Si le salarié refuse, l’employeur peut décider une autre sanction, en respectant les délais (notamment prescription 2 mois) — voir Cass. soc., 27/05/2021.
+
+7.3 Organisme disciplinaire / conseil de discipline (garantie statutaire)
+- Certains statuts / conventions prévoient la consultation d’un conseil de discipline.
+- La saisine de l’organisme peut interrompre et suspendre le délai d’1 mois de L1332-2, qui recommence à courir à compter de la réunion du conseil ou de la renonciation du salarié à la garantie (Cass. soc., 02/05/2024).
+
+7.4 CDD — rupture anticipée pour faute grave
+- La rupture anticipée d’un CDD pour faute grave relève des garanties L1332-1 à L1332-3 (et non de la procédure de licenciement), et ces textes ne prévoient pas de formalisme spécifique pour la convocation à l’entretien (Cass. soc., 20/11/2013).
+
+=====================================================================
+8) REGLEMENT INTERIEUR — LIEN DIRECT AVEC LES SANCTIONS
+=====================================================================
+
+8.1 Quand est-il obligatoire ?
+- Obligatoire dans les entreprises/établissements employant au moins 50 salariés, avec un mécanisme de seuil sur 12 mois (L1311-2; Ministère du Travail; Service-Public F1905).
+
+8.2 Ce qu’il doit contenir sur la discipline
+- Le règlement intérieur fixe notamment la nature et l’échelle des sanctions (L1321-1).
+- Le Ministère du Travail rappelle qu’une sanction ne peut être prononcée que si elle est prévue par le règlement intérieur; pour la mise à pied disciplinaire, la durée maximale doit être fixée (Ministère du Travail — règlement intérieur; Cass. soc., 26/10/2010).
+
+8.3 Procédure d’adoption et opposabilité
+- Consultation préalable du CSE.
+- Entrée en vigueur au plus tôt 1 mois après accomplissement des formalités de dépôt et de publicité (L1321-4; Ministère du Travail — règlement intérieur).
+- Jurisprudence: un règlement intérieur (et ses notes de service) ne produit effet que si l’employeur a accompli les diligences légales (Cass. soc., 09/05/2012).
+
+8.4 Contrôle par l’inspection du travail et le juge
+- L’inspecteur du travail peut exiger le retrait/modification de clauses illicites (Ministère du Travail — règlement intérieur).
+- Le juge prud’homal peut écarter l’application d’une clause illégale dans un litige individuel (Ministère du Travail — règlement intérieur).
+
+=====================================================================
+9) SANCTION = LICENCIEMENT (RAPPEL DE FRONTIERE)
+=====================================================================
+
+- Si l’employeur envisage un licenciement (motif disciplinaire ou autre), il faut appliquer la procédure de licenciement pour motif personnel (Service-Public F2839; Ministère du Travail « procédure licenciement motif personnel »; Code du travail L1232-1 et suivants sur Légifrance).
+- Attention: le délai « 5 jours ouvrables » entre convocation et entretien (licenciement) est distinct des règles L1332-2 (discipline hors licenciement).
+  (Référence: Service-Public F2839; Code du travail L1232-2 et suivants sur Légifrance.)
+
+=====================================================================
+10) PREUVES / DOSSIER — CHECKLIST RAG
+=====================================================================
+
+10.1 Preuves (factuelles)
+- Témoignages datés/signés, e-mails, messages, logs, rapports d’incident, photos/constats, planning/pointages, compte-rendus.
+- Traçabilité: preuve de remise de la convocation, éléments produits à l’entretien, preuve de notification (LRAR / récépissé), preuves de calcul des délais.
+
+10.2 Référentiels internes
+- Règlement intérieur (si existant/obligatoire) et annexes/notes de service.
+- Chartes (informatique, réseaux sociaux), procédures (sécurité, qualité), consignes écrites.
+
+10.3 Contentieux
+- En cas de litige, le conseil de prud’hommes apprécie la régularité de la procédure et la justification de la sanction; l’employeur doit fournir les éléments retenus (L1333-1).
+- Délais de saisine prud’homale:
+  - action portant sur l’exécution du contrat de travail: 2 ans (Service-Public F2360; Code du travail L1471-1 sur Légifrance via la section dédiée).
+  (Toujours vérifier les délais applicables au cas précis.)
+
+=====================================================================
+11) MOTS-CLES (INDEX)
+=====================================================================
+
+sanction disciplinaire; avertissement; blâme; mise à pied disciplinaire; mise à pied conservatoire; rétrogradation; mutation disciplinaire;
+licenciement disciplinaire; entretien préalable; convocation; notification; LRAR; récépissé; prescription; délai 2 mois; délai 1 mois;
+règlement intérieur; échelle des sanctions; conseil de discipline; preuve; prud’hommes; non-discrimination; sanction pécuniaire interdite.
+
+=====================================================================
+12) NOTES D’USAGE POUR L’INGESTION (RAG)
+=====================================================================
+
+- Ce document est une synthèse opérationnelle basée sur des sources officielles (voir § 1).
+- Toujours vérifier l’existence de dispositions conventionnelles/statutaires spécifiques (organisme disciplinaire, délais internes, etc.).
+- Pour les délais, appliquer strictement les règles de computation (R1332-3, R1332-4; CPC 641-642) et conserver une preuve de calcul.
+

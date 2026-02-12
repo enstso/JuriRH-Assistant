@@ -1,0 +1,297 @@
+================================================================================
+DOCUMENT (RAG) — HARCÈLEMENT : DÉFINITION, PRÉVENTION, ENQUÊTE INTERNE, PROTECTIONS
+================================================================================
+
+Doc_ID: harcelement_enquete
+Pays: FR
+Domaine: Juridique RH / Droit du travail / Santé-sécurité / Conformité
+Date de préparation: 2026-02-11
+Date de consultation / vérification des sources: 2026-02-12
+Périmètre: Salariés du secteur privé (CDI, CDD, alternance, intérim) + obligations employeur
+          (prévention / traitement) ; peut inclure stagiaires/apprentis selon les textes et
+          les fiches Service-Public ; peut concerner des tiers (clients/usagers/prestataires)
+          selon les faits et l’organisation du travail.
+
+Avertissement (usage):
+- Ce document est une synthèse opérationnelle pour l’ingestion (RAG) et ne remplace pas
+  un conseil juridique individualisé.
+- Les références listées sont des sources officielles (gouvernement/autorités publiques).
+
+Mots-clés:
+harcèlement moral, harcèlement sexuel, agissements sexistes, enquête interne, signalement,
+canal d’alerte, protection anti-représailles, preuve, contradictoire, confidentialité, RGPD, CNIL,
+CSE, référent harcèlement, obligation de sécurité, prévention, sanction disciplinaire, prud’hommes, pénal.
+
+
+---------------------------
+1) CONTEXTE ET DÉFINITIONS
+---------------------------
+
+1.1 Contexte RH
+- Le harcèlement au travail peut être commis par un supérieur, un collègue, un subordonné,
+  ou un tiers (client/usager/prestataire). Les ressources du ministère rappellent cette diversité
+  de situations et le cadre de protection.
+- Interactions fréquentes avec : discipline, RPS (risques psychosociaux), santé-sécurité, arrêt maladie,
+  discrimination, procédure de signalement/alerte.
+
+Sources officielles (pages d’explication):
+- Ministère du Travail: harcèlement moral ; harcèlement sexuel.
+- Service-Public: fiches « Harcèlement moral » ; « Harcèlement sexuel ou sexiste » ; « Que faire en cas de harcèlement ? ».
+
+1.2 Définitions (socle juridique)
+A) Harcèlement moral (droit du travail)
+- Définition: agissements répétés ayant pour objet ou effet une dégradation des conditions de travail
+  susceptible de porter atteinte aux droits et à la dignité, d’altérer la santé (physique/mentale) ou
+  de compromettre l’avenir professionnel.
+
+B) Harcèlement sexuel (droit du travail et droit pénal)
+- Au travail: propos ou comportements à connotation sexuelle ou sexiste répétés portant atteinte à la dignité
+  (caractère dégradant/humiliant) ou créant une situation intimidante/hostile/offensante ; ou pression grave
+  (même non répétée) visant à obtenir un acte de nature sexuelle.
+- Au pénal: définition et sanctions dans le Code pénal.
+
+C) Agissements sexistes (droit du travail)
+- Définition: tout agissement lié au sexe d’une personne ayant pour objet ou effet de porter atteinte à sa dignité
+  ou de créer un environnement intimidant/hostile/dégradant/humiliant/offensant.
+
+
+----------------------------------------
+2) BASE LÉGALE — CODE DU TRAVAIL (FR)
+----------------------------------------
+
+2.1 Harcèlement moral (Chapitre II — L1152-1 à L1152-6)
+- L1152-1: définition (voir § 1.2.A).
+- L1152-2: protection contre mesures défavorables (victime/refus + témoignage/relatage de bonne foi).
+- L1152-4: obligation de prévention (toutes dispositions nécessaires) + information du texte pénal applicable.
+- L1152-5: auteur salarié passible d’une sanction disciplinaire.
+
+2.2 Harcèlement sexuel (Chapitre III — L1153-1 à L1153-6)
+- L1153-1: définition au travail (propos/comportements à connotation sexuelle ou sexiste répétés ; ou pression grave).
+- L1153-2: protection contre mesures défavorables (victime/refus + témoignage/relatage de bonne foi).
+- L1153-5: obligations employeur: prévenir, faire cesser, sanctionner ; information des personnes (texte pénal, actions,
+  coordonnées des autorités/services compétents).
+- L1153-5-1: référent harcèlement sexuel/agissements sexistes obligatoire dans les entreprises d’au moins 250 salariés.
+- L1153-6: auteur salarié passible d’une sanction disciplinaire.
+
+2.3 Agissements sexistes (égalité professionnelle)
+- L1142-2-1: définition et interdiction des agissements sexistes (voir § 1.2.C).
+
+2.4 Gouvernance / acteurs (CSE)
+- L2314-1: référent « lutte contre le harcèlement sexuel et les agissements sexistes » désigné par le CSE parmi ses membres.
+
+2.5 Santé-sécurité (obligation générale + principes)
+- L4121-1: obligation de sécurité (mesures nécessaires: prévention, information/formation, organisation adaptée).
+- L4121-2: principes généraux de prévention (éviter, évaluer, combattre à la source, adapter, etc.).
+
+2.6 Preuve en contentieux prud’homal
+- L1154-1: mécanisme probatoire en matière de harcèlement (éléments laissant supposer puis justification « étrangère à tout
+  harcèlement » ; pouvoir d’instruction du juge).
+
+
+-----------------------------------
+3) BASE LÉGALE — CODE PÉNAL (FR)
+-----------------------------------
+
+3.1 Harcèlement sexuel (Code pénal — art. 222-33)
+- Définition pénale et peines prévues (peines aggravées possibles selon circonstances).
+
+3.2 Harcèlement moral (Code pénal — art. 222-33-2)
+- Définition pénale et peines prévues.
+
+
+----------------------------------------------------------------------
+4) OBLIGATIONS EMPLOYEUR — PRÉVENTION, TRAITEMENT, INFORMATION, SANCTION
+----------------------------------------------------------------------
+
+4.1 Obligations principales (synthèse opérationnelle)
+L’employeur doit, de manière cohérente avec le Code du travail et l’obligation de sécurité:
+1) Prévenir:
+   - actions d’information / sensibilisation, formation,
+   - évaluation des risques (dont RPS) et intégration dans la démarche de prévention,
+   - règles internes (règlement intérieur si applicable), procédures de traitement.
+2) Faire cesser:
+   - agir dès connaissance de faits plausibles ; mesures de protection ; réorganisation temporaire si nécessaire.
+3) Sanctionner:
+   - engager, le cas échéant, une procédure disciplinaire contre l’auteur salarié, proportionnée à la gravité.
+
+4.2 Information / affichage / modèles officiels
+- Harcèlement sexuel: obligations d’information sur site (texte pénal + coordonnées des autorités/services compétents), et
+  modèles d’affichage disponibles sur le « Code du travail numérique ».
+- Modèle de lettre (salarié) de signalement de faits pouvant relever du harcèlement moral ou sexuel (Code du travail numérique).
+
+4.3 Protection anti-représailles (victimes, témoins, bonne foi)
+- Interdiction de mesures défavorables du fait:
+  - d’avoir subi/refusé des faits,
+  - d’avoir témoigné ou relaté de bonne foi.
+- Vigilance sur représailles indirectes: isolement, retrait de missions, dégradation d’évaluation, etc.
+
+
+----------------------------------------------------------
+5) TRAITEMENT DES SIGNALEMENTS & ENQUÊTE INTERNE (PROCÉDURE)
+----------------------------------------------------------
+
+5.1 Schéma de traitement structuré (workflow recommandé)
+Objectif: protection des personnes + qualification + décision + traçabilité.
+
+Étape 1 — Réception et qualification initiale
+- Recueillir un récit factuel daté (quoi, quand, où, qui, comment), éléments disponibles (mails, messages, captures),
+  témoins potentiels.
+- Accuser réception ; rappeler confidentialité et interdiction de représailles.
+- Évaluer si l’ouverture d’une enquête est nécessaire (selon gravité, crédibilité, éléments disponibles).
+
+Étape 2 — Mesures immédiates de protection (sans préjuger du fond)
+- Évaluer le risque (santé/sécurité, climat, risque de répétition).
+- Mesures temporaires proportionnées: séparation organisationnelle, adaptation du planning, encadrement, etc.
+- Éviter la « sanction déguisée » de la victime: privilégier des mesures protectrices non pénalisantes.
+
+Étape 3 — Enquête interne (si décidée)
+- Désigner enquêteur(s) impartial(aux), sans conflit d’intérêts ; option d’externalisation.
+- Définir le périmètre (faits, périodes, équipes, canaux) et une méthode (entretiens, collecte, analyse).
+- Conduire des entretiens: plaignant(e), mis en cause, témoins ; comptes rendus datés ; conservation sécurisée des pièces.
+- Respecter un cadre équitable (dont contradictoire) compatible avec la protection des personnes.
+
+Étape 4 — Conclusions et décisions
+- Conclure (faits établis / non établis / impossibles à trancher) + justifier la décision sur éléments objectifs.
+- Mettre en œuvre des mesures:
+  - correctives (organisation, management, prévention),
+  - disciplinaires (avertissement, mise à pied, licenciement, etc.) si faits établis,
+  - signalement/coopération avec autorités si nécessaire (plainte pénale possible côté victime).
+- Communiquer de façon limitée (besoin d’en connaître), en évitant de divulguer des informations non nécessaires.
+
+Étape 5 — Suivi post-enquête
+- Surveiller absence de représailles ; réévaluer le risque ; accompagner les personnes (médecine du travail, etc.).
+- Capitaliser en prévention (formation, communication, mise à jour des pratiques, organisation).
+
+5.2 Standards de qualité (autorité indépendante)
+- Le Défenseur des droits a publié une décision-cadre (février 2025) donnant des recommandations sur le recueil des signalements
+  et l’enquête interne en cas de discrimination et de harcèlement sexuel (méthode: confidentialité, impartialité, objectivité, rigueur).
+- Ces recommandations constituent une référence institutionnelle utile pour cadrer les bonnes pratiques d’enquête interne.
+
+
+-----------------------------------------------------------
+6) DONNÉES PERSONNELLES & CONFIDENTIALITÉ (RGPD / CNIL — FR)
+-----------------------------------------------------------
+
+Si le traitement du harcèlement s’appuie sur un dispositif de recueil de signalements / alertes:
+- Appliquer les principes RGPD:
+  - minimisation (collecter l’essentiel),
+  - finalité (traiter le signalement, prévenir/faire cesser),
+  - confidentialité (accès restreint, traçabilité des accès),
+  - information et droits des personnes (avec limites nécessaires pour protéger autrui et ne pas compromettre l’instruction).
+- S’aligner sur le « Référentiel - alertes professionnelles » de la CNIL (version mise à jour en 2023),
+  notamment sur les durées de conservation, l’archivage et les mesures de sécurité.
+
+
+---------------------------------------------------------
+7) ARTICULATION AVEC DISPOSITIF « LANCEUR D’ALERTE » (OPTION)
+---------------------------------------------------------
+
+Si certains signalements relèvent du régime « lanceur d’alerte », le décret n°2022-1284 précise des modalités
+de procédure interne (ex: accusé de réception sous 7 jours ouvrés dans certains cas, retour d’information, etc.).
+=> Bon usage RAG: conserver ce module comme « optionnel » (scope conditionnel), car tous les signalements
+harcèlement ne relèvent pas nécessairement de la qualification « lanceur d’alerte ».
+
+
+-----------------------------------------------------------
+8) LISTES PRÊTES À INGÉRER (CHECKLISTS / RÈGLES « IF/THEN »)
+-----------------------------------------------------------
+
+8.1 Checklist “dossier de signalement” (pièces utiles)
+- Récit écrit chronologique: dates/heures/lieux/personnes.
+- Captures d’écran / emails / messages / notes.
+- Liste de témoins (coordonnées pro).
+- Attestations (si disponibles).
+- Éléments RH contextualisants: planning, affectations, évaluations, changements de poste, sanctions antérieures (si pertinent).
+- Éléments santé/sécurité (si concernés): médecine du travail, déclaration accident/incident, etc.
+
+8.2 Checklist “qualité d’enquête”
+- Impartialité (enquêteur sans conflit).
+- Méthode et périmètre écrits.
+- Entretiens structurés et tracés.
+- Conservation sécurisée des pièces.
+- Analyse factuelle + qualification juridique.
+- Contradictoire et protection des personnes.
+- Décision motivée + mesures proportionnées.
+- Suivi post-enquête (anti-représailles).
+
+8.3 Règles opérationnelles (exemples “If/Then”)
+- IF signalement crédible ou risque de répétition immédiate THEN mettre en place des mesures de protection temporaires.
+- IF faits potentiellement constitutifs de harcèlement sexuel ou moral THEN instruire rapidement et documenter les décisions.
+- IF mesures conservatoires nécessaires THEN les rendre proportionnées, temporaires, et non pénalisantes pour la victime.
+- IF absence d’éléments suffisants pour conclure THEN décider des actions de prévention/organisation et programmer un suivi.
+- IF données sensibles (santé, vie sexuelle, etc.) THEN limiter strictement la collecte et l’accès (minimisation + sécurité).
+
+
+-------------------------
+9) EXEMPLES (OPÉRATIONNEL)
+-------------------------
+
+Exemple 1 (sexuel)
+- Messages/propos répétés à connotation sexuelle ou sexiste malgré refus -> signalement -> mesures de protection ->
+  enquête interne -> sanction disciplinaire si faits établis -> suivi anti-représailles.
+
+Exemple 2 (moral)
+- Dénigrement public répété + isolement + surcharge volontaire -> signalement -> analyse RPS + mesures de protection ->
+  enquête interne (si éléments) -> mesures organisationnelles/disciplinaires -> suivi.
+
+
+-------------------------------
+10) RÉFÉRENCES OFFICIELLES (URL)
+-------------------------------
+
+A) Ministère du Travail (travail-emploi.gouv.fr)
+- Harcèlement moral: https://travail-emploi.gouv.fr/le-harcelement-moral
+- Harcèlement sexuel: https://travail-emploi.gouv.fr/le-harcelement-sexuel
+- Guide pratique (PDF) — harcèlement sexuel & agissements sexistes:
+  https://travail-emploi.gouv.fr/sites/travail-emploi/files/2024-02/Guide_contre_harcelement_sexuel.pdf
+- Modèle (Code du travail numérique) — Affichage obligatoire harcèlement sexuel:
+  https://code.travail.gouv.fr/modeles-de-courriers/affichage-obligatoire-relatif-au-harcelement-sexuel
+- Modèle (Code du travail numérique) — Signalement de faits pouvant relever du harcèlement moral ou sexuel:
+  https://code.travail.gouv.fr/modeles-de-courriers/signalement-de-faits-pouvant-relever-du-harcelement-moral-ou-sexuel
+
+B) Service-Public.fr
+- Harcèlement moral: https://www.service-public.gouv.fr/particuliers/vosdroits/F2354
+- Harcèlement sexuel ou sexiste: https://www.service-public.gouv.fr/particuliers/vosdroits/F1043
+- Que faire en cas de harcèlement ?: https://www.service-public.gouv.fr/particuliers/vosdroits/F32247
+
+C) Légifrance (Code du travail)
+- Définition harcèlement moral (L1152-1): https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006900818
+- Protection anti-représailles harcèlement moral (L1152-2): https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045391810
+- Prévention harcèlement moral (L1152-4): https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029144897
+- Sanction disciplinaire auteur (L1152-5): https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006900822
+- Chapitre harcèlement moral (L1152-1 à L1152-6): https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006177845
+
+- Chapitre harcèlement sexuel (L1153-1 à L1153-6): https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006177846
+- Obligations employeur HS (L1153-5): https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037389712
+- Référent entreprise 250+ (L1153-5-1): https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037380160
+- Référent CSE (L2314-1): https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037389707
+- Agissements sexistes (L1142-2-1): https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031072447
+- Obligation de sécurité (L4121-1): https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828
+- Principes généraux de prévention (L4121-2): https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033019913
+- Preuve (L1154-1): https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033019902
+
+D) Légifrance (Code pénal)
+- Harcèlement sexuel (222-33): https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037289662
+- Harcèlement moral (222-33-2): https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029336939
+
+E) Défenseur des droits / DILCRAH (décision-cadre et notice)
+- Publication (Défenseur des droits): https://www.defenseurdesdroits.fr/recueil-et-traitement-des-signalements-de-discrimination-et-de-harcelement-sexuel-dans-lemploi-le
+- Catalogue juridique (notice): https://juridique.defenseurdesdroits.fr/index.php?id=53669&lvl=notice_display
+- Relais DILCRAH: https://www.dilcrah.gouv.fr/ressources/decision-cadre-sur-le-recueil-des-signalements-et-lenquete-interne-en-cas-de-discrimination-et-de-harcelement-sexuel-dans-lemploi-prive-et-public
+
+F) CNIL (RGPD — référentiel)
+- Référentiel « Alertes professionnelles » (PDF): https://www.cnil.fr/sites/cnil/files/2023-07/referentiel_alertes_professionnelles.pdf
+- Note de mise à jour (CNIL): https://www.cnil.fr/fr/la-cnil-met-jour-son-referentiel-alertes-professionnelles
+
+G) INRS (prévention — ressource institutionnelle)
+- Harcèlement sexuel et agissements sexistes au travail: https://www.inrs.fr/actualites/harcelement-sexuel-agissements-sexistes-au-travail.html
+- Harcèlements / violences internes — réglementation: https://www.inrs.fr/risques/harcelements-violences-internes/reglementation.html
+
+H) ANACT (prévention — kit)
+- Kit référent·es CSE / employeur (VSST): https://www.anact.fr/kit-des-referentes-et-referents-cse-et-employeur-prevenir-les-violences-sexistes-et-sexuelles-au
+
+I) Légifrance (option — procédure lanceur d’alerte)
+- Décret n°2022-1284 (JORF): https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000046357368
+- Exemple d’article (accusé de réception sous 7 jours ouvrés selon cas): https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000046357787/2026-02-08
+
+
