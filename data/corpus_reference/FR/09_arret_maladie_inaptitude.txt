@@ -1,0 +1,80 @@
+# Date de préparation: 2026-02-11
+
+Titre: Arrêt maladie & inaptitude (obligations, maintien, contrôle, reclassement)
+Doc_ID: arret_maladie_inaptitude
+Pays: FR
+Source: Service-Public.fr + Ministère du Travail et des Solidarités
+URL: [https://www.service-public.gouv.fr/particuliers/vosdroits/F726](https://www.service-public.gouv.fr/particuliers/vosdroits/F726) ; [https://travail-emploi.gouv.fr/arrets-de-travail-et-contre-visites-patronales-ce-quil-faut-retenir-du-decret-du-5-juillet-2024](https://travail-emploi.gouv.fr/arrets-de-travail-et-contre-visites-patronales-ce-quil-faut-retenir-du-decret-du-5-juillet-2024) ; [https://code.travail.gouv.fr/information/arret-maladie-quelles-sont-les-conditions-du-maintien-de-salaire](https://code.travail.gouv.fr/information/arret-maladie-quelles-sont-les-conditions-du-maintien-de-salaire) ; [https://code.travail.gouv.fr/information/arret-maladie-quelles-sont-les-obligations-du-salarie](https://code.travail.gouv.fr/information/arret-maladie-quelles-sont-les-obligations-du-salarie)
+Date de consultation: 2026-02-11
+Version/Date du texte:
+
+* Inaptitude après arrêt maladie (Service-Public) : vérifié le 23/05/2025 ([Service Public][1])
+* Contre-visites patronales (Ministère du Travail) : décret du 05/07/2024 (article explicatif) ([Ministère du Travail][2])
+* Maintien de salaire / obligations du salarié (Code du travail numérique) : pages d’information en ligne (dates selon page) ([Service Public][3])
+  Périmètre: Salariés du secteur privé (CDI/CDD) — règles générales ; attention aux dispositions conventionnelles plus favorables (maintien de salaire, délais, formalités, etc.). ([Code du travail numérique][4])
+  Mots-clés: arrêt maladie, justificatif, maintien de salaire, contrôle, contre-visite, inaptitude, reclassement, visite médicale
+
+Contexte (optionnel):
+
+* L’arrêt maladie = suspension du contrat (le salarié est absent pour raison médicale).
+* L’inaptitude = décision du médecin du travail (à ne pas confondre avec l’invalidité décidée par la Sécurité sociale). ([Service Public][1])
+
+Définitions (optionnel):
+
+* **Arrêt maladie / arrêt de travail** : période d’interruption de travail prescrite par un professionnel de santé.
+* **Inaptitude** : constat du médecin du travail indiquant que le salarié n’est pas apte à son poste (totalement ou partiellement) ; peut ouvrir une obligation de reclassement. ([Service Public][1])
+* **Contre-visite patronale** : contrôle médical organisé par l’employeur (dans le cadre du maintien de salaire) pour vérifier que l’état du salarié justifie l’arrêt. ([Ministère du Travail][2])
+
+Règles principales (à remplir):
+
+1. **Obligations du salarié pendant l’arrêt maladie (côté employeur)**
+
+   * Informer l’employeur et respecter les formalités prévues (en pratique : transmission de l’arrêt, respect des heures de sorties / obligations associées, règles internes). Le Code du travail numérique rappelle des obligations côté salarié (dont le respect des prescriptions et la communication des informations utiles). ([Service Public][3])
+2. **Maintien de salaire (complément employeur) : conditions et logique**
+
+   * Le maintien de salaire (en complément des IJSS) dépend de conditions légales et surtout peut être amélioré/organisé par la convention collective. Le Code du travail numérique présente les conditions et renvoie aux textes applicables. ([Code du travail numérique][4])
+3. **Inaptitude après arrêt maladie : reclassement puis, si échec, rupture possible**
+
+   * Après déclaration d’inaptitude par le médecin du travail, l’employeur doit en principe rechercher un reclassement adapté (sauf exceptions). Si reclassement impossible (ou refus dans les conditions prévues), un licenciement pour inaptitude peut intervenir selon les règles applicables. ([Service Public][1])
+
+Exceptions / cas particuliers:
+
+* **Conventions collectives** : peuvent prévoir des règles plus favorables (maintien de salaire, délais, pièces à fournir, procédures internes). ([Code du travail numérique][4])
+* **Inaptitude sans reclassement** : certaines situations peuvent dispenser l’employeur de proposer un reclassement (cas prévus par la réglementation et/ou mention/constats du médecin du travail). ([Service Public][1])
+* **Contrôle/contre-visite** : si le salarié refuse un contrôle sans motif légitime ou ne se présente pas à une convocation, cela peut impacter le droit au complément employeur (maintien de salaire). ([Ministère du Travail][2])
+
+Procédure / étapes (si applicable):
+
+* Étape 1: **Réception/gestion de l’arrêt maladie** : enregistrer l’absence, vérifier les pièces, appliquer les règles conventionnelles (maintien, carence, subrogation si prévue, etc.). ([Code du travail numérique][4])
+* Étape 2: **Suivi et contrôle éventuel** : si maintien de salaire => possibilité d’organiser une contre-visite patronale selon le cadre (y compris convocation au cabinet du médecin mandaté, depuis le décret du 05/07/2024). ([Ministère du Travail][2])
+* Étape 3: **Retour / santé au travail** : organiser les démarches de reprise (et, si nécessaire, échanges avec la médecine du travail). En cas d’inaptitude : enclencher la recherche de reclassement, tracer les propositions, puis décider (reclassement / rupture). ([Service Public][1])
+
+Documents / preuves à demander (si applicable):
+
+* Avis d’arrêt de travail / justificatif médical (selon circuit interne). ([Service Public][3])
+* Éléments nécessaires au maintien de salaire (ancienneté, convention collective applicable, éventuelles attestations, etc.). ([Code du travail numérique][4])
+* Pour une contre-visite : éléments pratiques (adresse/lieu de repos si différent, et horaires si “sortie libre”, etc.). ([Ministère du Travail][2])
+* En cas d’inaptitude : avis du médecin du travail + traçabilité de la recherche de reclassement (postes étudiés, échanges, propositions). ([Service Public][1])
+
+Points de vigilance (important en juridique):
+
+* **Ne pas confondre** inaptitude (médecin du travail) et invalidité (Sécurité sociale). ([Service Public][1])
+* **Traçabilité** : conserver la preuve des démarches (convocations, notifications, propositions de reclassement, réponses du salarié). ([Service Public][1])
+* **Contre-visite patronale (décret 05/07/2024)** :
+
+  * la contre-visite peut se faire au domicile **ou sur convocation au cabinet** du médecin mandaté ;
+  * le salarié doit communiquer son lieu de repos s’il diffère du domicile et préciser des horaires si l’arrêt mentionne “sortie libre” ;
+  * le médecin informe l’employeur (justifié / injustifié / impossibilité de contrôle imputable au salarié), et cette information est aussi transmise au salarié. ([Ministère du Travail][2])
+* **Inaptitude** : obligation (en principe) de reclassement avant rupture ; bien vérifier les exceptions et le contenu de l’avis médical. ([Service Public][1])
+
+Exemples (optionnel):
+
+* Exemple 1: Un salarié en arrêt avec mention “sortie libre” : l’employeur organise une contre-visite ; le salarié doit indiquer les plages horaires possibles pour le contrôle. ([Ministère du Travail][2])
+* Exemple 2: Après un arrêt maladie, le médecin du travail déclare le salarié inapte au poste mais apte à un poste aménagé : l’employeur doit rechercher/proposer un reclassement adapté, et documenter ses démarches. ([Service Public][1])
+
+Références:
+
+* Article(s) / section(s):
+
+  * Contre-visite liée au maintien de salaire : article L.1226-1 (référence citée dans le cadre du décret sur la contre-visite) ([Ministère du Travail][2])
+  * Inaptitude / reclassement : se référer aux textes listés sur la fiche Service-Public “Inaptitude au travail… après un arrêt maladie” (rubrique “Textes de loi et références”). ([Service Public][1])

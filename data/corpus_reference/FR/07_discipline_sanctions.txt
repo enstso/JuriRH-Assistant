@@ -1,0 +1,82 @@
+# Date de préparation: 2026-02-11
+
+Titre: Discipline (procédure, sanctions, délais, entretien préalable)
+Doc_ID: discipline_sanctions
+Pays: FR
+Source: Ministère du Travail et des Solidarités / Service-Public.fr / Légifrance
+URL: [https://travail-emploi.gouv.fr/la-sanction-disciplinaire](https://travail-emploi.gouv.fr/la-sanction-disciplinaire) ; [https://www.service-public.gouv.fr/particuliers/vosdroits/F2234](https://www.service-public.gouv.fr/particuliers/vosdroits/F2234) ; [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901450](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901450)
+Date de consultation: 2026-02-11
+Version/Date du texte:
+
+* Travail-emploi.gouv.fr : « La sanction disciplinaire » (mis à jour 03/07/2025) ([Ministère du Travail][1])
+* Service-Public.fr : « Sanctions disciplinaires d’un salarié du secteur privé » (vérifié 07/05/2025) ([Service Public][2])
+* Légifrance : Article L1332-4 (version en vigueur depuis 01/05/2008) ([Légifrance][3])
+  Périmètre: Salariés du secteur privé (CDI, CDD, etc.). Attention aux règles spécifiques prévues par convention collective, statut, règlement intérieur (notamment entreprises ≥ 50 salariés). ([Ministère du Travail][1])
+  Mots-clés: sanction, avertissement, mise à pied, faute simple, faute grave, faute lourde, délai
+
+Contexte (optionnel):
+
+* L’employeur dispose d’un pouvoir disciplinaire, mais doit respecter des règles de fond (sanction justifiée/proportionnée, non-discrimination, etc.) et une procédure (information, entretien selon la sanction, notification, délais). ([Ministère du Travail][1])
+* Une convention collective / un statut peut ajouter des étapes (ex. avis d’un organisme disciplinaire), ce qui peut impacter les délais. ([Ministère du Travail][1])
+
+Définitions (optionnel):
+
+* **Faute (disciplinaire)**: comportement du salarié qui ne respecte pas ses obligations ; il n’existe pas de liste légale exhaustive, l’employeur apprécie, sous contrôle du juge. ([Service Public][2])
+* **Sanction disciplinaire**: mesure (autre que de simples observations verbales) prise par l’employeur après un agissement jugé fautif, pouvant affecter présence/fonction/carrière/rémunération. ([Ministère du Travail][1])
+* **Mise à pied conservatoire**: mesure immédiate quand les faits rendent impossible le maintien, en attendant la sanction définitive (à distinguer d’une mise à pied disciplinaire). ([Ministère du Travail][1])
+
+Règles principales (à remplir):
+
+1. **Principe** : l’employeur peut sanctionner un fait fautif, mais la sanction doit être **proportionnée** et l’employeur ne peut pas sanctionner **deux fois la même faute**. ([Ministère du Travail][1])
+2. **Procédure** : sauf cas particulier, aucune sanction ne peut être prise sans que le salarié soit **informé par écrit des griefs**. Avant une sanction autre qu’un avertissement (sauf si un texte l’impose), il faut en principe un **entretien préalable** (convocation + possibilité d’assistance + explications). La notification doit respecter des délais (au moins 2 jours ouvrables après l’entretien, et au plus 1 mois après la date fixée pour l’entretien, avec aménagements possibles si organisme disciplinaire). ([Ministère du Travail][1])
+3. **Délais de prescription** : l’employeur ne peut engager des poursuites disciplinaires au-delà de **2 mois** à compter du jour où il a eu connaissance des faits (sauf poursuites pénales). Une sanction de plus de **3 ans** ne peut pas être invoquée pour appuyer une nouvelle sanction. ([Légifrance][3])
+
+Exceptions / cas particuliers:
+
+* **Entreprises ≥ 50 salariés** : le règlement intérieur est obligatoire et doit prévoir l’échelle des sanctions. À défaut de règlement intérieur alors qu’il est obligatoire, l’employeur ne peut en principe prononcer **aucune sanction autre que le licenciement** (si justifié). ([Ministère du Travail][1])
+* **Mise à pied disciplinaire**: licite seulement si le règlement intérieur prévoit la sanction et fixe sa **durée maximale**. ([Ministère du Travail][1])
+* **Sanction = licenciement**: appliquer la **procédure de licenciement pour motif personnel** (règles distinctes). ([Ministère du Travail][1])
+* **CDD**: la procédure disciplinaire s’applique aussi en cas de rupture anticipée pour faute grave/lourde, avec précisions sur les formalités (références aux articles L1332-1 à L1332-3). ([Ministère du Travail][1])
+* **Organisme de discipline / garanties statutaires**: le délai d’1 mois après entretien peut être dépassé si avis disciplinaire requis, à condition d’en informer le salarié avant l’expiration, puis un nouveau délai d’1 mois peut courir après avis/renonciation. ([Ministère du Travail][1])
+
+Procédure / étapes (si applicable):
+
+* Étape 1: **Qualifier les faits** (date, circonstances, obligations violées) et vérifier l’absence de double sanction / discrimination / sanction pécuniaire interdite. ([Ministère du Travail][1])
+* Étape 2: Vérifier **prescription 2 mois** (point de départ = connaissance des faits par l’employeur). ([Légifrance][3])
+* Étape 3: Selon la sanction envisagée :
+
+  * **Avertissement** : notification écrite des griefs et de la sanction (la procédure d’entretien n’est pas systématiquement requise, sauf dispositions conventionnelles). ([Ministère du Travail][1])
+  * **Autre sanction** (mise à pied disciplinaire, rétrogradation, mutation disciplinaire, etc.) :
+
+    1. **Convocation** à entretien préalable (objet + date/heure/lieu + mention assistance)
+    2. **Entretien** : exposé des motifs + recueil des explications
+    3. **Notification** écrite (LRAR ou remise contre décharge)
+    4. Respect des délais : **≥ 2 jours ouvrables** et **≤ 1 mois** après la date fixée pour l’entretien (sauf cas particulier organisme disciplinaire). ([Ministère du Travail][1])
+* Étape 4 (si urgence): **Mise à pied conservatoire** possible si maintien impossible, puis enchaîner sans délai anormal la procédure disciplinaire. ([Ministère du Travail][1])
+
+Documents / preuves à demander (si applicable):
+
+* Éléments factuels : témoignages, emails/messages, logs, rapport d’incident, constats, planning, pointages.
+* Référentiels internes : règlement intérieur / notes de service, procédures sécurité/qualité, charte informatique, consignes écrites. ([Ministère du Travail][1])
+* Traçabilité procédure : convocation (preuve de remise), compte-rendu d’entretien, notification (LRAR/contre-décharge), preuve des délais. ([Ministère du Travail][1])
+
+Points de vigilance (important en juridique):
+
+* **Interdictions**: amendes/sanctions pécuniaires ; sanctions discriminatoires ; sanctions liées au droit de grève, droit de retrait (dans certaines conditions), harcèlement (victime/témoin), lanceur d’alerte, etc. ([Ministère du Travail][1])
+* **Règlement intérieur**: vérifier l’effectif (≥ 50) et le contenu (échelle des sanctions, durée maxi mise à pied disciplinaire). ([Ministère du Travail][1])
+* **Délais**: 2 mois (prescription) + séquençage strict convocation/entretien/notification ; bien compter les jours ouvrables. ([Légifrance][3])
+* **Preuve**: en cas de contentieux, c’est le juge (Conseil de prud'hommes) qui apprécie régularité + justification + proportionnalité. Dossier probatoire indispensable. ([Ministère du Travail][1])
+* **Mesure conservatoire** vs **sanction**: ne pas confondre mise à pied conservatoire (attente) et mise à pied disciplinaire (sanction). ([Ministère du Travail][1])
+
+Exemples (optionnel):
+
+* Exemple 1: Un salarié ne respecte pas une consigne interne de discipline (ex. règlement intérieur) : l’employeur peut envisager un avertissement (écrit) ou une sanction plus lourde selon gravité/récidive, en respectant procédure et proportionnalité. ([Ministère du Travail][1])
+* Exemple 2: Faits graves rendant le maintien impossible : mise à pied conservatoire immédiate + lancement de la procédure disciplinaire ; si licenciement envisagé, appliquer la procédure de licenciement. ([Ministère du Travail][1])
+
+Références:
+
+* Article(s) / section(s):
+
+  * Code du travail : L1331-1 à L1334-1 ; R1332-1 à R1332-4 (référencés par la fiche du ministère) ([Ministère du Travail][1])
+  * Code du travail : **L1332-4** (prescription 2 mois) ([Légifrance][3])
+  * Code de procédure civile : articles 641 et 642 (computation des délais) ([Ministère du Travail][1])

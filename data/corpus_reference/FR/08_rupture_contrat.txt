@@ -1,0 +1,86 @@
+# Date de préparation: 2026-02-11
+
+Titre: Rupture du contrat (démission, licenciement, rupture conventionnelle)
+Doc_ID: rupture_contrat
+Pays: FR
+Source: Ministère du Travail et des Solidarités / Service-Public.fr / (optionnel) Fédération Syntec
+URL:
+
+* [https://travail-emploi.gouv.fr/droit-du-travail/rupture-du-contrat-de-travail](https://travail-emploi.gouv.fr/droit-du-travail/rupture-du-contrat-de-travail) ([Ministère du Travail][1])
+* [https://travail-emploi.gouv.fr/la-rupture-conventionnelle-du-contrat-de-travail-duree-indeterminee](https://travail-emploi.gouv.fr/la-rupture-conventionnelle-du-contrat-de-travail-duree-indeterminee) ([Ministère du Travail][2])
+* [https://www.service-public.gouv.fr/particuliers/vosdroits/F10033](https://www.service-public.gouv.fr/particuliers/vosdroits/F10033) ([Service Public][3])
+* (Convention Syntec – si applicable) [https://www.syntec.fr/convention-collective/resiliation-du-contrat-de-travail/](https://www.syntec.fr/convention-collective/resiliation-du-contrat-de-travail/) ([Fédération Syntec][4])
+  Date de consultation: 2026-02-11
+  Version/Date du texte:
+* Travail-Emploi “Rupture du contrat de travail” : mise à jour 16/01/2026 ([Ministère du Travail][1])
+* Travail-Emploi “Rupture conventionnelle du CDI” : mis à jour 10/07/2025 ([Ministère du Travail][2])
+* Service-Public “Rupture du CDI” : (page vérifiée – voir page) ([Service Public][3])
+  Périmètre: Salariés du secteur privé (principalement CDI ; compléments possibles selon convention collective).
+  Mots-clés: démission, préavis, licenciement, motif personnel, économique, rupture conventionnelle, documents fin de contrat
+
+Contexte (optionnel):
+
+* La rupture du contrat peut intervenir notamment par **démission**, **licenciement** (motif personnel ou économique) ou **rupture conventionnelle** (accord commun). La procédure et les droits (préavis, indemnités, chômage) varient selon le mode de rupture. ([Ministère du Travail][1])
+
+Définitions (optionnel):
+
+* **Rupture conventionnelle (CDI)** : rupture d’un commun accord entre employeur et salarié, encadrée par une procédure spécifique (entretiens + homologation/autorisation). ([Ministère du Travail][2])
+* **Documents de fin de contrat** : documents remis au salarié à la fin du contrat (certificat de travail, attestation France Travail, reçu pour solde de tout compte… et, si applicable, état récapitulatif d’épargne salariale). ([Service Public][3])
+
+Règles principales (à remplir):
+
+1. **Plusieurs modes de rupture, procédures différentes**
+
+   * Démission / licenciement / rupture conventionnelle : chaque mode a ses règles (préavis, étapes, indemnités, documents). ([Ministère du Travail][1])
+2. **Rupture conventionnelle (CDI) : procédure + garanties**
+
+   * Se fait dans le cadre des articles L. 1237-11 à L. 1237-16 du Code du travail (référence indiquée sur la page), avec entretien(s) et homologation. ([Ministère du Travail][2])
+   * Indemnité spécifique de rupture conventionnelle **au moins égale** à l’indemnité légale de licenciement. ([Ministère du Travail][2])
+   * Pas de “préavis” au sens strict (le terme est réservé à la démission/licenciement) ; la date de fin est fixée dans la convention, avec une contrainte liée à l’homologation/autorisation. ([Ministère du Travail][2])
+3. **Fin de contrat : remise de documents obligatoires**
+
+   * À la fin du CDI (dont rupture conventionnelle), l’employeur remet notamment : certificat de travail, attestation France Travail, reçu pour solde de tout compte ; et, si épargne salariale, un état récapitulatif. ([Service Public][3])
+
+Exceptions / cas particuliers:
+
+* **Salariés protégés** : pour la rupture conventionnelle, il y a une **autorisation** (inspection du travail) et des précisions spécifiques (notamment impossibilité d’utiliser TéléRC indiquée sur la page). ([Ministère du Travail][2])
+* **Convention collective / règles internes** : une convention collective peut prévoir des règles particulières (préavis, modalités, indemnités, etc.). Exemple : en Syntec, principe de préavis sauf exceptions listées (faute grave/lourde, rupture conventionnelle, etc.). ([Fédération Syntec][4])
+* **Licenciement économique** : procédures variables selon le nombre de salariés concernés et le contexte (rubrique dédiée). ([Ministère du Travail][1])
+
+Procédure / étapes (si applicable):
+
+* **Rupture conventionnelle (CDI)** (vue “process” simple)
+
+  * Étape 1: Organiser un ou plusieurs entretien(s) employeur/salarié. ([Ministère du Travail][2])
+  * Étape 2: Rédiger et signer la convention (un exemplaire remis à chaque partie, sinon risque de nullité indiqué sur la page). ([Ministère du Travail][2])
+  * Étape 3: Demander l’homologation (ou autorisation pour salarié protégé) et fixer la date de fin en respectant la règle “au plus tôt le lendemain” de l’homologation/autorisation. ([Ministère du Travail][2])
+
+Documents / preuves à demander (si applicable):
+
+* **Selon le mode de rupture** (liste pratique côté RH)
+
+  * Écrit(s) de rupture : lettre de démission (si démission), lettre de licenciement (si licenciement), convention de rupture (si rupture conventionnelle). ([Ministère du Travail][2])
+  * Preuves de remise : accusés de réception, remise en main propre contre décharge, etc. (utile en cas de contestation). ([Fédération Syntec][4])
+  * **Fin de contrat** : certificat de travail, attestation France Travail, reçu pour solde de tout compte + état récapitulatif épargne salariale si applicable. ([Service Public][3])
+
+Points de vigilance (important en juridique):
+
+* **Bien qualifier le mode de rupture** : démission ≠ rupture conventionnelle ≠ licenciement (conséquences sur préavis, indemnités, chômage, procédure). ([Ministère du Travail][1])
+* **Rupture conventionnelle : formalisme**
+
+  * Respecter la procédure (entretiens, homologation/autorisation) et la remise d’un exemplaire signé à chaque partie. ([Ministère du Travail][2])
+  * Indemnité : ne jamais descendre sous le plancher (≥ indemnité légale de licenciement). ([Ministère du Travail][2])
+* **Documents de fin de contrat** : remise complète et traçable (c’est souvent le point qui crée des litiges pratiques). ([Service Public][3])
+* **Convention collective** : vérifier systématiquement si elle prévoit des règles plus spécifiques (préavis, formalités, montants) — ex. Syntec. ([Fédération Syntec][4])
+
+Exemples (optionnel):
+
+* Exemple 1: Rupture conventionnelle : employeur et salarié conviennent d’une date de fin **postérieure** à l’homologation ; l’employeur remet ensuite les documents de fin de contrat (certificat de travail, attestation France Travail, solde de tout compte). ([Ministère du Travail][2])
+* Exemple 2: Entreprise sous convention Syntec : principe de préavis en cas de rupture, sauf exceptions (faute grave/lourde, rupture conventionnelle, etc.) — à vérifier selon la situation. ([Fédération Syntec][4])
+
+Références:
+
+* Article(s) / section(s):
+
+  * Code du travail : articles L1231-1 à L1231-7 (référencés sur Service-Public). ([Service Public][3])
+  * Rupture conventionnelle du CDI : articles L. 1237-11 à L. 1237-16 (référencés sur Travail-Emploi). ([Ministère du Travail][2])

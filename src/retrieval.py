@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import json
 from dataclasses import dataclass
+from functools import lru_cache
 from pathlib import Path
 from typing import Any, Dict, List, Tuple
 
@@ -11,6 +12,12 @@ from rank_bm25 import BM25Okapi
 from sentence_transformers import SentenceTransformer
 
 from .utils import normalize_whitespace
+
+
+@lru_cache(maxsize=1)
+def get_embedder(model_name: str) -> SentenceTransformer:
+    """Charge le modèle embeddings une seule fois (cache global)."""
+    return SentenceTransformer(model_name)
 
 
 @dataclass
@@ -27,7 +34,9 @@ class HybridRetriever:
         index_dir = Path(index_dir)
 
         self.faiss_index = faiss.read_index(str(index_dir / "faiss.index"))
-        self.model = SentenceTransformer(emb_model_name)
+
+        # ✅ IMPORTANT: modèle embeddings chargé une seule fois
+        self.model = get_embedder(emb_model_name)
 
         # chunks
         chunks = []
@@ -45,8 +54,16 @@ class HybridRetriever:
                     tokenized.append(json.loads(line))
         self.bm25 = BM25Okapi(tokenized)
 
-    def search(self, query: str, filters: Dict[str, Any] | None, *,
-               top_k_dense: int, top_k_bm25: int, top_k_final: int, alpha: float) -> List[RetrievedChunk]:
+    def search(
+        self,
+        query: str,
+        filters: Dict[str, Any] | None,
+        *,
+        top_k_dense: int,
+        top_k_bm25: int,
+        top_k_final: int,
+        alpha: float,
+    ) -> List[RetrievedChunk]:
         filters = filters or {}
 
         # Pre-filter candidates by metadata (country, etc.)
@@ -107,11 +124,13 @@ class HybridRetriever:
         out: List[RetrievedChunk] = []
         for idx, score in ranked:
             c = self.chunks[idx]
-            out.append(RetrievedChunk(
-                chunk_id=c["chunk_id"],
-                doc_id=c["doc_id"],
-                text=c["text"],
-                metadata=c.get("metadata", {}),
-                score=float(score),
-            ))
+            out.append(
+                RetrievedChunk(
+                    chunk_id=c["chunk_id"],
+                    doc_id=c["doc_id"],
+                    text=c["text"],
+                    metadata=c.get("metadata", {}),
+                    score=float(score),
+                )
+            )
         return out

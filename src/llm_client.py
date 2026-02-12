@@ -72,21 +72,23 @@ class VllmOpenAIClient(BaseLLMClient):
             raise LLMError(f"Réponse vLLM inattendue: {data}") from e
 
 
-def make_llm(cfg: Dict) -> BaseLLMClient:
+def make_llm(cfg: Dict) -> None | OllamaClient | VllmOpenAIClient:
     llm_cfg = cfg.get("llm", {})
     backend = llm_cfg.get("backend", "ollama")
     model = llm_cfg.get("model", "mistral")
+    timeout_s = int(llm_cfg.get("timeout_s", 300))  # ✅ AJOUT
 
     if backend == "ollama":
         return OllamaClient(
             base_url=llm_cfg.get("ollama_base_url", "http://localhost:11434"),
             model=model,
+            timeout_s=timeout_s,  # ✅ AJOUT
         )
     if backend == "vllm_openai":
         return VllmOpenAIClient(
             base_url=llm_cfg["base_url"],
             model=model,
             api_key=llm_cfg.get("api_key", ""),
+            timeout_s=timeout_s,  # ✅ AJOUT
         )
 
-    raise ValueError(f"Backend LLM inconnu: {backend}")

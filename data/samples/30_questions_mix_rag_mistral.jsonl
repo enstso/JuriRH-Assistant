@@ -1,0 +1,30 @@
+{"id":"Q001","question":"Combien de jours de congés payés un salarié acquiert-il par mois travaillé en France ?","filters":{"country":"FR"},"should_refuse":false,"tags":["conges","FR"]}
+{"id":"Q002","question":"Les congés payés se comptent-ils en jours ouvrables ou ouvrés ?","filters":{"country":"FR"},"should_refuse":false,"tags":["conges","FR"]}
+{"id":"Q003","question":"Peut-on imposer des dates de congés payés au salarié et avec quel délai de prévenance ?","filters":{"country":"FR"},"should_refuse":false,"tags":["conges","FR"]}
+{"id":"Q004","question":"Un salarié peut-il reporter ses congés payés non pris d’une année sur l’autre ?","filters":{"country":"FR"},"should_refuse":false,"tags":["conges","FR"]}
+{"id":"Q005","question":"Comment calcule-t-on l’indemnité de congés payés (règle du dixième vs maintien de salaire) ?","filters":{"country":"FR"},"should_refuse":false,"tags":["conges","FR"]}
+{"id":"Q006","question":"Que se passe-t-il si un jour férié tombe pendant les congés payés ?","filters":{"country":"FR"},"should_refuse":false,"tags":["conges","FR"]}
+{"id":"Q007","question":"Peut-on fractionner les congés payés ? Quelles règles pour le congé principal ?","filters":{"country":"FR"},"should_refuse":false,"tags":["conges","FR"]}
+{"id":"Q008","question":"Un salarié en arrêt maladie continue-t-il d’acquérir des congés payés ?","filters":{"country":"FR"},"should_refuse":false,"tags":["conges","FR"]}
+{"id":"Q009","question":"Quelles sont les règles pour les congés sans solde ?","filters":{"country":"FR"},"should_refuse":false,"tags":["conges","FR"]}
+{"id":"Q010","question":"Comment gérer les congés payés à la fin d’un CDD (indemnité compensatrice) ?","filters":{"country":"FR"},"should_refuse":false,"tags":["conges","FR"]}
+{"id":"Q011","question":"Quelle est la durée légale du travail en France (hebdomadaire) ?","filters":{"country":"FR"},"should_refuse":false,"tags":["temps_travail","FR"]}
+{"id":"Q012","question":"Qu’est-ce qu’une heure supplémentaire et à partir de quand est-elle due ?","filters":{"country":"FR"},"should_refuse":false,"tags":["temps_travail","FR"]}
+{"id":"Q013","question":"Quels sont les taux de majoration des heures supplémentaires (25%/50%) et dans quels cas ?","filters":{"country":"FR"},"should_refuse":false,"tags":["temps_travail","FR"]}
+{"id":"Q014","question":"Comment fonctionne le repos compensateur pour les heures supplémentaires ?","filters":{"country":"FR"},"should_refuse":false,"tags":["temps_travail","FR"]}
+{"id":"Q015","question":"Quelle est la durée maximale quotidienne de travail autorisée ?","filters":{"country":"FR"},"should_refuse":false,"tags":["temps_travail","FR"]}
+{"id":"Q016","question":"Quelle est la durée maximale hebdomadaire (absolue et moyenne) ?","filters":{"country":"FR"},"should_refuse":false,"tags":["temps_travail","FR"]}
+{"id":"Q017","question":"Quelles règles pour la pause obligatoire dans la journée de travail ?","filters":{"country":"FR"},"should_refuse":false,"tags":["temps_travail","FR"]}
+{"id":"Q018","question":"Quelle est la durée minimale de repos quotidien entre deux journées de travail ?","filters":{"country":"FR"},"should_refuse":false,"tags":["temps_travail","FR"]}
+{"id":"Q019","question":"Quelles règles pour le travail de nuit (définition, contreparties) ?","filters":{"country":"FR"},"should_refuse":false,"tags":["temps_travail","FR"]}
+{"id":"Q020","question":"Comment fonctionne le forfait jours (conditions, suivi, repos) ?","filters":{"country":"FR"},"should_refuse":false,"tags":["temps_travail","FR"]}
+{"id":"Q021","question":"Le télétravail est-il un droit ? Dans quels cas l’employeur peut-il refuser ?","filters":{"country":"FR"},"should_refuse":false,"tags":["teletravail","FR"]}
+{"id":"Q022","question":"Faut-il un avenant au contrat pour mettre en place le télétravail ?","filters":{"country":"FR"},"should_refuse":false,"tags":["teletravail","FR"]}
+{"id":"Q023","question":"Qui prend en charge les frais liés au télétravail (matériel, internet) ?","filters":{"country":"FR"},"should_refuse":false,"tags":["teletravail","FR"]}
+{"id":"Q024","question":"Quelles obligations de l’employeur en santé-sécurité pour un télétravailleur ?","filters":{"country":"FR"},"should_refuse":false,"tags":["teletravail","FR"]}
+{"id":"Q025","question":"Comment traiter les accidents du travail en télétravail ?","filters":{"country":"FR"},"should_refuse":false,"tags":["teletravail","FR"]}
+{"id":"Q026","question":"Quelle est la différence entre CDI et CDD ?","filters":{"country":"FR"},"should_refuse":false,"tags":["contrat","FR"]}
+{"id":"Q027","question":"Quels sont les cas autorisés de recours au CDD ?","filters":{"country":"FR"},"should_refuse":false,"tags":["contrat","FR"]}
+{"id":"Q028","question":"Quelle est la durée maximale d’un CDD et les règles de renouvellement ?","filters":{"country":"FR"},"should_refuse":false,"tags":["contrat","FR"]}
+{"id":"Q029","question":"Qu’est-ce que la période d’essai et quelles sont les durées usuelles (ouvrier, employé, cadre) ?","filters":{"country":"FR"},"should_refuse":false,"tags":["contrat","FR"]}
+{"id":"Q030","question":"Peut-on renouveler une période d’essai et à quelles conditions ?","filters":{"country":"FR"},"should_refuse":false,"tags":["contrat","FR"]}

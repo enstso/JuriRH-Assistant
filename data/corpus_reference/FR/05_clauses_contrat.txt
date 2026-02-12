@@ -1,0 +1,146 @@
+# Date de préparation: 2026-02-11
+
+**Titre:** Clauses contractuelles (mobilité, non-concurrence, confidentialité)
+**Doc_ID:** clauses_contrat
+**Pays:** FR
+
+**Source:**
+
+* Service Public (fiches “Non-concurrence” + “Clause de mobilité”) ([Service Public][1])
+* Code du travail numérique (conditions + application non-concurrence) ([Code du travail numérique][2])
+* CCI Paris Ile-de-France (synthèse mobilité / non-concurrence / confidentialité) ([CCI Paris Île-de-France][3])
+* Welcome to France (rappels sur clause de mobilité et non-concurrence) ([Welcome to France][4])
+* Légifrance (jurisprudence mobilité : atteinte vie perso/familiale = justification + proportionnalité) ([Légifrance][5])
+
+**URL:**
+
+* [https://www.service-public.gouv.fr/particuliers/vosdroits/F1910](https://www.service-public.gouv.fr/particuliers/vosdroits/F1910) ([Service Public][1])
+* [https://www.service-public.gouv.fr/particuliers/vosdroits/F31576](https://www.service-public.gouv.fr/particuliers/vosdroits/F31576) ([Service Public][6])
+* [https://code.travail.gouv.fr/contribution/quelles-sont-les-conditions-de-la-clause-de-non-concurrence](https://code.travail.gouv.fr/contribution/quelles-sont-les-conditions-de-la-clause-de-non-concurrence) ([Code du travail numérique][7])
+* [https://code.travail.gouv.fr/contribution/1351-quelles-sont-les-conditions-de-la-clause-de-non-concurrence](https://code.travail.gouv.fr/contribution/1351-quelles-sont-les-conditions-de-la-clause-de-non-concurrence) ([Code du travail numérique][2])
+* [https://www.entreprises.cci-paris-idf.fr/fiches-pratiques/les-clauses-sensibles-du-contrat-de-travail-non-concurrence-mobilite-et](https://www.entreprises.cci-paris-idf.fr/fiches-pratiques/les-clauses-sensibles-du-contrat-de-travail-non-concurrence-mobilite-et) ([CCI Paris Île-de-France][3])
+* [https://www.welcometofrance.com/fiche/clauses-du-contrat](https://www.welcometofrance.com/fiche/clauses-du-contrat) ([Welcome to France][4])
+* [https://www.legifrance.gouv.fr/juri/id/JURITEXT000041745287/](https://www.legifrance.gouv.fr/juri/id/JURITEXT000041745287/) ([Légifrance][5])
+
+**Date de consultation:** 2026-02-11
+**Version/Date du texte:**
+
+* Service-Public “Non-concurrence” : vérifié le 27/10/2023 ([Service Public][1])
+* Service-Public “Clause de mobilité” : (page Service-Public, consulter la page pour la date affichée) ([Service Public][6])
+* Code du travail numérique : mise à jour 05/03/2024 (ex. contribution IDCC 1351) ([Code du travail numérique][2])
+* CCI Paris IDF : mise à jour 17/07/2025 ([CCI Paris Île-de-France][3])
+* Welcome to France : mise à jour 27/08/2024 ([Welcome to France][4])
+
+**Périmètre:** Salariés du secteur privé (CDI/CDD). Certaines modalités/durées peuvent être précisées par convention collective et/ou accord d’entreprise (notamment pour la non-concurrence). ([Code du travail numérique][2])
+
+**Mots-clés:** clause de mobilité, non-concurrence, contrepartie financière, confidentialité, validité, proportionnalité
+
+---
+
+## Contexte (optionnel)
+
+* Ces clauses sont utilisées pour protéger les intérêts de l’entreprise, mais elles doivent être **justifiées**, **claires** et **proportionnées** pour être opposables au salarié (attention aux contentieux sur atteinte à la vie personnelle/familiale et sur la liberté de travailler). ([Légifrance][5])
+
+---
+
+## Définitions (optionnel)
+
+* **Clause de non-concurrence** : limite la liberté du salarié d’exercer une activité concurrente après la rupture du contrat. ([Service Public][1])
+* **Clause de mobilité** : prévoit que le salarié accepte à l’avance un changement de lieu de travail dans une zone définie. ([Service Public][6])
+* **Clause de confidentialité** : impose au salarié de ne pas divulguer certaines informations sensibles/stratégiques (pendant le contrat et, si prévu/justifié, parfois après). ([CCI Paris Île-de-France][3])
+
+---
+
+## Règles principales (à remplir)
+
+### 1) Clause de non-concurrence : conditions de validité (cumulatives)
+
+* **Écrite** (contrat de travail ou convention collective). ([Code du travail numérique][2])
+* **Intérêts légitimes** de l’entreprise (justification liée au poste : accès clientèle, infos sensibles, etc.). ([Code du travail numérique][2])
+* **Limitée dans le temps** et **dans l’espace** (durée + zone géographique non excessives). ([Code du travail numérique][2])
+* **Activité visée** : doit cibler une activité/fonctions déterminées (pas “toute activité”). ([Code du travail numérique][2])
+* **Contrepartie financière** obligatoire, non dérisoire (sinon risque de nullité). ([Code du travail numérique][2])
+
+### 2) Clause de non-concurrence : application, renonciation, sanctions
+
+* **Point de départ** : à la fin effective du contrat (fin préavis) ou au départ si dispense de préavis. ([Code du travail numérique][2])
+* **Contrepartie due** dès que la clause s’applique, quel que soit le mode de rupture (selon les sources ministérielles/CTN). ([Code du travail numérique][2])
+* **Renonciation** : possible si prévu au contrat (ou accord salarié si rien n’est prévu) ; renonciation claire, notifiée (le CTN mentionne LRAR). ([Code du travail numérique][2])
+* **Non-respect par le salarié** : arrêt possible du paiement + dommages-intérêts possibles. ([Code du travail numérique][2])
+* **Non-respect par l’employeur** (non-paiement) : le salarié peut être libéré de l’obligation + dommages-intérêts possibles ; indemnité due pour la période déjà respectée. ([Code du travail numérique][2])
+
+### 3) Clause de mobilité : validité et mise en œuvre
+
+* Le Code du travail ne fixe pas un régime détaillé ; la **jurisprudence** encadre fortement. Service-Public indique que la clause doit notamment être appréciée au regard des principes dégagés par la jurisprudence. ([Service Public][6])
+* Bonnes pratiques/conditions clés (issues des sources fournies) :
+
+  * clause **prévue par écrit** (contrat ou convention collective) et acceptée ; ([Service Public][6])
+  * **zone géographique définie** de façon suffisamment précise ; ([Welcome to France][4])
+  * mise en œuvre **dans l’intérêt de l’entreprise**, de **bonne foi**, avec un **délai de prévenance raisonnable** ; ([CCI Paris Île-de-France][3])
+  * si la mutation porte atteinte à la vie personnelle et familiale, l’atteinte doit être **justifiée par la tâche** et **proportionnée**. ([Légifrance][5])
+
+---
+
+## Exceptions / cas particuliers
+
+* **Non-concurrence** : des conventions collectives peuvent prévoir des modalités spécifiques (durée, renonciation, montant/forme de la contrepartie), à vérifier au cas par cas. ([Code du travail numérique][2])
+* **Mobilité** : même en présence d’une clause, une mise en œuvre “brutale” ou disproportionnée (vie perso/familiale) peut être contestée ; la décision citée sur Légifrance rappelle l’exigence justification/proportionnalité en cas d’atteinte. ([Légifrance][5])
+* **Confidentialité** : peut s’étendre après rupture si c’est nécessaire/justifié et stipulé ; contrairement à la non-concurrence, elle n’implique pas automatiquement une contrepartie financière selon les synthèses pratiques. ([CCI Paris Île-de-France][3])
+
+---
+
+## Procédure / étapes (si applicable)
+
+* **Étape 1 : Identifier le besoin et la clause adaptée**
+
+  * Non-concurrence (après rupture) / Mobilité (lieu d’exécution) / Confidentialité (protection d’infos). ([Service Public][1])
+
+* **Étape 2 : Rédaction**
+
+  * Non-concurrence : écrire la clause + activité visée + durée + zone + contrepartie et modalités de versement + éventuelle renonciation. ([Code du travail numérique][2])
+  * Mobilité : définir la zone géographique et les conditions de mise en œuvre (prévenance, organisation). ([Service Public][6])
+  * Confidentialité : lister clairement les informations concernées, la durée (pendant/après), et les règles de diffusion/stockage. ([CCI Paris Île-de-France][3])
+
+* **Étape 3 : Mise en œuvre**
+
+  * Non-concurrence : notifier la renonciation si applicable ; sinon verser la contrepartie dès l’application ; documenter la date de fin de contrat (préavis/dispense). ([Code du travail numérique][2])
+  * Mobilité : informer le salarié avec un délai raisonnable ; vérifier l’impact vie perso/familiale et la proportionnalité. ([Légifrance][5])
+  * Confidentialité : rappeler/mettre à jour les règles internes (accès, mots de passe, restitution matériel, sortie des accès). (Bonnes pratiques cohérentes avec l’objectif de confidentialité). ([CCI Paris Île-de-France][3])
+
+---
+
+## Documents / preuves à demander (si applicable)
+
+* Contrat de travail / avenant signé + convention collective applicable (clauses éventuelles). ([Code du travail numérique][2])
+* Non-concurrence : preuve de notification de renonciation (si levée) + justificatifs de paiement de la contrepartie (bulletin, virement). ([Code du travail numérique][2])
+* Mobilité : clause écrite + preuve du délai de prévenance (mail LRAR etc.) + éléments justifiant le besoin entreprise. ([Service Public][6])
+* Confidentialité : clause + liste/annexe des informations sensibles + politique interne (SSI/RGPD) + check-list de sortie (restitution matériel / désactivation accès). ([CCI Paris Île-de-France][3])
+
+---
+
+## Points de vigilance (important en juridique)
+
+* **Proportionnalité** :
+
+  * non-concurrence = ne pas empêcher de retrouver un emploi (durée/zone/activité doivent rester raisonnables + indemnisation réelle). ([Code du travail numérique][2])
+  * mobilité = attention à l’atteinte à la vie personnelle et familiale : doit être justifiée et proportionnée. ([Légifrance][5])
+* **Rédaction imprécise = risque** : zone géographique trop large/floue, activité interdite trop générale, contrepartie dérisoire, modalités de renonciation ambiguës. ([Code du travail numérique][2])
+* **Confidentialité** : bien définir “ce qui est confidentiel” (sinon clause difficile à appliquer) et distinguer de la non-concurrence (pas la même logique, pas la même contrepartie). ([CCI Paris Île-de-France][3])
+
+---
+
+## Exemples
+
+* **Exemple 1 (non-concurrence valide)** : “Pendant 12 mois après départ, interdiction d’exercer des fonctions de commercial B2B sur [zone précise], contrepartie mensuelle de X% du salaire, possibilité de renonciation par l’employeur selon procédure écrite prévue.” (Critères : écrit + intérêt légitime + durée/zone/activité + contrepartie). ([Code du travail numérique][2])
+* **Exemple 2 (mobilité contestable)** : activation d’une mobilité entraînant une atteinte importante à la vie familiale sans justification opérationnelle solide / sans proportionnalité → risque de contestation (principe rappelé dans la décision Légifrance citée). ([Légifrance][5])
+
+---
+
+## Références
+
+* **Article(s) / section(s):**
+
+  * Non-concurrence : pas d’article “unique” dans le Code du travail (règles issues surtout de la jurisprudence ; critères rappelés par Service-Public / Code du travail numérique). ([Service Public][1])
+  * Mobilité : encadrement jurisprudentiel (ex. exigence justification/proportionnalité en cas d’atteinte vie personnelle/familiale). ([Légifrance][5])
+
+

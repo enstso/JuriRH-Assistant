@@ -1,0 +1,146 @@
+# Date de préparation: 2026-02-11
+
+**Titre:** Rémunération & paie (SMIC, bulletin, retenues, primes, frais)
+**Doc_ID:** remuneration_paie
+**Pays:** FR
+
+**Source:**
+
+* Ministère du Travail et des Solidarités (rubrique “Rémunération” + fiche SMIC + frais transport) ([Ministère du Travail][1])
+* Service-Public.fr (salaire/primes/avantages + fiche de paie + paiement du salaire) ([Service Public][2])
+* Légifrance (articles Code du travail : bulletin de paie, retenues) ([Légifrance][3])
+* Urssaf + BOSS (frais professionnels / règles paie côté cotisations) ([urssaf.fr][4])
+
+**URL:**
+
+* [https://travail-emploi.gouv.fr/droit-du-travail/remuneration](https://travail-emploi.gouv.fr/droit-du-travail/remuneration) ([Ministère du Travail][1])
+* [https://travail-emploi.gouv.fr/le-smic-salaire-minimum-de-croissance](https://travail-emploi.gouv.fr/le-smic-salaire-minimum-de-croissance) ([Ministère du Travail][5])
+* [https://travail-emploi.gouv.fr/la-prise-en-charge-des-frais-de-transport-par-lemployeur](https://travail-emploi.gouv.fr/la-prise-en-charge-des-frais-de-transport-par-lemployeur) ([Ministère du Travail][6])
+* [https://www.service-public.gouv.fr/particuliers/vosdroits/F2301](https://www.service-public.gouv.fr/particuliers/vosdroits/F2301) ([Service Public][2])
+* [https://www.service-public.gouv.fr/particuliers/vosdroits/F559](https://www.service-public.gouv.fr/particuliers/vosdroits/F559) ([Service Public][7])
+* [https://www.service-public.gouv.fr/particuliers/vosdroits/F2308](https://www.service-public.gouv.fr/particuliers/vosdroits/F2308) ([Service Public][8])
+* [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041757540](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041757540) (R3243-1) ([Légifrance][3])
+* [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902873](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902873) (L3251-1) ([Légifrance][9])
+* [https://www.urssaf.fr/accueil/employeur/beneficier-exonerations/frais-professionnels.html](https://www.urssaf.fr/accueil/employeur/beneficier-exonerations/frais-professionnels.html) ([urssaf.fr][4])
+* [https://boss.gouv.fr/accueil/autres-elements-de-remuneration/frais-professionnels.html](https://boss.gouv.fr/accueil/autres-elements-de-remuneration/frais-professionnels.html) ([BOSS][10])
+
+**Date de consultation:** 2026-02-11
+
+**Version/Date du texte:**
+
+* Rubrique “Rémunération” (travail-emploi.gouv.fr) : maj 2025–2026 selon sous-fiches (ex. frais transport 13/01/2026, SMIC 24/12/2025). ([Ministère du Travail][1])
+* “Salaire, primes et avantages” : vérifié le 01/01/2026. ([Service Public][2])
+* “Fiche de paie” : vérifié le 01/01/2026. ([Service Public][7])
+* SMIC : montants applicables au 01/01/2026. ([Ministère du Travail][5])
+
+**Périmètre:** Salariés du secteur privé (CDI/CDD/intérim), sauf mention contraire. Précisions possibles via convention collective / accord d’entreprise (primes, certaines modalités). ([Service Public][2])
+
+**Mots-clés:** SMIC, bulletin de paie, retenue, prime, frais professionnels, avantages en nature, erreur de paie
+
+---
+
+## Contexte (optionnel)
+
+* Le salaire est la contrepartie du travail et comprend : salaire de base, avantages en nature, primes, majorations légales ou conventionnelles. ([Ministère du Travail][1])
+* La paie implique : fixation du salaire (bornes légales/conventionnelles), remise d’un bulletin, règles de retenues, remboursement de certains frais, traitement des erreurs (trop-perçu). ([Service Public][7])
+
+---
+
+## Définitions (optionnel)
+
+* **SMIC** : salaire minimum légal (horaire et mensuel) servant de plancher (sauf cas particuliers). ([Ministère du Travail][5])
+* **Avantage en nature** : bien/service fourni par l’employeur en plus du salaire (ex. logement, véhicule), valorisé en paie. ([Service Public][2])
+* **Frais professionnels** : dépenses engagées par le salarié pour les besoins de son activité (remboursement possible au réel ou au forfait selon cadres URSSAF/BOSS). ([urssaf.fr][4])
+
+---
+
+## Règles principales (à remplir)
+
+### 1) SMIC et fixation du salaire
+
+* Le salaire est négocié librement, **mais** ne peut pas être inférieur :
+
+  * au **SMIC** ;
+  * et, en pratique, aux **minima conventionnels** applicables (si convention collective). ([Service Public][2])
+* **Montants SMIC** (au 1er janvier 2026) : **12,02 € brut/heure** et **1 823,03 € brut/mois** (base 35h). ([Ministère du Travail][5])
+* Principe “**à travail égal, salaire égal**” (égalité de rémunération femmes/hommes notamment). ([Service Public][2])
+
+### 2) Bulletin de paie : remise obligatoire + mentions
+
+* L’employeur doit remettre un **bulletin de paie** au salarié. ([Service Public][7])
+* La **dématérialisation** est le principe (papier possible si le salarié refuse l’électronique). ([Service Public][7])
+* Les mentions obligatoires sont encadrées par le Code du travail (ex. base L.3243-2) et le détail par voie réglementaire (ex. **R.3243-1**). ([Légifrance][3])
+* Conservation : Service-Public indique une conservation du double par l’employeur pendant **5 ans**. ([Service Public][7])
+
+### 3) Retenues sur salaire, trop-perçu, et remboursement de frais
+
+* **Retenues/compensation interdites** dans certains cas : l’employeur ne peut pas opérer une retenue pour compenser des sommes dues par le salarié pour “fournitures diverses” (L.3251-1). ([Légifrance][9])
+* **Erreur de paie / trop-perçu** :
+
+  * Le remboursement peut être organisé à l’amiable, ou récupéré dans les limites applicables (ex. saisie sur rémunération), ou via action en justice. ([Service Public][8])
+  * Service-Public indique un **délai de 3 ans** à partir du jour où l’employeur s’aperçoit de l’erreur pour entamer les démarches. ([Service Public][8])
+  * Le bulletin doit mentionner le montant et la nature de la retenue. ([Service Public][8])
+* **Frais professionnels** : remboursement possible :
+
+  * au **réel** (dépenses justifiées) ou
+  * au **forfait** (dans les cadres URSSAF/BOSS). ([urssaf.fr][4])
+* **Frais de transport domicile–travail (abonnements)** : obligation de prise en charge d’une partie des titres d’abonnement (article L.3261-2 cité par le Ministère du Travail). ([Ministère du Travail][6])
+
+---
+
+## Exceptions / cas particuliers
+
+* **Primes** : selon leur nature, elles peuvent être dues (contrat, usage, accord collectif) ou facultatives ; vérifier la source de l’engagement (contrat / accord / note). ([Service Public][2])
+* **Frais** : certains régimes (forfait) exigent le respect de plafonds/conditions d’exonération (URSSAF/BOSS) ; à distinguer du remboursement “au réel” sur justificatifs. ([urssaf.fr][4])
+* **Transport** : règles spécifiques selon le type de transport (abonnements) et dispositifs d’exonération pouvant évoluer (actualités/positions BOSS). ([Ministère du Travail][6])
+
+---
+
+## Procédure / étapes (si applicable)
+
+* **Étape 1 : Sécuriser la base de rémunération**
+
+  * vérifier SMIC en vigueur + minima conventionnels + classification. ([Ministère du Travail][5])
+* **Étape 2 : Produire la paie**
+
+  * établir le bulletin avec toutes mentions obligatoires (R.3243-1) ; décider du mode (électronique par défaut, droit de refus). ([Service Public][7])
+* **Étape 3 : Gérer événements et corrections**
+
+  * notes de frais (réel/forfait) ; transport (prise en charge abonnement) ; en cas d’erreur, organiser récupération (amiable / retenues dans cadre autorisé / action). ([urssaf.fr][4])
+
+---
+
+## Documents / preuves à demander (si applicable)
+
+* Contrat de travail + convention collective applicable (classification/minima, primes). ([Ministère du Travail][1])
+* Bulletins de paie (et, côté employeur, preuve de mise à disposition si dématérialisé). ([Service Public][7])
+* Justificatifs de frais (tickets/factures) si remboursement au réel + politique notes de frais si existante. ([urssaf.fr][4])
+* Abonnements transport (titre nominatif / justificatifs) pour la prise en charge. ([Ministère du Travail][6])
+* En cas de correction/trop-perçu : écrit d’accord amiable (échéancier) + lignes de retenue clairement identifiées sur bulletin. ([Service Public][8])
+
+---
+
+## Points de vigilance (important en juridique)
+
+* **Toujours vérifier** : SMIC en vigueur + minima conventionnels (sinon risque de rappel de salaire). ([Ministère du Travail][5])
+* **Bulletin de paie** : mentions strictement encadrées (risques URSSAF / prud’hommes / sanctions si manquements). ([Légifrance][3])
+* **Retenues** : éviter les compensations/“déductions” non prévues (L.3251-1) ; privilégier un accord écrit en cas de récupération de trop-perçu. ([Légifrance][9])
+* **Frais pro** : bien distinguer “frais” vs “avantages en nature” (traitement social/fiscal différent) et documenter la méthode (réel/forfait). ([urssaf.fr][4])
+
+---
+
+## Exemples (optionnel)
+
+* **Exemple 1 (SMIC)** : un salarié à temps plein (35h) ne peut pas être payé en dessous de **1 823,03 € brut mensuels** (au 01/01/2026). ([Ministère du Travail][5])
+* **Exemple 2 (trop-perçu)** : un trop-perçu détecté peut être récupéré via accord amiable (échéancier) ou retenues dans le cadre autorisé ; l’employeur dispose d’un délai indiqué par Service-Public pour engager les démarches. ([Service Public][8])
+
+---
+
+## Références
+
+* **Article(s) / section(s):**
+
+  * Bulletin de paie : **L.3243-2** (cadre) ; **R.3243-1** (mentions). ([Légifrance][11])
+  * Retenues : **L.3251-1** (retenue/compensation interdite pour fournitures diverses). ([Légifrance][9])
+  * Transport : **L.3261-2** (prise en charge abonnements) mentionné sur la fiche du Ministère. ([Ministère du Travail][6])
+

@@ -1,0 +1,130 @@
+**Date de préparation : 2026-02-11**
+
+**Titre :** Congés payés (acquisition, décompte, indemnités)
+**Doc_ID :** conges_payes
+**Pays :** FR
+**Source :** Ministère du Travail et des Solidarités – Travail-emploi.gouv.fr ([Ministère du Travail][1])
+**URL :** [https://travail-emploi.gouv.fr/les-conges-payes](https://travail-emploi.gouv.fr/les-conges-payes) ([Ministère du Travail][1])
+**Date de consultation :** 2026-02-11
+**Version/Date du texte :** Publié le 18/09/2015 – Mis à jour le 17/09/2025 ([Ministère du Travail][1])
+**Périmètre :** Salariés du secteur privé (CDI, CDD, temps plein/temps partiel), sauf régimes spécifiques (ex. caisses de congés payés : BTP, intermittents…) et catégories particulières (assistants maternels, particulier employeur, etc.). ([Ministère du Travail][1])
+**Mots-clés :** congés, acquisition, décompte, indemnité, fractionnement, jours fériés, CDD
+
+---
+
+## Contexte (optionnel)
+
+* Droit **d’ordre public** : tout salarié a droit chaque année à des congés payés, financés par l’employeur. ([Ministère du Travail][1])
+* Les règles peuvent être **précisées/aménagées** par accord d’entreprise/établissement ou accord de branche (ex. période de prise, ordre des départs, fractionnement, report…), dans le cadre fixé par le Code du travail. ([Ministère du Travail][1])
+
+---
+
+## Définitions (optionnel)
+
+* **Jour ouvrable** : tous les jours de la semaine **sauf** le repos hebdomadaire (dimanche en principe) et les jours fériés légalement reconnus **habituellement non travaillés** dans l’entreprise. ([Ministère du Travail][1])
+* **Période de référence (acquisition)** : période utilisée pour calculer les droits acquis ; par défaut **du 1er juin au 31 mai**, sauf accord (et exceptions type caisses : ex. BTP au 1er avril). ([Ministère du Travail][1])
+* **Indemnité de congés payés** : rémunération versée pendant le congé (à ne pas confondre avec l’indemnité compensatrice en fin de contrat). ([Ministère du Travail][1])
+
+---
+
+## Règles principales (à remplir)
+
+1. **Acquisition des congés (règle générale)**
+
+   * Chaque mois de travail effectif (ou périodes assimilées) ouvre droit à **2,5 jours ouvrables** de congés payés, dans la limite de **30 jours ouvrables (5 semaines)** par année complète. ([Ministère du Travail][1])
+
+2. **Décompte / arrondis / jours ouvrables**
+
+   * Le décompte se fait en **jours ouvrables** (sauf système plus favorable).
+   * Si le nombre de jours acquis n’est pas entier, il est **arrondi au supérieur** (ex. 26,5 → 27). ([Ministère du Travail][1])
+
+3. **Prise des congés : période, ordre, fractionnement (principes)**
+
+   * Les congés sont pris dans une période comprenant **au moins du 1er mai au 31 octobre**. ([Ministère du Travail][1])
+   * L’employeur fixe la période de prise et l’ordre des départs via accord (ou à défaut, décision après avis CSE si applicable) et informe les salariés (délais ci-dessous). ([Ministère du Travail][1])
+   * Le congé principal pris en une seule fois ne peut pas dépasser **24 jours ouvrables** (la 5e semaine se prend à part), sauf dérogations (contraintes géographiques, situations familiales spécifiques…). ([Ministère du Travail][1])
+
+---
+
+## Exceptions / cas particuliers
+
+* **Arrêt maladie / accident non professionnels (depuis la loi du 22 avril 2024)** : acquisition de **2 jours ouvrables par mois** pendant la suspension du contrat pour maladie/accident non professionnel, dans la limite de **24 jours ouvrables** par période de référence. ([Ministère du Travail][1])
+* **AT/MP (accident du travail / maladie professionnelle)** : les périodes sont assimilées à du travail effectif ; l’ancienne limite d’acquisition au-delà d’un an a été abrogée (selon la fiche). ([Ministère du Travail][1])
+* **Maladie pendant les congés** : si le salarié est en arrêt maladie **notifié** à l’employeur pendant ses congés, les jours de congés coïncidant avec l’arrêt doivent être **reportés** (référence : Cass. soc., 10/09/2025, n° 23-22.732). ([Ministère du Travail][1])
+* **Report pour impossibilité de prendre les congés (maladie/accident)** : période de report de **15 mois** (minimum légal), avec obligations d’information employeur déclenchant le point de départ du report. ([Ministère du Travail][1])
+* **Rupture du contrat (CDI/CDD/intérim)** : versement d’une **indemnité compensatrice** de congés payés (y compris faute lourde, selon la fiche). ([Ministère du Travail][1])
+* **Congés supplémentaires** :
+
+  * Jeunes <21 ans (au 30 avril de l’année précédente) : possibilité d’aller jusqu’à 30 jours ouvrables sur demande, non indemnisés pour la partie non acquise.
+  * Enfants à charge : 2 jours/enfant (règles et plafonds selon âge).
+  * Étudiant salarié : congé supplémentaire non rémunéré de 5 jours ouvrables par tranche de 60 jours ouvrables travaillés pour préparer un examen. ([Ministère du Travail][1])
+
+---
+
+## Procédure / étapes (si applicable)
+
+* **Étape 1 — Déterminer la période de référence**
+
+  * Appliquer la période fixée par accord ; à défaut, **1er juin → 31 mai** (ou règles spécifiques caisses). ([Ministère du Travail][1])
+* **Étape 2 — Calculer les droits acquis**
+
+  * 2,5 j ouvrables/mois de travail effectif (ou assimilé).
+  * En cas d’arrêt maladie/accident non professionnel : 2 j/mois dans la limite 24 j.
+  * Arrondir au supérieur si décimal. ([Ministère du Travail][1])
+* **Étape 3 — Organiser et notifier la prise**
+
+  * Période de prise communiquée **au moins 2 mois** avant ouverture.
+  * Ordre des départs communiqué à chaque salarié **1 mois** avant départ.
+  * Modification des dates : en principe pas moins d’**1 mois** avant, sauf circonstances exceptionnelles (si pas de stipulation plus précise par accord). ([Ministère du Travail][1])
+* **Étape 4 — Indemniser**
+
+  * Calculer l’indemnité selon la solution la plus favorable : **maintien de salaire** ou **règle du 1/10e** (voir section indemnités). ([Ministère du Travail][1])
+* **Étape 5 — En cas d’arrêt maladie/accident empêchant la prise**
+
+  * À la reprise : informer le salarié (dans le mois) du **solde** et de la **date limite** d’utilisation (support à date certaine, ex. bulletin de paie). ([Ministère du Travail][1])
+
+---
+
+## Documents / preuves à demander (si applicable)
+
+* Décompte interne des congés (solde, périodes d’acquisition/prise).
+* Copie/trace des communications : période de prise (J-2 mois), ordre des départs (J-1 mois), modifications. ([Ministère du Travail][1])
+* En cas de report pour maladie/accident : arrêt de travail + preuve de notification à l’employeur + preuve d’information post-reprise (solde + date limite). ([Ministère du Travail][1])
+* En fin de contrat : éléments de paie pour calcul de l’indemnité compensatrice (brut période de référence, primes, avantages…). ([Ministère du Travail][1])
+
+---
+
+## Points de vigilance (important en juridique)
+
+* **Obligation employeur de permettre la prise effective** : l’employeur doit mettre en place les mesures permettant au salarié d’exercer son droit (information, ordre des départs, etc.) ; à défaut, risque de **dommages-intérêts**. ([Ministère du Travail][1])
+* **Interdiction de monétiser en cours de contrat** (principe) : les congés payés doivent être pris et ne sont pas remplacés par une indemnité, sauf exceptions (rupture du contrat, CDD/intérim…). ([Ministère du Travail][1])
+* **Règle des 24 jours ouvrables** : le congé principal ne dépasse pas 24 jours ouvrables d’un bloc (sauf cas), et la 5e semaine se gère séparément. ([Ministère du Travail][1])
+* **Maladie et report** :
+
+  * Report si maladie pendant congé + arrêt notifié. ([Légifrance][2])
+  * Report 15 mois en cas d’impossibilité de prendre (maladie/accident), avec un point de départ lié à l’information de l’employeur. ([Ministère du Travail][1])
+* **Indemnité de congés payés (modes de calcul)** : toujours retenir la méthode la plus favorable ; attention aux éléments de rémunération à intégrer (primes/avantages), et à la valorisation spécifique (80%) des périodes d’absence maladie non professionnelle pour le 1/10e (selon la fiche). ([Ministère du Travail][1])
+
+---
+
+## Exemples
+
+* **Exemple 1 — Acquisition “classique”** : 12 mois travaillés sur la période → 12 × 2,5 = 30 jours ouvrables (arrondi non nécessaire). ([Ministère du Travail][1])
+* **Exemple 2 — 4 mois de maladie non pro** : 4 × 2 = 8 jours (maladie non pro) + 8 × 2,5 = 20 jours (travail) → total 28 jours ouvrables. ([Ministère du Travail][1])
+
+---
+
+## Références
+
+* **Articles / sections (principaux blocs cités dans la fiche Ministère)** :
+
+  * Droit au congé : **L.3141-1 à L.3141-2**, **D.3141-1 à D.3141-2** ([Ministère du Travail][1])
+  * Durée : **L.3141-3 à L.3141-9**, **D.3141-3** ; négociation **L.3141-10** ; supplétif **L.3141-11**, **R.3141-4** ([Ministère du Travail][1])
+  * Prise / période / ordre : **L.3141-12 à L.3141-14**, **D.3141-5 à D.3141-6** ; négociation **L.3141-15** ; supplétif **L.3141-16** ([Ministère du Travail][1])
+  * Fractionnement / report : ordre public **L.3141-17 à L.3141-20** ; négociation **L.3141-21 à L.3141-22** ; supplétif **L.3141-23** ([Ministère du Travail][1])
+  * Indemnité : **L.3141-24 à L.3141-31**, **D.3141-7 à D.3141-8** ; caisses : **L.3141-32 à L.3141-33**, **D.3141-9 à D.3141-37** ([Ministère du Travail][1])
+* **Textes** :
+
+  * **Loi n° 2024-364 du 22 avril 2024** (évolutions acquisition/report en cas de maladie, etc.). ([Ministère du Travail][1])
+  * **Décret n° 2025-161 du 20 février 2025** (don de jours de repos à certains organismes, modalités). ([Légifrance][3])
+* **Jurisprudence mentionnée** : Cass. soc., **10 septembre 2025**, n° **23-22.732** (report des jours de congés coïncidant avec un arrêt maladie notifié). ([Légifrance][2])

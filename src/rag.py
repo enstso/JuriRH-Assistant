@@ -7,6 +7,7 @@ from .llm_client import BaseLLMClient
 from .retrieval import RetrievedChunk
 
 
+
 SYSTEM_PROMPT = (
     "Tu es un assistant juridique RH. "
     "Tu dois répondre uniquement à partir des extraits de documents fournis. "
@@ -15,7 +16,6 @@ SYSTEM_PROMPT = (
     "Tu cites tes sources sous la forme [doc_id]. "
     "Tu ne donnes pas de conseil juridique définitif; tu proposes une formulation prudente."
 )
-
 
 def build_context(chunks: List[RetrievedChunk]) -> str:
     parts = []

@@ -1,15 +1,16 @@
 from __future__ import annotations
 
+from functools import lru_cache
+from typing import Any, Dict
+
 from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
-from typing import Any, Dict, Optional
 
 from .config import load_config
 from .llm_client import make_llm
-from .retrieval import HybridRetriever
 from .rag import ask_rag
-from fastapi.middleware.cors import CORSMiddleware
-
+from .retrieval import HybridRetriever
 
 app = FastAPI(title="Assistant juridique RH (RAG) — OpenSource")
 
@@ -21,9 +22,27 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+
 class AskRequest(BaseModel):
     question: str = Field(..., min_length=3)
     filters: Dict[str, Any] = Field(default_factory=dict)
+
+
+@lru_cache(maxsize=1)
+def get_cfg() -> dict:
+    return load_config("config.yaml")  # <-- dict
+
+@lru_cache(maxsize=1)
+def get_llm():
+    cfg = get_cfg()
+    return make_llm(cfg)
+
+@lru_cache(maxsize=1)
+def get_retriever() -> HybridRetriever:
+    cfg = get_cfg()
+    idx_dir = cfg.get("paths", {}).get("index_dir", "data/index")
+    emb_name = cfg.get("embeddings", {}).get("model_name", "intfloat/multilingual-e5-small")
+    return HybridRetriever(idx_dir, emb_name)
 
 
 @app.get("/health")
@@ -33,17 +52,13 @@ def health() -> Dict[str, str]:
 
 @app.post("/ask")
 def ask(req: AskRequest) -> Dict[str, Any]:
-    cfg = load_config("config.yaml")
-    llm = make_llm(cfg)
+    cfg = get_cfg()
+    llm = get_llm()
+    retriever = get_retriever()
 
-    paths = cfg.get("paths", {})
-    idx_dir = paths.get("index_dir", "data/index")
-
-    emb = cfg.get("embeddings", {})
     retr_cfg = cfg.get("retrieval", {})
     sec = cfg.get("security", {})
-
-    retriever = HybridRetriever(index_dir=idx_dir, emb_model_name=emb.get("model_name", "intfloat/multilingual-e5-small"))
+    llm_cfg = cfg.get("llm", {})
 
     chunks = retriever.search(
         query=req.question,
@@ -58,9 +73,8 @@ def ask(req: AskRequest) -> Dict[str, Any]:
         llm=llm,
         question=req.question,
         chunks=chunks,
-        temperature=float(cfg.get("llm", {}).get("temperature", 0.2)),
-        max_tokens=int(cfg.get("llm", {}).get("max_tokens", 700)),
+        temperature=float(llm_cfg.get("temperature", 0.2)),
+        max_tokens=int(llm_cfg.get("max_tokens", 700)),
         refuse_if_no_context=bool(sec.get("refuse_if_no_context", True)),
     )
-
     return out

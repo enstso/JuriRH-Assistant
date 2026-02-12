@@ -1,0 +1,114 @@
+# Date de préparation: 2026-02-11
+
+**Titre:** Télétravail (mise en place, frais, santé-sécurité, accident du travail)
+**Doc_ID:** teletravail
+**Pays:** FR
+**Source:** Service-Public.fr – « Télétravail dans le secteur privé » (DILA – Premier ministre) ([Service Public][1])
+**URL:** [https://www.service-public.gouv.fr/particuliers/vosdroits/F13851](https://www.service-public.gouv.fr/particuliers/vosdroits/F13851) ([Service Public][1])
+**Date de consultation:** 2026-02-11
+**Version/Date du texte:** Vérifié le 28 février 2025 ([Service Public][1])
+**Périmètre:** Salariés du secteur privé (CDI/CDD, temps plein/temps partiel). Modalités précisées par accord collectif, charte employeur ou accord individuel. Consultation du CSE dans certaines entreprises. ([Service Public][1])
+**Mots-clés:** télétravail, avenant, charte, frais, santé-sécurité, accident du travail, droit à la déconnexion
+
+---
+
+## Contexte (optionnel)
+
+* Le télétravail est une organisation où un travail pouvant être réalisé dans les locaux est effectué hors de ceux-ci, avec l’usage des outils numériques, sur une base **volontaire**. ([Service Public][1])
+* La mise en place se fait en principe via **accord collectif** ou **charte** ; à défaut, par accord entre l’employeur et le salarié (formalisation “par tout moyen”, écrit recommandé). ([Service Public][1])
+* **En circonstances exceptionnelles** (ex. menace d’épidémie) ou **force majeure**, le télétravail peut être **imposé** sans l’accord du salarié. ([Service Public][1])
+
+---
+
+## Définitions (optionnel)
+
+* **Télétravail** : travail effectué hors des locaux de l’employeur, volontaire, avec les technologies de l’information et de la communication. ([Service Public][1])
+* **Accident du travail en télétravail** : l’accident survenu sur le lieu de télétravail, pendant l’activité professionnelle, est **présumé** être un accident du travail. ([Légifrance][2])
+
+---
+
+## Règles principales (à remplir)
+
+1. **Mise en place (accord/charte/accord individuel)**
+
+   * Télétravail mis en place par **accord collectif** ou **charte** de l’employeur ; à défaut, accord employeur–salarié possible à tout moment. ([Service Public][1])
+   * L’accord/charte doit notamment préciser : conditions de passage/retour, modalités d’acceptation, contrôle du temps ou régulation de la charge, plages horaires de contact, accès des travailleurs handicapés, salariées enceintes, salariés aidants, etc. ([Légifrance][2])
+
+2. **Droits / obligations (équivalence avec les salariés sur site)**
+
+   * Le télétravailleur a les **mêmes droits** individuels et collectifs (formation, vie privée, santé-sécurité, avantages…). ([Service Public][1])
+   * L’employeur doit notamment : fournir/installer/entretenir les équipements si télétravail à domicile (sous conditions), protéger les données, informer des restrictions d’usage des outils, réguler la charge et organiser un **entretien annuel** portant notamment sur conditions d’activité et charge de travail. ([Service Public][1])
+
+3. **Frais**
+
+   * L’employeur doit prendre en charge les **frais engagés** par le salarié pour l’exécution du contrat, y compris ceux occasionnés par le télétravail : remboursement au réel (justificatifs) ou indemnité forfaitaire. ([Service Public][1])
+   * La prise en charge des abonnements de transport domicile–travail reste de **50 %** (règles habituelles), même si télétravail 1–2 jours/semaine. ([Service Public][1])
+
+---
+
+## Exceptions / cas particuliers
+
+* **Imposition temporaire** du télétravail : circonstances exceptionnelles / force majeure. ([Service Public][1])
+* **Refus du salarié** : le refus de passer en télétravail n’est pas un motif de rupture du contrat. ([Service Public][1])
+* **Refus de l’employeur** :
+
+  * si accord/charte et poste éligible : l’employeur doit **motiver** son refus ;
+  * en l’absence d’accord/charte : l’employeur peut refuser sans obligation générale de motiver (mais motivation requise notamment pour travailleur handicapé / salarié aidant). ([Service Public][1])
+* **CSE** : dans les entreprises de plus de 50 salariés, le CSE (s’il existe) doit être consulté avant la mise en place du télétravail. ([Service Public][1])
+* **Accident du travail** : présomption d’accident du travail si l’accident survient sur le lieu de télétravail pendant l’activité professionnelle. ([Légifrance][2])
+
+---
+
+## Procédure / étapes (si applicable)
+
+* **Étape 1 : Identifier le cadre**
+
+  * Accord collectif / charte existante ? Sinon, organiser un accord individuel (clause contrat / avenant / écrit recommandé). ([Service Public][1])
+* **Étape 2 : Définir les paramètres opérationnels**
+
+  * Lieux autorisés, fréquence (régulier/occasionnel), plages horaires de contact, modalités de contrôle du temps / régulation charge, règles de retour sur site. ([Service Public][1])
+* **Étape 3 : Matériel, sécurité, données, frais**
+
+  * Équipements (fourniture/maintenance), règles d’usage des outils, protection des données, modalités de prise en charge des frais (réel/forfait + justificatifs si réel). ([Service Public][1])
+* **Étape 4 : Suivi**
+
+  * Organiser l’entretien annuel (conditions d’activité / charge) et ajuster si besoin. ([Service Public][1])
+
+---
+
+## Documents / preuves à demander (si applicable)
+
+* Accord collectif ou charte télétravail, ou accord individuel (avenant/clause/e-mail daté). ([Service Public][1])
+* Preuve de consultation du CSE (si >50 et CSE existant). ([Service Public][1])
+* Inventaire/remise du matériel, consignes d’usage des outils, règles de sécurité/SSI, information sur restrictions & sanctions. ([Service Public][1])
+* Notes de frais / factures (si remboursement au réel) ou politique de forfait. ([Service Public][1])
+* Compte rendu/trace de l’entretien annuel (conditions et charge). ([Service Public][1])
+* En cas d’accident : déclaration interne + éléments factuels (lieu, heure, activité), documents médicaux (selon process AT). (La présomption légale est posée par le Code du travail.) ([Légifrance][2])
+
+---
+
+## Points de vigilance (important en juridique)
+
+* **Volontariat / formalisme** : privilégier un écrit (accord/charte/avenant) pour limiter les litiges. ([Service Public][1])
+* **Charge de travail & durée du travail** : l’employeur doit veiller à une charge équivalente et compatible avec les règles de repos/durée du travail, et mettre en place un suivi (dont entretien annuel). ([Service Public][1])
+* **Santé-sécurité** : obligation générale de prévention et de protection de la santé physique et mentale des travailleurs (s’applique aussi en télétravail). ([Légifrance][3])
+* **Accident du travail** : la présomption joue “lieu + temps de travail” : bien cadrer lieux autorisés et plages horaires, et documenter l’organisation. ([Légifrance][2])
+* **Droit à la déconnexion** : la négociation QVCT doit traiter des modalités d’exercice du droit à la déconnexion et des dispositifs de régulation des outils numériques ; à défaut d’accord, charte après avis du CSE. ([Légifrance][4])
+
+---
+
+## Exemples
+
+* **Exemple 1 (mise en place)** : entreprise adopte une charte précisant 2 jours/semaine, lieux autorisés (domicile/télécentre), plages de contact 9h–12h / 14h–18h, modalités de contrôle du temps et conditions de retour sur site. ([Service Public][1])
+* **Exemple 2 (accident)** : chute au domicile pendant une visioconférence sur le créneau de travail : présomption d’accident du travail (à instruire selon règles AT). ([Légifrance][2])
+
+---
+
+## Références
+
+* **Article(s) / section(s):**
+
+  * Télétravail (définition + contenu accord/charte + présomption AT en télétravail) : **Code du travail, art. L1222-9** ([Légifrance][2])
+  * Section Télétravail : **Code du travail, articles L1222-9 à L1222-11** ([Légifrance][5])
+  * Obligation générale de sécurité : **Code du travail, art. L4121-1** ([Légifrance][3])
+  * Droit à la déconnexion (négociation QVCT / charte à défaut) : **Code du travail, art. L2242-17** ([Légifrance][4])

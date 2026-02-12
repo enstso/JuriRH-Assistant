@@ -1,0 +1,92 @@
+# Date de préparation: 2026-02-11
+
+**Titre:** RGPD & données RH (accès, conservation, sécurité, droits)
+**Doc_ID:** rgpd_donnees_rh
+**Pays:** FR
+**Source:** CNIL ; Entreprendre.Service-Public.fr ; EUR-Lex (RGPD)
+**URL:**
+
+* [https://www.cnil.fr/fr/la-gestion-des-ressources-humaines](https://www.cnil.fr/fr/la-gestion-des-ressources-humaines) ([CNIL][1])
+* [https://entreprendre.service-public.gouv.fr/vosdroits/F24270](https://entreprendre.service-public.gouv.fr/vosdroits/F24270) ([Service Public Entreprendre][2])
+* [https://eur-lex.europa.eu/eli/reg/2016/679/oj?locale=fr](https://eur-lex.europa.eu/eli/reg/2016/679/oj?locale=fr) ([EUR-Lex][3])
+  **Date de consultation:** 2026-02-11
+  **Version/Date du texte:** RGPD (Règlement (UE) 2016/679) ; pages web selon mises à jour indiquées sur les sites ([CNIL][1])
+  **Périmètre:** Employeurs privés et publics (traitements RH : recrutement, gestion administrative, paie, carrière, évaluations, santé au travail, disciplinaire, accès SI, etc.) ([CNIL][1])
+  **Mots-clés:** RGPD, données personnelles, droit d'accès, conservation, sécurité, registre, minimisation
+
+## Contexte (optionnel)
+
+* Les traitements RH impliquent de nombreuses données personnelles (identité, coordonnées, paie, performance, absences, parfois données sensibles). Les employeurs doivent **informer**, **sécuriser**, **limiter** et **documenter** leurs traitements, et permettre l’exercice des droits. ([CNIL][1])
+* Le RGPD impose des **principes** (finalité, minimisation, limitation de conservation, sécurité, etc.) et des **obligations de gouvernance** (registre, sous-traitance, sécurité). ([Service Public Entreprendre][2])
+
+## Définitions (optionnel)
+
+* **Données personnelles** : toute information se rapportant à une personne identifiée/identifiable (ex : matricule, email pro nominatif, évaluations, historique d’absences…). ([Service Public Entreprendre][2])
+* **Responsable de traitement** : l’entité qui détermine les finalités et moyens (souvent l’employeur). ([Service Public Entreprendre][2])
+* **Sous-traitant** : prestataire qui traite des données pour le compte de l’employeur (paie, SIRH, ATS…). ([Service Public Entreprendre][2])
+* **Registre des activités** : document listant les traitements (finalités, catégories de données, destinataires, durées, sécurité…). ([EUR-Lex][3])
+
+## Règles principales (à remplir)
+
+1. **Respecter les principes RGPD dans les traitements RH**
+
+   * Données traitées de manière **licite, loyale, transparente** ; finalités déterminées ; **minimisation** ; exactitude ; **limitation de conservation** ; **intégrité/confidentialité** ; et capacité à démontrer la conformité (“accountability”). ([EUR-Lex][3])
+
+2. **Informer les salariés/candidats et permettre l’exercice des droits**
+
+   * Mettre à disposition une information claire (notice RH, mentions de confidentialité, politique SIRH) et organiser la réponse aux demandes : accès aux données, rectification, effacement selon cas, limitation/opposition selon base légale, etc. Les obligations d’information et de droits figurent parmi les obligations générales rappelées par les fiches officielles. ([Service Public Entreprendre][2])
+   * Le **droit d’accès** implique notamment de pouvoir fournir copie/infos sur les finalités, catégories, destinataires, durées, etc. ([EUR-Lex][3])
+
+3. **Mettre en place la gouvernance et la sécurité**
+
+   * **Tenir un registre** des activités de traitement (et des sous-traitants, le cas échéant). ([EUR-Lex][3])
+   * **Sécuriser** les données par des mesures techniques/organisationnelles adaptées au risque (ex : contrôle d’accès, chiffrement, confidentialité, sauvegardes, tests). ([EUR-Lex][3])
+   * Encadrer la **sous-traitance** (contrats, instructions, sécurité, audits) et, si besoin, organiser DPO/analyses d’impact/transferts hors UE. ([Service Public Entreprendre][2])
+
+## Exceptions / cas particuliers
+
+* **Données sensibles** (ex : santé) et données à risque : vigilance renforcée (accès restreints, justification stricte, durées adaptées, sécurité plus forte). ([EUR-Lex][3])
+* **Petites structures (<250 salariés)** : l’obligation de registre peut être aménagée, mais elle reste requise dans de nombreux cas (traitements non occasionnels, données sensibles, risques). ([EUR-Lex][3])
+* **Demandes d’accès** : certaines informations peuvent être limitées au cas par cas (ex : atteinte aux droits d’autrui, secret des affaires, etc.). À cadrer avec le DPO/juridique (analyse concrète nécessaire). (Principe général RGPD ; à appliquer prudemment.) ([Service Public Entreprendre][2])
+
+## Procédure / étapes (si applicable)
+
+* **Étape 1 — Cartographier** : liste des traitements RH (recrutement, paie, évaluations, badgeuse, logs, vidéosurveillance si concernée, etc.). ([EUR-Lex][3])
+* **Étape 2 — Registre** : remplir/tenir à jour le registre (finalités, bases, données, destinataires, durées, sécurité). ([EUR-Lex][3])
+* **Étape 3 — Information** : diffuser les notices (candidats + salariés) et intégrer des mentions dans les outils (ATS/SIRH). ([Service Public Entreprendre][2])
+* **Étape 4 — Accès & droits** : mettre un canal (email/formulaire), un circuit interne (RH + DPO + IT), et tracer les réponses. ([Service Public Entreprendre][2])
+* **Étape 5 — Sécurité** : revue des habilitations, MFA si possible, gestion des comptes, sauvegardes, durcissement postes/serveurs, procédures de sortie (offboarding). ([EUR-Lex][3])
+* **Étape 6 — Prestataires** : vérifier les clauses RGPD, mesures de sécurité, lieux d’hébergement, sous-traitants ultérieurs, transferts hors UE le cas échéant. ([Service Public Entreprendre][2])
+* **Étape 7 — Conservation** : définir une politique de durées et purges/archivage (données candidats, dossiers du personnel, logs, évaluations…). (S’appuyer sur référentiels/bonnes pratiques CNIL et obligations légales métier.) ([CNIL][1])
+* **Étape 8 — Incidents** : procédure de gestion des violations (qualification, mesures correctives, notification si nécessaire). ([Service Public Entreprendre][2])
+
+## Documents / preuves à demander (si applicable)
+
+* Notice d’information salariés/candidats (privacy notice) + preuves de diffusion. ([Service Public Entreprendre][2])
+* Registre des traitements (version datée). ([EUR-Lex][3])
+* Contrats/avenants RGPD avec sous-traitants (paie, SIRH, ATS, médecine du travail, etc.). ([Service Public Entreprendre][2])
+* Politique de conservation/suppression (durées, purge, archivage). ([EUR-Lex][3])
+* PSSI / mesures de sécurité (contrôles d’accès, journalisation, chiffrement, sauvegardes, PRA). ([EUR-Lex][3])
+* Registre des demandes d’exercice de droits et réponses (traçabilité). ([Service Public Entreprendre][2])
+
+## Points de vigilance (important en juridique)
+
+* **Minimisation** : éviter les données “au cas où” (ex : informations familiales non nécessaires, copies de pièces sans base). ([EUR-Lex][3])
+* **Accès interne** : limiter strictement par rôle (RH, managers, paie, IT) + traçabilité. ([EUR-Lex][3])
+* **Évaluations / “people analytics”** : attention à la proportionnalité, à l’information préalable, et au risque de décisions automatisées/notations. ([CNIL][1])
+* **Sous-traitants SIRH/Cloud** : vérifier sécurité, localisation, transferts hors UE, et conditions de sous-traitance. ([Service Public Entreprendre][2])
+* **Durées de conservation** : définir et appliquer (purger réellement, pas seulement “archiver partout”). Principe RGPD + recommandations sectorielles. ([EUR-Lex][3])
+* **Sécurité** : l’article 32 impose des mesures adaptées au risque (chiffrement/pseudonymisation selon besoins, confidentialité, disponibilité, tests). ([EUR-Lex][3])
+
+## Exemples (optionnel)
+
+* Exemple 1 : un salarié demande “toutes les données détenues sur moi” → déclencher le processus “droit d’accès” (collecte RH/paie/IT, vérification identité, réponse structurée, traçabilité). ([Service Public Entreprendre][2])
+* Exemple 2 : changement de prestataire paie → mise à jour du registre + nouveau contrat de sous-traitance + revue des mesures de sécurité + plan de migration et purge de l’ancien. ([EUR-Lex][3])
+
+## Références
+
+* **Article(s) / section(s):**
+
+  * RGPD **Article 5** (principes). ([EUR-Lex][3])
+  * RGPD **Article 30** (registre des activités de traitement). ([EUR-Lex][3])
+  * RGPD **Article 32** (sécurité du traitement). ([EUR-Lex][3])
